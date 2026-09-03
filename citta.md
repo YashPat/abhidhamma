@@ -28,7 +28,7 @@ The alternate total of 121 comes from one move only: each of the eight supramund
 
 ## Akusala Citta — Unwholesome Consciousness
 
-Twelve cittas rooted in greed, hatred, or delusion. Every one of them is accompanied by the four universal unwholesome factors — delusion, shamelessness, moral fearlessness, and restlessness — and every one of them makes kamma.
+Twelve cittas rooted in greed, hatred, or delusion. Every one of them is accompanied by the four universal unwholesome factors — delusion, shamelessness, lack of dread of wrongdoing, and restlessness — and every one of them makes kamma.
 
 ### 1. Lobhamūla citta — Greed-rooted
 
@@ -103,7 +103,7 @@ Three cittas that do a job and leave no kammic trace. Two are the adverting citt
 
 ## Kāmāvacara Sobhana Citta — Beautiful Sense-Sphere Consciousness
 
-Twenty-four cittas, all accompanied by non-greed and non-hatred and by the whole set of beautiful cetasikas. They come as three sets of eight — wholesome, resultant, and functional — and each set of eight is generated the same way, by three binary choices.
+Twenty-four cittas, all accompanied by non-greed and non-hatred and by the nineteen universal beautiful cetasikas. The remaining beautiful factors — the three abstinences, the two illimitables, and wisdom — are occasional, which is what the knowledge distinction below turns on. They come as three sets of eight — wholesome, resultant, and functional — and each set of eight is generated the same way, by three binary choices.
 
 The three choices are: joyful or neutral feeling; accompanied by knowledge (ñāṇa) or not; unprompted or prompted. Knowledge here means the citta is informed by understanding of kamma or of the three characteristics, which is what makes a good act a wise one rather than merely a well-meant one.
 
@@ -167,9 +167,9 @@ Each occurs as wholesome (attained in training), resultant (rebirth in the corre
 
 ## Lokuttara Citta — Supramundane Consciousness
 
-Eight cittas that take Nibbāna as their object. Four are path cittas, which cut off fetters, and four are fruition cittas, which are their immediate result. These are the only cittas whose vipāka follows without any delay at all — path is succeeded by fruition in the very next mind-moment.
+Eight cittas that take Nibbāna as their object. Four are path cittas, which do the work of eradicating fetters, and four are fruition cittas, which are their immediate result. These are the only cittas whose vipāka follows without any delay at all — path is succeeded by fruition in the very next mind-moment.
 
-The asymmetry between the two is the point. A path citta arises exactly once in a lifetime for each stage, does its work of eradication, and never recurs. The corresponding fruition citta can be re-entered indefinitely as an abiding.
+The asymmetry between the two is the point. A path citta arises exactly once ever for each stage, does its work of eradication, and never recurs in any subsequent life. The corresponding fruition citta can be re-entered indefinitely as an abiding.
 
 | Path | Fetters eradicated |
 | --- | --- |
