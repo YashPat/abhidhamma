@@ -32,186 +32,186 @@ The turning of the mind toward an object, the rudder that steers consciousness t
 
 ## Occasional Mental Factors
 
-### 8. Vitakka — Initial thought
+### 1. Vitakka — Initial thought
 
 The mind's initial movement onto its object, likened to a bee flying toward a flower. It applies and directs consciousness rather than thinking discursively about it, though ordinary thinking depends on it. In jhāna it is deliberately cultivated to fix the mind on the meditation object.
 
-### 9. Vicāra — Sustained thought
+### 2. Vicāra — Sustained thought
 
 The continued examination of an object once the mind has arrived there, like the bee circling and hovering over the flower. Where vitakka strikes, vicāra keeps rubbing. It sustains contact with the object long enough for the mind to settle into it.
 
-### 10. Adhimokkha — Determination
+### 3. Adhimokkha — Determination
 
 The mind's decisiveness — committing to an object rather than wavering between alternatives. It is compared to a stone pillar, unshakeable once set. Its direct opposite is doubt, and where adhimokkha is present, doubt cannot be.
 
-### 11. Viriya — Energy
+### 4. Viriya — Energy
 
 The mustering of effort and endurance in support of what the mind is doing. Not raw force but the willingness to keep going, like fresh troops reinforcing an army. It can serve wholesome or unwholesome aims, which is why it must be paired with right view.
 
-### 12. Pīti — Rapture
+### 5. Pīti — Rapture
 
 The delight or refreshment the mind takes in its object, ranging from a light thrill to a flood of joy. It is interest in and gladness about the object, distinct from the pleasant feeling (sukha) that accompanies it. In meditation, pīti arises as the hindrances subside.
 
-### 13. Chanda — Wish
+### 6. Chanda — Wish
 
 The simple desire to act — wanting to reach or do something. Unlike greed, chanda is ethically neutral: it can drive craving or the aspiration for liberation. As "desire to act," it is the first of the four bases of spiritual power (iddhipāda).
 
 ## Unwholesome Mental Factors
 
-### 14. Moha — Delusion
+### 1. Moha — Delusion
 
 Mental blindness — not seeing things as they actually are, and specifically not seeing the Four Noble Truths. It is the root of all unwholesome states and the mind's most fundamental affliction. Greed and hatred can only operate because delusion is already obscuring the view.
 
-### 15. Ahirika — Shamelessness
+### 2. Ahirika — Shamelessness
 
 The absence of any inner recoil from wrongdoing — no sense of personal dignity that would make a bad act feel beneath you. Like a village pig, it does not shrink from what is foul. It is present in every unwholesome state of mind.
 
-### 16. Anottappa — Moral fearlessness
+### 3. Anottappa — Moral fearlessness
 
 Recklessness about the consequences of wrongdoing, whether blame from others or the ripening of kamma. It is the lack of caution that lets a person grasp a hot coal. Together with shamelessness, it is what makes unwholesome action possible.
 
-### 17. Uddhacca — Restlessness
+### 4. Uddhacca — Restlessness
 
 The mind's agitation and disquiet, scattered like ash struck by a stone. It cannot settle steadily on any object. Along with delusion and the two preceding factors, it is present in every unwholesome consciousness.
 
-### 18. Lobha — Greed
+### 5. Lobha — Greed
 
 Grasping, clinging, and wanting to hold on — from mild attraction to full-blown craving. It sticks to its object like meat to a hot pan. As one of the three unwholesome roots, it drives most of the mind's pursuit of pleasure and acquisition.
 
-### 19. Diṭṭhi — Wrong view
+### 6. Diṭṭhi — Wrong view
 
 Seeing things wrongly and being convinced of it — most fundamentally, taking what is impermanent and not-self to be a lasting self. It is worse than plain ignorance because it interprets confidently. Wrong view is abandoned entirely at the first stage of awakening.
 
-### 20. Māna — Conceit
+### 7. Māna — Conceit
 
 The impulse to measure oneself against others — as better, equal, or worse. All three are conceit, since each depends on the assumption of a self to be ranked. It has the nature of self-exaltation and is likened to a raised banner.
 
-### 21. Dosa — Hatred
+### 8. Dosa — Hatred
 
 Aversion in all its forms: irritation, anger, resentment, cruelty, and fear. Its nature is to strike against or reject its object, like a struck viper. As one of the three roots, it is the source of all mental suffering that comes from pushing experience away.
 
-### 22. Issā — Envy
+### 9. Issā — Envy
 
 Resentment at another's success, gain, or good qualities — being unable to bear their good fortune. It arises with hatred and always takes another's advantage as its object. It shrinks the mind and makes appreciative joy impossible.
 
-### 23. Macchariya — Stinginess
+### 10. Macchariya — Stinginess
 
 Withholding — concealing one's possessions, position, or knowledge rather than sharing them. Where envy grudges what others have, stinginess grudges what others might get from oneself. It too is rooted in aversion, a mental contraction around "mine."
 
-### 24. Kukkucca — Worry, remorse
+### 11. Kukkucca — Worry, remorse
 
 Fretting over what has been done wrongly and what should have been done but wasn't. It is regret that turns to agitation, gnawing like a slave who cannot escape his master. Remorse that leads to correction is useful; the churning that follows is not.
 
-### 25. Thīna — Sloth, laziness
+### 12. Thīna — Sloth, laziness
 
 The sluggishness and shrinking back of consciousness itself — a loss of drive and readiness. It is the mind become limp, like a bat hanging on a tree. Together with torpor it forms one of the five hindrances to concentration.
 
-### 26. Middha — Torpor, tiredness
+### 13. Middha — Torpor, tiredness
 
 The dullness and heaviness of the accompanying mental factors, the drowsy sinking that follows on sloth. Thīna afflicts the mind, middha its retinue. Both remove the wieldiness needed for meditation and are removed by energy roused with wise attention.
 
-### 27. Vicikicchā — Sceptical doubt
+### 14. Vicikicchā — Sceptical doubt
 
 Wavering that cannot commit — inability to decide about the Buddha, the teaching, the training, or the practice one has undertaken. It is not honest inquiry but paralysis, like a traveller stalled at a fork in the road. It blocks progress by preventing wholehearted engagement.
 
 ## Beautiful Mental Factors
 
-### 28. Saddhā — Confidence
+### 1. Saddhā — Confidence
 
 Trust or faith placed in what is genuinely worthy of it — the Buddha, Dhamma, and Sangha. It clarifies the mind the way a water-purifying gem settles sediment. This is not blind belief but a confidence that opens the door to investigation and practice.
 
-### 29. Sati — Mindfulness
+### 2. Sati — Mindfulness
 
 Remembering to stay present with what is happening, without drifting or floating away from the object. Its characteristic is non-superficiality — the mind sinks into experience rather than skimming it. It also means recollecting what is wholesome and keeping it in view.
 
-### 30. Hiri — Moral shame
+### 3. Hiri — Moral shame
 
 An inner recoil from doing wrong, grounded in self-respect and one's own sense of dignity. It says: this is beneath me. With ottappa, it is called a "guardian of the world," because these two restrain conduct when nothing external does.
 
-### 31. Ottappa — Moral fear
+### 4. Ottappa — Moral fear
 
 A healthy dread of the consequences of wrongdoing — the harm caused, the blame incurred, the kamma made. Where hiri looks inward to self-respect, ottappa looks outward to consequence. Both arise in every wholesome mind and give conscience its two faces.
 
-### 32. Alobha — Non-greed
+### 5. Alobha — Non-greed
 
 Openhandedness and non-attachment — the mind not sticking to its object, like a water drop on a lotus leaf. It is not indifference but freedom from grasping, expressing itself as generosity and renunciation. It is the wholesome root opposing greed.
 
-### 33. Adosa — Non-hatred
+### 6. Adosa — Non-hatred
 
 The absence of ill will, appearing most fully as loving-kindness (mettā). It is a mind at ease with what it meets rather than striking against it, cool like sandalwood. As a wholesome root, it undercuts anger, resentment, and cruelty at their source.
 
-### 34. Tatramajjhattatā — Equanimity
+### 7. Tatramajjhattatā — Equanimity
 
 Balance — literally "there in the middle" — holding the mind and its factors in even proportion, without excess or deficiency. It is not cold detachment but the impartiality of a charioteer with well-trained horses. It matures into the equanimity of the higher jhānas and of insight.
 
-### 35. Kāyapassaddhi — Tranquillity (of mental factors)
+### 8. Kāyapassaddhi — Tranquillity (of mental factors)
 
 The quieting of the mental factors, the stilling of their disturbance and heat. "Kāya" here means the body of mental factors, not the physical body. It is the calm that opposes restlessness and remorse.
 
-### 36. Cittapassaddhi — Tranquillity (of consciousness)
+### 9. Cittapassaddhi — Tranquillity (of consciousness)
 
 The same quieting applied to consciousness itself, so the knowing mind rests undisturbed. This pair works like shade and coolness in a hot place. Together they make the mind pleasant to abide in, which is a condition for concentration.
 
-### 37. Kāyalahutā — Lightness (of mental factors)
+### 10. Kāyalahutā — Lightness (of mental factors)
 
 The buoyancy of the mental factors, the lifting of their heaviness. It removes the sluggishness of sloth and torpor. The factors become quick and responsive rather than dull and slow.
 
-### 38. Cittalahutā — Lightness (of consciousness)
+### 11. Cittalahutā — Lightness (of consciousness)
 
 The same buoyancy in consciousness itself, which becomes agile and unburdened. Like setting down a heavy load, the mind moves freely. This pair directly counters the mind's tendency to sink.
 
-### 39. Kāyamudutā — Pliancy (of mental factors)
+### 12. Kāyamudutā — Pliancy (of mental factors)
 
 The softness and malleability of the mental factors, free of rigidity. Like well-worked leather, they yield rather than resist. It removes the stiffness caused by wrong view and conceit.
 
-### 40. Cittamudutā — Pliancy (of consciousness)
+### 13. Cittamudutā — Pliancy (of consciousness)
 
 The same softness in consciousness, so the mind can be shaped to whatever wholesome purpose it takes up. A hardened mind cannot learn; a pliant one can. This pair opposes the stubbornness that keeps views and self-images fixed.
 
-### 41. Kāyakammaññatā — Adaptability (of mental factors)
+### 14. Kāyakammaññatā — Adaptability (of mental factors)
 
 Workability — the mental factors being fit for the job at hand, like gold properly refined for the smith. It removes whatever makes them unserviceable, especially the hindrances. Faith and confidence in the object grow along with it.
 
-### 42. Cittakammaññatā — Adaptability (of consciousness)
+### 15. Cittakammaññatā — Adaptability (of consciousness)
 
 The same workability in consciousness itself, which can now be applied to a meditation object and stay there usefully. An unworkable mind resists every instruction given to it. This pair makes the mind an instrument rather than an obstacle.
 
-### 43. Kāyapāguññatā — Proficiency (of mental factors)
+### 16. Kāyapāguññatā — Proficiency (of mental factors)
 
 The healthiness and competence of the mental factors — they perform their functions well, without weakness or disease. It removes the faithlessness and hesitancy that make the mind falter. Skill here comes from repeated wholesome practice.
 
-### 44. Cittapāguññatā — Proficiency (of consciousness)
+### 17. Cittapāguññatā — Proficiency (of consciousness)
 
 The same competence in consciousness, which knows its object surely and steadily. Like a craftsman who no longer fumbles, the mind performs with confidence. This pair marks the difference between struggling with practice and being at home in it.
 
-### 45. Kāyujjukatā — Rectitude (of mental factors)
+### 18. Kāyujjukatā — Rectitude (of mental factors)
 
 Straightness — the mental factors being upright, without crookedness, deceit, or hidden agendas. It removes the twist that hypocrisy and craftiness introduce. Honest factors give an honest picture of experience.
 
-### 46. Cittujjukatā — Rectitude (of consciousness)
+### 19. Cittujjukatā — Rectitude (of consciousness)
 
 The same straightness in consciousness, which meets its object directly rather than sidelong. A crooked mind cannot see clearly, because it is busy managing appearances. This pair underwrites the honesty that insight requires.
 
-### 47. Sammā vācā — Right speech
+### 20. Sammā vācā — Right speech
 
 The deliberate abstention from false, harsh, divisive, and idle speech. As a mental factor it arises at the moment of restraint, when the opportunity for wrong speech is consciously declined. In the noble path consciousness it is present as a permanent quality, no longer a choice made case by case.
 
-### 48. Sammā kammanta — Right action
+### 21. Sammā kammanta — Right action
 
 Abstention from killing, stealing, and sexual misconduct. Like right speech, it is a distinct factor that arises when one actually refrains, not merely when one holds the intention in general. It is one of the three virtue factors of the Eightfold Path.
 
-### 49. Sammā ājīva — Right livelihood
+### 22. Sammā ājīva — Right livelihood
 
 Abstention from earning a living through harmful means — trading in weapons, poisons, intoxicants, living beings, or deceit. It arises as a mental factor in the moment of turning such gain down. Completing the virtue section of the path, it extends ethics into how one is sustained.
 
-### 50. Karuṇā — Compassion
+### 23. Karuṇā — Compassion
 
 The mind's trembling response to another's suffering and the wish for it to end. Its near enemy is sentimental grief, which shares the pain instead of easing it. As an immeasurable (brahmavihāra), it is extended to all beings without limit.
 
-### 51. Muditā — Sympathetic joy
+### 24. Muditā — Sympathetic joy
 
 Gladness at another's happiness, success, and good fortune. It directly opposes envy, which cannot bear the same news. Harder to cultivate than compassion, it is the antidote to the mind's habit of comparison.
 
-### 52. Paññindriya — Wisdom (faculty)
+### 25. Paññindriya — Wisdom (faculty)
 
 Understanding things as they actually are — impermanent, unsatisfactory, and not-self. Called a faculty because it takes the lead in seeing, as a lamp dispels darkness in a room. This is the factor that uproots delusion, and with it the whole structure of suffering.
