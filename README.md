@@ -9,4 +9,4 @@ Personal reference sheets for Theravāda Abhidhamma.
 | `sampayoga.md` | Association — which factors occur with which cittas |
 | `vithi.md` | Cognitive process — how mind-moments succeed one another |
 
-`AGENTS.md` tells a coding agent how to use these sheets to analyze experience.
+`AGENTS.md` tells a coding agent how to use these sheets to analyze experience. `output.md` gives the shape it writes answers in — substantial ones land as files in `analyses/` rather than as walls of chat.
