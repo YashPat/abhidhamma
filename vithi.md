@@ -43,7 +43,7 @@ The mind turns toward the object at whichever of the five sense doors it struck.
 
 ### 5. Pañca-viññāṇa — Sense consciousness
 
-Seeing, hearing, smelling, tasting, or touching: the bare sensory contact, and the only moment in the entire process where the object is met through a physical faculty. It is a resultant citta, wholesome or unwholesome depending on whether the object is desirable, and it knows nothing beyond the raw datum. All the recognition and reaction that seem to belong to seeing happen later.
+Seeing, hearing, smelling, tasting, or touching: the bare sensory contact, and the only moment in the entire process where the object is met through a physical faculty. It is a resultant citta, wholesome-resultant or unwholesome-resultant depending on whether the object is desirable, and it knows nothing beyond the raw datum. All the recognition and reaction that seem to belong to seeing happen later.
 
 ### 6. Sampaṭicchana — Receiving
 
@@ -51,7 +51,7 @@ The object is taken up and passed inward from the sense consciousness. It is res
 
 ### 7. Santīraṇa — Investigating
 
-The object is examined — its qualities considered, though not yet judged. Still resultant, still kammically inert. This is where the desirability of the object is registered, which is why it alone among the resultants can carry joy.
+The object is examined — its qualities considered, though not yet judged. Still resultant, still kammically inert. This is where the desirability of the object is registered, which is why it alone among the rootless resultants can carry joy — an intensely desirable object gets the joyful variety, a merely desirable one the neutral.
 
 ### 8. Votthapana — Determining
 
@@ -104,7 +104,7 @@ When javana is to reach jhāna, path, or a psychic attainment, the seven ordinar
 | Gotrabhū | Change of lineage |
 | Appanā | Absorption |
 
-Gotrabhū is the pivot: it is the last citta of the sense sphere, and it takes the new object — the counterpart sign for jhāna, or Nibbāna for the path — while still belonging to the old plane. The moment after it, the mind is somewhere it has never been. In a path process, absorption is the path citta, and it is followed immediately by two or three moments of fruition.
+Gotrabhū is the pivot: it is the last citta of the sense sphere, standing at the threshold of a plane it does not itself belong to. The moment after it, the mind is somewhere it has never been. In a path process it also changes object, taking Nibbāna while still being a sense-sphere citta; in a jhāna process there is no such shift, since preparation onward all take the counterpart sign. In a path process, absorption is the path citta, and it is followed immediately by two or three moments of fruition.
 
 ## The Death Process
 
