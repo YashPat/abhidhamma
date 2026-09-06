@@ -22,15 +22,17 @@ Not every question deserves a file. Writing one for "what does māna mean" is fr
 
 When an artifact is written, the chat response is at most four sentences: what happened structurally, what to do, and a link to the file. Use plain English, with no Pāli, citations, tables, or section-by-section recap.
 
+In chat-only answers, give the Pāli first with a plain-English gloss on first use — `dosa` (hatred), for example — then use the Pāli. Cite a relevant sheet with a light pointer the reader can follow.
+
 Artifacts go in `analyses/`, named `YYYY-MM-DD-slug.md`, where the slug is a few words naming the scenario or concept. Never write into the four source sheets.
 
 ## How to Write One
 
 **Write for someone meeting the vocabulary for the first time.** The short version uses ordinary English only. Put the small glossary before the technical explanation so the reader learns each necessary Pāli term before encountering it. In the body, say the plain-language point first and name the Pāli once only when the name helps.
 
-**Keep sources out of the prose.** Verify every structural claim and count against the four sheets, but put citations only in the glossary and the closing reading list. If the source matters to the meaning — for example, the sheets are silent and the claim comes from elsewhere — say that plainly in the body.
+**Keep sources out of the prose.** Verify every structural claim and count against the four sheets, but put artifact citations only in the glossary and the closing reading list. If the source matters to the meaning — for example, the sheets are silent and the claim comes from elsewhere — say that plainly in the body.
 
-**Explain the link, then stop.** State why a structural fact matters in this experience. If wisdom was absent, explain what that changes about the interpretation; do not continue into every other factor that was also absent. If a claim needs several sentences of background before it helps, cut it.
+**Explain the link, then stop.** Do not merely name a structural fact: state why it matters in this experience. If wisdom was absent, explain what that changes about the interpretation; do not continue into every other factor that was also absent. Length is not thoroughness; cut adjacent facts and any claim that needs a long detour before it helps.
 
 **Use plain language for certainty.** Do not use `[partition]`, `[rule]`, `[function]`, or `[inference]` tags. Say instead, where relevant: "this follows automatically because the two classes do not overlap," "the sheets state this specific rule," or "this is an inference from your description."
 
