@@ -1,35 +1,39 @@
 # abhidhamma
 
-Describe a moment of experience. Get back what kind of mind it involved, what could not have been present, and what to practice.
+Bring a real moment you struggled with. Get back what kind of mind it was, what could not have been present, and what to practice.
 
 ## What this is
 
-This is a study aid for Theravāda Abhidhamma. There is no code: the repo contains four reference sheets and instructions for an agent to reason only from them, turning precise structural claims into readable explanations and practices.
+A Theravāda Abhidhamma study aid for lived experience — the curt Slack message, the night of dread before something hard, envy when someone else got the role. There is no code: four reference sheets plus instructions so an agent reasons only from them and turns structural claims into a readable explanation and a practice.
 
-Open this folder in Cursor or another coding agent that can read local files, then talk to it.
+Open this folder in Cursor (or another coding agent that can read local files) and talk to it in plain English. You do not need Pāli first.
 
 ## Try it
 
-- “I got a curt message and spent an hour feeling insulted. Take apart what happened.”
-- “What state structurally excludes envy, and why?”
-- “What should I practice when I keep replaying an argument?”
-- “Teach me the difference between consciousness and a mental factor.”
+Describe the moment the way you would tell a friend. Detail helps: what hit the senses, what story showed up, what you did next.
+
+- “I saw a Slack announce that my coworker got the lead role I wanted, and I spent the afternoon wishing they’d mess it up. Take that apart.”
+- “Last night I couldn’t sleep rehearsing a conversation that hasn’t happened yet. What was going on, and what do I practice?”
+- “I keep replaying an argument and getting angry again hours later. Where did that go wrong, and what should I do instead?”
+- “Teach me why wanting something and resenting someone who has it can’t be the same mind-moment.”
+
+Abstract questions are fine; lived scenarios are the point.
 
 ## What comes back
 
-Here is an abridged, illustrative answer to the first prompt:
+Here is an abridged, illustrative answer to something like the first prompt:
 
-> What arrived was a short message; “they are disrespecting me” was added afterward by the mind. The irritation was aversion, which always carries displeasure—there is no cheerful or neutral version of it. Kindness and aversion cannot occupy the same mind-moment because they belong to classes of consciousness that do not overlap. Before replying, pause and deliberately bring the person to mind with goodwill; this occasions a different kind of mind instead of trying to repair the irritated one.
+> What arrived was a short line on a screen; “they got what I deserved” was added afterward by the mind. The sourness was aversion with envy — resentment aimed at someone else’s success — and the wanting of the role itself was a different mind that grasps rather than strikes. Gladness at their good fortune and resentment of it cannot occupy the same moment. When the next such ping lands, pause one breath before the story loads, then deliberately take the same news as something to wish them well with.
 
 Substantial answers include a short version, a small glossary, the structural walkthrough, and a practice. They are written to `analyses/`, which is ignored by Git so personal material stays local.
 
 ## The sheets
 
-- `citta.md` classifies mind-moments.
-- `cetasika.md` covers the mental factors that accompany them.
-- `sampayoga.md` says which factors can occur together and does most of the work.
-- `vithi.md` covers how mind-moments follow one another in time.
+- `citta.md` — what kind of mind-moment this was
+- `cetasika.md` — what factors made it up
+- `sampayoga.md` — what can and cannot co-arise (most of the interesting answers live here)
+- `vithi.md` — timing and sequence: where the reaction was added
 
 ## Changing how it answers
 
-`AGENTS.md` contains the agent’s instructions, and `output.md` defines the format it writes in. Edit those to change the answers; the four reference sheets are the notes themselves.
+`AGENTS.md` is the agent’s instructions; `output.md` is the format it writes in. Edit those to change the answers. The four reference sheets are the notes themselves — leave them alone unless you are correcting doctrine.
