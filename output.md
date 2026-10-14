@@ -19,6 +19,7 @@ Not every question deserves a file. Writing one for "what does māna mean" is fr
 | "Teach me this" — a concept, a section, a sheet | Artifact, plus a short chat summary |
 | A single factor, count, or definition | Chat only, a few sentences |
 | A follow-up question about an artifact already written | Chat only, unless the answer is long enough to belong in the file, in which case amend the file |
+| Thinking out loud — talk it through, brainstorm | Chat only. Follow the thread. Do not open an artifact. |
 
 When an artifact is written, the chat response is at most four sentences: what happened structurally, what to do, and a link to the file. Use plain English, with no Pāli, citations, tables, or section-by-section recap.
 
@@ -32,7 +33,7 @@ Artifacts go in `analyses/`, named `YYYY-MM-DD-slug.md`, where the slug is a few
 
 **Keep sources out of the prose.** Verify every structural claim and count against the four sheets, but put artifact citations only in the glossary and the closing reading list. If the source matters to the meaning — for example, the sheets are silent and the claim comes from elsewhere — say that plainly in the body.
 
-**Explain the link, then stop.** Do not merely name a structural fact: state why it matters in this experience. If wisdom was absent, explain what that changes about the interpretation; do not continue into every other factor that was also absent. Length is not thoroughness; cut adjacent facts and any claim that needs a long detour before it helps.
+**Explain the link, then stop.** Do not merely name a structural fact: state why it matters in this experience. In the short version, that explanation is one sentence on what the breakdown lets the reader do. Where other people will see the response, the practice names the words and what a bystander registers. If wisdom was absent, explain what that changes about the interpretation; do not continue into every other factor that was also absent. Length is not thoroughness; cut adjacent facts and any claim that needs a long detour before it helps.
 
 **Use plain language for certainty.** Do not use `[partition]`, `[rule]`, `[function]`, or `[inference]` tags. Say instead, where relevant: "this follows automatically because the two classes do not overlap," "the sheets state this specific rule," or "this is an inference from your description."
 
@@ -67,9 +68,12 @@ For a scenario deconstructed, an affliction answered, or both. Keep these five s
 
 Six to eight sentences in plain English, with no Pāli, counts, or citations.
 Say what happened, where the reaction was added, and what the decisive
-counterweight is. End with two or three sentences telling the reader what to
-practice or how to respond. Someone who reads only this section should have
-the full practical answer.
+counterweight is. One sentence says why the breakdown is worth knowing:
+what it lets the reader do that the feeling by itself does not. End with
+the response they can actually carry out. Where other people will see it,
+that ending is the words to say and what a bystander registers, not only
+an instruction to leave both bad reactions. Someone who reads only this
+section should have the full practical answer.
 
 ## Words you'll need
 
@@ -101,13 +105,20 @@ pattern rather than pretending the whole event was one mind-moment.
 ## The practice
 
 Open with one sentence connecting the practice to the leverage point. Do not
-compare it with practices not chosen. Give one to three practices:
+compare it with practices not chosen. Give one to three practices. When
+other people will see the response, or the same person will do this again,
+one practice is the line to say. Add the two bullets below to that practice.
+The wording and the audience effect sit outside the sheets; say so in one
+clause. Leaving both bad reactions is the inner half of that practice. A
+silence the room will read as acceptance is not the move.
 
 ### <Practice in plain words>
 
 - **Object** —
 - **When and how long** —
 - **Instruction** — the actual phrase or noting instruction
+- **What you say** — the sentence, once, when other people will hear it. Omit this bullet when nobody will.
+- **What others see** — what a bystander registers. Omit this bullet when nobody will. One clause that the sheets are silent on the social effect.
 - **What will go wrong** —
 - **Factor this builds** —
 - **Citta this occasions** —
