@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": ["WebFetch(*)"],
+    "deny": [
+      "Read(citta.md)",
+      "Read(cetasika.md)",
+      "Read(sampayoga.md)",
+      "Read(vithi.md)",
+      "Read(AGENTS.md)",
+      "Read(output.md)",
+      "Read(README.md)",
+      "Read(reviews/**)",
+      "Write(citta.md)",
+      "Write(cetasika.md)",
+      "Write(sampayoga.md)",
+      "Write(vithi.md)",
+      "Write(AGENTS.md)",
+      "Write(output.md)",
+      "Write(README.md)",
+      "Write(reviews/workflow.md)",
+      "Write(reviews/queue.tsv)",
+      "Write(reviews/run.py)",
+      "Shell(*)"
+    ]
+  }
+}

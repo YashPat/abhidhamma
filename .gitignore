@@ -1,1 +1,4 @@
 analyses/
+reviews/raw/
+reviews/*.tsv.tmp
+__pycache__/
