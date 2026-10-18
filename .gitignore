@@ -1,1 +1,3 @@
 analyses/
+reviews/raw/
+reviews/*.tsv.tmp
