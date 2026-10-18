@@ -32,11 +32,11 @@ The turning of the mind toward an object, the rudder that steers consciousness t
 
 ## Occasional Mental Factors
 
-### 1. Vitakka — Initial thought
+### 1. Vitakka — Initial application
 
 The mind's initial movement onto its object, likened to a bee flying toward a flower. It applies and directs consciousness rather than thinking discursively about it, though ordinary thinking depends on it. In jhāna it is deliberately cultivated to fix the mind on the meditation object.
 
-### 2. Vicāra — Sustained thought
+### 2. Vicāra — Sustained application
 
 The continued examination of an object once the mind has arrived there, like the bee circling and hovering over the flower. Where vitakka strikes, vicāra keeps rubbing. It sustains contact with the object long enough for the mind to settle into it.
 
@@ -54,7 +54,7 @@ The delight or refreshment the mind takes in its object, ranging from a light th
 
 ### 6. Chanda — Wish
 
-The simple desire to act — wanting to reach or do something. Unlike greed, chanda is ethically neutral: it can drive craving or the aspiration for liberation. As "desire to act," it is the first of the four bases of spiritual power (iddhipāda).
+The simple desire to act — wanting to reach or do something. Unlike greed, chanda is ethically variable: it can be present together with craving, or it can be the aspiration for liberation. As "desire to act," it is the first of the four bases of spiritual power (iddhipāda).
 
 ## Unwholesome Mental Factors
 
