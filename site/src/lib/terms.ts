@@ -113,7 +113,7 @@ export const terms: Term[] = [
 	{
 		id: 'kamma',
 		pali: 'Kamma',
-		gloss: 'The cetasika sheet identifies this with intention',
+		gloss: 'Volition in wholesome and unwholesome cittas, made in the javanas',
 		where: 'Cetasika sheet',
 		...pronounce(
 			[
@@ -297,7 +297,7 @@ export const terms: Term[] = [
 	{
 		id: 'sukha',
 		pali: 'Sukha',
-		gloss: 'Bodily pleasure in one resultant, and a jhāna factor through the fourth',
+		gloss: 'Bodily pleasure in one resultant. As a jhāna factor, mental joy (somanassa), through the fourth jhāna',
 		where: 'Citta sheet',
 		...pronounce(
 			[
@@ -476,7 +476,7 @@ export const terms: Term[] = [
 	{
 		id: 'javana',
 		pali: 'Javana',
-		gloss: 'Impulsion. The moments in a process where kamma is made',
+		gloss: 'Impulsion. Where wholesome and unwholesome cittas make kamma. An arahant’s javanas produce none',
 		where: 'Vīthi sheet',
 		...pronounce(
 			[

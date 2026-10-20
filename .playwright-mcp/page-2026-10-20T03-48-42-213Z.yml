@@ -1,0 +1,2177 @@
+- generic [ref=f18e2]:
+  - link "Skip to content" [ref=f18e3] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f18e4]:
+    - generic [ref=f18e5]:
+      - link "Abhidhamma a mind-moment, taken apart" [ref=f18e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f18e7]: Abhidhamma
+        - generic [ref=f18e8]: a mind-moment, taken apart
+      - button "Menu" [ref=f18e9] [cursor=pointer]
+  - main [ref=f18e10]:
+    - generic [ref=f18e11]:
+      - paragraph [ref=f18e12]: Saying the names
+      - heading "Pronunciation" [level=1] [ref=f18e13]
+      - paragraph [ref=f18e14]: The reference sheets do not record pronunciation. This is a guide to the romanization they use. Lived traditions shift some of the sounds. The syllable line is the one to learn. The voice button is an English approximation.
+      - generic [ref=f18e15]:
+        - heading "How to read the letters" [level=2] [ref=f18e16]
+        - table [ref=f18e17]:
+          - caption [ref=f18e18]: Vowels
+          - rowgroup [ref=f18e19]:
+            - row [ref=f18e20]:
+              - columnheader "Letter" [ref=f18e21]
+              - columnheader "Say" [ref=f18e22]
+              - columnheader "As in" [ref=f18e23]
+          - rowgroup [ref=f18e24]:
+            - row [ref=f18e25]:
+              - cell "a" [ref=f18e26]
+              - cell "uh" [ref=f18e27]
+              - cell "sofa" [ref=f18e28]
+            - row [ref=f18e29]:
+              - cell "ā" [ref=f18e30]
+              - cell "aa" [ref=f18e31]
+              - cell "father" [ref=f18e32]
+            - row [ref=f18e33]:
+              - cell "i" [ref=f18e34]
+              - cell "i" [ref=f18e35]
+              - cell "pin" [ref=f18e36]
+            - row [ref=f18e37]:
+              - cell "ī" [ref=f18e38]
+              - cell "ee" [ref=f18e39]
+              - cell "peak" [ref=f18e40]
+            - row [ref=f18e41]:
+              - cell "u" [ref=f18e42]
+              - cell "u" [ref=f18e43]
+              - cell "put" [ref=f18e44]
+            - row [ref=f18e45]:
+              - cell "ū" [ref=f18e46]
+              - cell "oo" [ref=f18e47]
+              - cell "pool" [ref=f18e48]
+            - row [ref=f18e49]:
+              - cell "e" [ref=f18e50]
+              - cell "ay" [ref=f18e51]
+              - cell "they" [ref=f18e52]
+            - row [ref=f18e53]:
+              - cell "o" [ref=f18e54]
+              - cell "oh" [ref=f18e55]
+              - cell "go" [ref=f18e56]
+        - heading "Consonants and stress" [level=3] [ref=f18e57]
+        - list [ref=f18e58]:
+          - listitem [ref=f18e59]: An apostrophe after a consonant means a puff of air. ph, th, and kh are p, t, and k plus that puff, not f and not the th in think.
+          - listitem [ref=f18e60]: bh, dh, and gh are b, d, and g plus a puff. bh is not v.
+          - listitem [ref=f18e61]: c is the ch in church. ch in the romanization adds the puff.
+          - listitem [ref=f18e62]: ñ is the ny in canyon. ṭ, ḍ, and ṇ are t, d, and n with the tongue curled back.
+          - listitem [ref=f18e63]: A consonant written twice is held for a beat, as in phassa or kamma.
+          - listitem [ref=f18e64]: Stress falls on the last heavy syllable that is not the final one. A syllable is heavy when its vowel is long (ā, ī, ū, e, o) or when it ends in a consonant.
+      - generic [ref=f18e65]:
+        - generic [ref=f18e66]: Search names
+        - searchbox "Search names" [ref=f18e67]
+      - generic [ref=f18e68]:
+        - heading "In every moment" [level=2] [ref=f18e69]
+        - list [ref=f18e70]:
+          - listitem [ref=f18e71]:
+            - link "Phassa Contact" [ref=f18e72] [cursor=pointer]:
+              - /url: /cetasikas/phassa
+              - generic [ref=f18e73]: Phassa
+              - generic [ref=f18e74]: Contact
+            - generic [ref=f18e75]:
+              - generic [ref=f18e76]:
+                - generic [ref=f18e77]:
+                  - generic [ref=f18e78]: Stressed.
+                  - generic [ref=f18e79]: phas
+                  - generic [ref=f18e80]: p'huhss
+                - generic [ref=f18e81]:
+                  - generic [ref=f18e82]: sa
+                  - generic [ref=f18e83]: suh
+              - paragraph [ref=f18e84]: Phonetic /ˈpʰas.sa/
+              - paragraph [ref=f18e85]: ph is a p with a puff of air, not the f in phone.
+              - generic [ref=f18e86]:
+                - button "Hear Phassa" [ref=f18e87] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e88]: Syllables for Phassa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e89]:
+            - link "Vedanā Feeling" [ref=f18e90] [cursor=pointer]:
+              - /url: /cetasikas/vedana
+              - generic [ref=f18e91]: Vedanā
+              - generic [ref=f18e92]: Feeling
+            - generic [ref=f18e93]:
+              - generic [ref=f18e94]:
+                - generic [ref=f18e95]:
+                  - generic [ref=f18e96]: Stressed.
+                  - generic [ref=f18e97]: ve
+                  - generic [ref=f18e98]: vay
+                - generic [ref=f18e99]:
+                  - generic [ref=f18e100]: da
+                  - generic [ref=f18e101]: duh
+                - generic [ref=f18e102]:
+                  - generic [ref=f18e103]: nā
+                  - generic [ref=f18e104]: naa
+              - paragraph [ref=f18e105]: Phonetic /ˈveː.da.naː/
+              - generic [ref=f18e106]:
+                - button "Hear Vedanā" [ref=f18e107] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e108]: Syllables for Vedanā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e109]:
+            - link "Saññā Perception" [ref=f18e110] [cursor=pointer]:
+              - /url: /cetasikas/sanna
+              - generic [ref=f18e111]: Saññā
+              - generic [ref=f18e112]: Perception
+            - generic [ref=f18e113]:
+              - generic [ref=f18e114]:
+                - generic [ref=f18e115]:
+                  - generic [ref=f18e116]: Stressed.
+                  - generic [ref=f18e117]: sañ
+                  - generic [ref=f18e118]: suhny
+                - generic [ref=f18e119]:
+                  - generic [ref=f18e120]: ñā
+                  - generic [ref=f18e121]: nyaa
+              - paragraph [ref=f18e122]: Phonetic /ˈsaɲ.ɲaː/
+              - paragraph [ref=f18e123]: ñ is the ny in canyon. It is held here because it is doubled.
+              - generic [ref=f18e124]:
+                - button "Hear Saññā" [ref=f18e125] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e126]: Syllables for Saññā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e127]:
+            - link "Cetanā Intention" [ref=f18e128] [cursor=pointer]:
+              - /url: /cetasikas/cetana
+              - generic [ref=f18e129]: Cetanā
+              - generic [ref=f18e130]: Intention
+            - generic [ref=f18e131]:
+              - generic [ref=f18e132]:
+                - generic [ref=f18e133]:
+                  - generic [ref=f18e134]: Stressed.
+                  - generic [ref=f18e135]: ce
+                  - generic [ref=f18e136]: chay
+                - generic [ref=f18e137]:
+                  - generic [ref=f18e138]: ta
+                  - generic [ref=f18e139]: tuh
+                - generic [ref=f18e140]:
+                  - generic [ref=f18e141]: nā
+                  - generic [ref=f18e142]: naa
+              - paragraph [ref=f18e143]: Phonetic /ˈt͡ʃeː.ta.naː/
+              - paragraph [ref=f18e144]: c is the ch in church, without an extra puff of air.
+              - generic [ref=f18e145]:
+                - button "Hear Cetanā" [ref=f18e146] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e147]: Syllables for Cetanā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e148]:
+            - link "Ekaggatā One-pointedness" [ref=f18e149] [cursor=pointer]:
+              - /url: /cetasikas/ekaggata
+              - generic [ref=f18e150]: Ekaggatā
+              - generic [ref=f18e151]: One-pointedness
+            - generic [ref=f18e152]:
+              - generic [ref=f18e153]:
+                - generic [ref=f18e154]:
+                  - generic [ref=f18e155]: e
+                  - generic [ref=f18e156]: ay
+                - generic [ref=f18e157]:
+                  - generic [ref=f18e158]: Stressed.
+                  - generic [ref=f18e159]: kag
+                  - generic [ref=f18e160]: kuhg
+                - generic [ref=f18e161]:
+                  - generic [ref=f18e162]: ga
+                  - generic [ref=f18e163]: guh
+                - generic [ref=f18e164]:
+                  - generic [ref=f18e165]: tā
+                  - generic [ref=f18e166]: taa
+              - paragraph [ref=f18e167]: Phonetic /eːˈkag.ga.taː/
+              - generic [ref=f18e168]:
+                - button "Hear Ekaggatā" [ref=f18e169] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e170]: Syllables for Ekaggatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e171]:
+            - link "Jīvitindriya Life faculty" [ref=f18e172] [cursor=pointer]:
+              - /url: /cetasikas/jivitindriya
+              - generic [ref=f18e173]: Jīvitindriya
+              - generic [ref=f18e174]: Life faculty
+            - generic [ref=f18e175]:
+              - generic [ref=f18e176]:
+                - generic [ref=f18e177]:
+                  - generic [ref=f18e178]: jī
+                  - generic [ref=f18e179]: jee
+                - generic [ref=f18e180]:
+                  - generic [ref=f18e181]: vi
+                  - generic [ref=f18e182]: vi
+                - generic [ref=f18e183]:
+                  - generic [ref=f18e184]: Stressed.
+                  - generic [ref=f18e185]: tin
+                  - generic [ref=f18e186]: tin
+                - generic [ref=f18e187]:
+                  - generic [ref=f18e188]: dri
+                  - generic [ref=f18e189]: dri
+                - generic [ref=f18e190]:
+                  - generic [ref=f18e191]: ya
+                  - generic [ref=f18e192]: yuh
+              - paragraph [ref=f18e193]: Phonetic /d͡ʒiː.ʋiˈtin.dri.ja/
+              - generic [ref=f18e194]:
+                - button "Hear Jīvitindriya" [ref=f18e195] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e196]: Syllables for Jīvitindriya. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e197]:
+            - link "Manasikāra Attention" [ref=f18e198] [cursor=pointer]:
+              - /url: /cetasikas/manasikara
+              - generic [ref=f18e199]: Manasikāra
+              - generic [ref=f18e200]: Attention
+            - generic [ref=f18e201]:
+              - generic [ref=f18e202]:
+                - generic [ref=f18e203]:
+                  - generic [ref=f18e204]: ma
+                  - generic [ref=f18e205]: muh
+                - generic [ref=f18e206]:
+                  - generic [ref=f18e207]: na
+                  - generic [ref=f18e208]: nuh
+                - generic [ref=f18e209]:
+                  - generic [ref=f18e210]: si
+                  - generic [ref=f18e211]: si
+                - generic [ref=f18e212]:
+                  - generic [ref=f18e213]: Stressed.
+                  - generic [ref=f18e214]: kā
+                  - generic [ref=f18e215]: kaa
+                - generic [ref=f18e216]:
+                  - generic [ref=f18e217]: ra
+                  - generic [ref=f18e218]: ruh
+              - paragraph [ref=f18e219]: Phonetic /ma.na.siˈkaː.ra/
+              - generic [ref=f18e220]:
+                - button "Hear Manasikāra" [ref=f18e221] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e222]: Syllables for Manasikāra. The darker syllable is stressed. The button uses an English voice and will be approximate.
+      - generic [ref=f18e223]:
+        - heading "In some moments" [level=2] [ref=f18e224]
+        - list [ref=f18e225]:
+          - listitem [ref=f18e226]:
+            - link "Vitakka Initial application" [ref=f18e227] [cursor=pointer]:
+              - /url: /cetasikas/vitakka
+              - generic [ref=f18e228]: Vitakka
+              - generic [ref=f18e229]: Initial application
+            - generic [ref=f18e230]:
+              - generic [ref=f18e231]:
+                - generic [ref=f18e232]:
+                  - generic [ref=f18e233]: vi
+                  - generic [ref=f18e234]: vi
+                - generic [ref=f18e235]:
+                  - generic [ref=f18e236]: Stressed.
+                  - generic [ref=f18e237]: tak
+                  - generic [ref=f18e238]: tuhk
+                - generic [ref=f18e239]:
+                  - generic [ref=f18e240]: ka
+                  - generic [ref=f18e241]: kuh
+              - paragraph [ref=f18e242]: Phonetic /ʋiˈtak.ka/
+              - generic [ref=f18e243]:
+                - button "Hear Vitakka" [ref=f18e244] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e245]: Syllables for Vitakka. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e246]:
+            - link "Vicāra Sustained application" [ref=f18e247] [cursor=pointer]:
+              - /url: /cetasikas/vicara
+              - generic [ref=f18e248]: Vicāra
+              - generic [ref=f18e249]: Sustained application
+            - generic [ref=f18e250]:
+              - generic [ref=f18e251]:
+                - generic [ref=f18e252]:
+                  - generic [ref=f18e253]: vi
+                  - generic [ref=f18e254]: vi
+                - generic [ref=f18e255]:
+                  - generic [ref=f18e256]: Stressed.
+                  - generic [ref=f18e257]: cā
+                  - generic [ref=f18e258]: chaa
+                - generic [ref=f18e259]:
+                  - generic [ref=f18e260]: ra
+                  - generic [ref=f18e261]: ruh
+              - paragraph [ref=f18e262]: Phonetic /ʋiˈt͡ʃaː.ra/
+              - paragraph [ref=f18e263]: c is the ch in church.
+              - generic [ref=f18e264]:
+                - button "Hear Vicāra" [ref=f18e265] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e266]: Syllables for Vicāra. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e267]:
+            - link "Adhimokkha Determination" [ref=f18e268] [cursor=pointer]:
+              - /url: /cetasikas/adhimokkha
+              - generic [ref=f18e269]: Adhimokkha
+              - generic [ref=f18e270]: Determination
+            - generic [ref=f18e271]:
+              - generic [ref=f18e272]:
+                - generic [ref=f18e273]:
+                  - generic [ref=f18e274]: a
+                  - generic [ref=f18e275]: uh
+                - generic [ref=f18e276]:
+                  - generic [ref=f18e277]: dhi
+                  - generic [ref=f18e278]: d'hi
+                - generic [ref=f18e279]:
+                  - generic [ref=f18e280]: Stressed.
+                  - generic [ref=f18e281]: mok
+                  - generic [ref=f18e282]: mok
+                - generic [ref=f18e283]:
+                  - generic [ref=f18e284]: kha
+                  - generic [ref=f18e285]: k'huh
+              - paragraph [ref=f18e286]: Phonetic /a.dʰiˈmok.kʰa/
+              - paragraph [ref=f18e287]: dh is a d with a puff of air. kh is a k with a puff of air.
+              - generic [ref=f18e288]:
+                - button "Hear Adhimokkha" [ref=f18e289] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e290]: Syllables for Adhimokkha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e291]:
+            - link "Viriya Energy" [ref=f18e292] [cursor=pointer]:
+              - /url: /cetasikas/viriya
+              - generic [ref=f18e293]: Viriya
+              - generic [ref=f18e294]: Energy
+            - generic [ref=f18e295]:
+              - generic [ref=f18e296]:
+                - generic [ref=f18e297]:
+                  - generic [ref=f18e298]: Stressed.
+                  - generic [ref=f18e299]: vi
+                  - generic [ref=f18e300]: vi
+                - generic [ref=f18e301]:
+                  - generic [ref=f18e302]: ri
+                  - generic [ref=f18e303]: ri
+                - generic [ref=f18e304]:
+                  - generic [ref=f18e305]: ya
+                  - generic [ref=f18e306]: yuh
+              - paragraph [ref=f18e307]: Phonetic /ˈʋi.ri.ja/
+              - generic [ref=f18e308]:
+                - button "Hear Viriya" [ref=f18e309] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e310]: Syllables for Viriya. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e311]:
+            - link "Pīti Rapture" [ref=f18e312] [cursor=pointer]:
+              - /url: /cetasikas/piti
+              - generic [ref=f18e313]: Pīti
+              - generic [ref=f18e314]: Rapture
+            - generic [ref=f18e315]:
+              - generic [ref=f18e316]:
+                - generic [ref=f18e317]:
+                  - generic [ref=f18e318]: Stressed.
+                  - generic [ref=f18e319]: pī
+                  - generic [ref=f18e320]: pee
+                - generic [ref=f18e321]:
+                  - generic [ref=f18e322]: ti
+                  - generic [ref=f18e323]: ti
+              - paragraph [ref=f18e324]: Phonetic /ˈpiː.ti/
+              - generic [ref=f18e325]:
+                - button "Hear Pīti" [ref=f18e326] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e327]: Syllables for Pīti. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e328]:
+            - link "Chanda Wish" [ref=f18e329] [cursor=pointer]:
+              - /url: /cetasikas/chanda
+              - generic [ref=f18e330]: Chanda
+              - generic [ref=f18e331]: Wish
+            - generic [ref=f18e332]:
+              - generic [ref=f18e333]:
+                - generic [ref=f18e334]:
+                  - generic [ref=f18e335]: Stressed.
+                  - generic [ref=f18e336]: chan
+                  - generic [ref=f18e337]: ch'uhn
+                - generic [ref=f18e338]:
+                  - generic [ref=f18e339]: da
+                  - generic [ref=f18e340]: duh
+              - paragraph [ref=f18e341]: Phonetic /ˈt͡ʃʰan.da/
+              - paragraph [ref=f18e342]: ch is the ch in church plus a puff of air.
+              - generic [ref=f18e343]:
+                - button "Hear Chanda" [ref=f18e344] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e345]: Syllables for Chanda. The darker syllable is stressed. The button uses an English voice and will be approximate.
+      - generic [ref=f18e346]:
+        - heading "Unwholesome" [level=2] [ref=f18e347]
+        - list [ref=f18e348]:
+          - listitem [ref=f18e349]:
+            - link "Moha Delusion" [ref=f18e350] [cursor=pointer]:
+              - /url: /cetasikas/moha
+              - generic [ref=f18e351]: Moha
+              - generic [ref=f18e352]: Delusion
+            - generic [ref=f18e353]:
+              - generic [ref=f18e354]:
+                - generic [ref=f18e355]:
+                  - generic [ref=f18e356]: Stressed.
+                  - generic [ref=f18e357]: mo
+                  - generic [ref=f18e358]: moh
+                - generic [ref=f18e359]:
+                  - generic [ref=f18e360]: ha
+                  - generic [ref=f18e361]: huh
+              - paragraph [ref=f18e362]: Phonetic /ˈmoː.ha/
+              - generic [ref=f18e363]:
+                - button "Hear Moha" [ref=f18e364] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e365]: Syllables for Moha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e366]:
+            - link "Ahirika Shamelessness" [ref=f18e367] [cursor=pointer]:
+              - /url: /cetasikas/ahirika
+              - generic [ref=f18e368]: Ahirika
+              - generic [ref=f18e369]: Shamelessness
+            - generic [ref=f18e370]:
+              - generic [ref=f18e371]:
+                - generic [ref=f18e372]:
+                  - generic [ref=f18e373]: a
+                  - generic [ref=f18e374]: uh
+                - generic [ref=f18e375]:
+                  - generic [ref=f18e376]: Stressed.
+                  - generic [ref=f18e377]: hi
+                  - generic [ref=f18e378]: hi
+                - generic [ref=f18e379]:
+                  - generic [ref=f18e380]: ri
+                  - generic [ref=f18e381]: ri
+                - generic [ref=f18e382]:
+                  - generic [ref=f18e383]: ka
+                  - generic [ref=f18e384]: kuh
+              - paragraph [ref=f18e385]: Phonetic /aˈhi.ri.ka/
+              - generic [ref=f18e386]:
+                - button "Hear Ahirika" [ref=f18e387] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e388]: Syllables for Ahirika. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e389]:
+            - link "Anottappa Moral fearlessness" [ref=f18e390] [cursor=pointer]:
+              - /url: /cetasikas/anottappa
+              - generic [ref=f18e391]: Anottappa
+              - generic [ref=f18e392]: Moral fearlessness
+            - generic [ref=f18e393]:
+              - generic [ref=f18e394]:
+                - generic [ref=f18e395]:
+                  - generic [ref=f18e396]: a
+                  - generic [ref=f18e397]: uh
+                - generic [ref=f18e398]:
+                  - generic [ref=f18e399]: not
+                  - generic [ref=f18e400]: not
+                - generic [ref=f18e401]:
+                  - generic [ref=f18e402]: Stressed.
+                  - generic [ref=f18e403]: tap
+                  - generic [ref=f18e404]: tuhp
+                - generic [ref=f18e405]:
+                  - generic [ref=f18e406]: pa
+                  - generic [ref=f18e407]: puh
+              - paragraph [ref=f18e408]: Phonetic /a.notˈtap.pa/
+              - generic [ref=f18e409]:
+                - button "Hear Anottappa" [ref=f18e410] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e411]: Syllables for Anottappa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e412]:
+            - link "Uddhacca Restlessness" [ref=f18e413] [cursor=pointer]:
+              - /url: /cetasikas/uddhacca
+              - generic [ref=f18e414]: Uddhacca
+              - generic [ref=f18e415]: Restlessness
+            - generic [ref=f18e416]:
+              - generic [ref=f18e417]:
+                - generic [ref=f18e418]:
+                  - generic [ref=f18e419]: u
+                  - generic [ref=f18e420]: u
+                - generic [ref=f18e421]:
+                  - generic [ref=f18e422]: Stressed.
+                  - generic [ref=f18e423]: ddhac
+                  - generic [ref=f18e424]: d'duhch
+                - generic [ref=f18e425]:
+                  - generic [ref=f18e426]: ca
+                  - generic [ref=f18e427]: chuh
+              - paragraph [ref=f18e428]: Phonetic /udˈdʰat.t͡ʃa/
+              - paragraph [ref=f18e429]: dh is a d with a puff of air. The c is ch as in church.
+              - generic [ref=f18e430]:
+                - button "Hear Uddhacca" [ref=f18e431] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e432]: Syllables for Uddhacca. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e433]:
+            - link "Lobha Greed" [ref=f18e434] [cursor=pointer]:
+              - /url: /cetasikas/lobha
+              - generic [ref=f18e435]: Lobha
+              - generic [ref=f18e436]: Greed
+            - generic [ref=f18e437]:
+              - generic [ref=f18e438]:
+                - generic [ref=f18e439]:
+                  - generic [ref=f18e440]: Stressed.
+                  - generic [ref=f18e441]: lo
+                  - generic [ref=f18e442]: loh
+                - generic [ref=f18e443]:
+                  - generic [ref=f18e444]: bha
+                  - generic [ref=f18e445]: b'huh
+              - paragraph [ref=f18e446]: Phonetic /ˈloː.bʰa/
+              - paragraph [ref=f18e447]: bh is a b with a puff of air, not a v.
+              - generic [ref=f18e448]:
+                - button "Hear Lobha" [ref=f18e449] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e450]: Syllables for Lobha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e451]:
+            - link "Diṭṭhi Wrong view" [ref=f18e452] [cursor=pointer]:
+              - /url: /cetasikas/ditthi
+              - generic [ref=f18e453]: Diṭṭhi
+              - generic [ref=f18e454]: Wrong view
+            - generic [ref=f18e455]:
+              - generic [ref=f18e456]:
+                - generic [ref=f18e457]:
+                  - generic [ref=f18e458]: Stressed.
+                  - generic [ref=f18e459]: diṭ
+                  - generic [ref=f18e460]: dit
+                - generic [ref=f18e461]:
+                  - generic [ref=f18e462]: ṭhi
+                  - generic [ref=f18e463]: t'hi
+              - paragraph [ref=f18e464]: Phonetic /ˈdiʈ.ʈʰi/
+              - paragraph [ref=f18e465]: ṭ is a t made with the tongue curled back. ṭh adds a puff of air.
+              - generic [ref=f18e466]:
+                - button "Hear Diṭṭhi" [ref=f18e467] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e468]: Syllables for Diṭṭhi. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e469]:
+            - link "Māna Conceit" [ref=f18e470] [cursor=pointer]:
+              - /url: /cetasikas/mana
+              - generic [ref=f18e471]: Māna
+              - generic [ref=f18e472]: Conceit
+            - generic [ref=f18e473]:
+              - generic [ref=f18e474]:
+                - generic [ref=f18e475]:
+                  - generic [ref=f18e476]: Stressed.
+                  - generic [ref=f18e477]: mā
+                  - generic [ref=f18e478]: maa
+                - generic [ref=f18e479]:
+                  - generic [ref=f18e480]: na
+                  - generic [ref=f18e481]: nuh
+              - paragraph [ref=f18e482]: Phonetic /ˈmaː.na/
+              - generic [ref=f18e483]:
+                - button "Hear Māna" [ref=f18e484] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e485]: Syllables for Māna. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e486]:
+            - link "Dosa Hatred" [ref=f18e487] [cursor=pointer]:
+              - /url: /cetasikas/dosa
+              - generic [ref=f18e488]: Dosa
+              - generic [ref=f18e489]: Hatred
+            - generic [ref=f18e490]:
+              - generic [ref=f18e491]:
+                - generic [ref=f18e492]:
+                  - generic [ref=f18e493]: Stressed.
+                  - generic [ref=f18e494]: do
+                  - generic [ref=f18e495]: doh
+                - generic [ref=f18e496]:
+                  - generic [ref=f18e497]: sa
+                  - generic [ref=f18e498]: suh
+              - paragraph [ref=f18e499]: Phonetic /ˈdoː.sa/
+              - generic [ref=f18e500]:
+                - button "Hear Dosa" [ref=f18e501] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e502]: Syllables for Dosa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e503]:
+            - link "Issā Envy" [ref=f18e504] [cursor=pointer]:
+              - /url: /cetasikas/issa
+              - generic [ref=f18e505]: Issā
+              - generic [ref=f18e506]: Envy
+            - generic [ref=f18e507]:
+              - generic [ref=f18e508]:
+                - generic [ref=f18e509]:
+                  - generic [ref=f18e510]: Stressed.
+                  - generic [ref=f18e511]: is
+                  - generic [ref=f18e512]: iss
+                - generic [ref=f18e513]:
+                  - generic [ref=f18e514]: sā
+                  - generic [ref=f18e515]: saa
+              - paragraph [ref=f18e516]: Phonetic /ˈis.saː/
+              - paragraph [ref=f18e517]: Hold the double s. The second vowel is long.
+              - generic [ref=f18e518]:
+                - button "Hear Issā" [ref=f18e519] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e520]: Syllables for Issā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e521]:
+            - link "Macchariya Stinginess" [ref=f18e522] [cursor=pointer]:
+              - /url: /cetasikas/macchariya
+              - generic [ref=f18e523]: Macchariya
+              - generic [ref=f18e524]: Stinginess
+            - generic [ref=f18e525]:
+              - generic [ref=f18e526]:
+                - generic [ref=f18e527]:
+                  - generic [ref=f18e528]: Stressed.
+                  - generic [ref=f18e529]: mac
+                  - generic [ref=f18e530]: muhch
+                - generic [ref=f18e531]:
+                  - generic [ref=f18e532]: cha
+                  - generic [ref=f18e533]: ch'uh
+                - generic [ref=f18e534]:
+                  - generic [ref=f18e535]: ri
+                  - generic [ref=f18e536]: ri
+                - generic [ref=f18e537]:
+                  - generic [ref=f18e538]: ya
+                  - generic [ref=f18e539]: yuh
+              - paragraph [ref=f18e540]: Phonetic /ˈmat.t͡ʃʰa.ri.ja/
+              - paragraph [ref=f18e541]: The ch is ch plus a puff of air.
+              - generic [ref=f18e542]:
+                - button "Hear Macchariya" [ref=f18e543] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e544]: Syllables for Macchariya. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e545]:
+            - link "Kukkucca Worry, remorse" [ref=f18e546] [cursor=pointer]:
+              - /url: /cetasikas/kukkucca
+              - generic [ref=f18e547]: Kukkucca
+              - generic [ref=f18e548]: Worry, remorse
+            - generic [ref=f18e549]:
+              - generic [ref=f18e550]:
+                - generic [ref=f18e551]:
+                  - generic [ref=f18e552]: kuk
+                  - generic [ref=f18e553]: kuk
+                - generic [ref=f18e554]:
+                  - generic [ref=f18e555]: Stressed.
+                  - generic [ref=f18e556]: kuc
+                  - generic [ref=f18e557]: kuch
+                - generic [ref=f18e558]:
+                  - generic [ref=f18e559]: ca
+                  - generic [ref=f18e560]: chuh
+              - paragraph [ref=f18e561]: Phonetic /kukˈkut.t͡ʃa/
+              - paragraph [ref=f18e562]: Both vowels are the u in put, not the oo in food. c is ch.
+              - generic [ref=f18e563]:
+                - button "Hear Kukkucca" [ref=f18e564] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e565]: Syllables for Kukkucca. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e566]:
+            - link "Thīna Sloth" [ref=f18e567] [cursor=pointer]:
+              - /url: /cetasikas/thina
+              - generic [ref=f18e568]: Thīna
+              - generic [ref=f18e569]: Sloth
+            - generic [ref=f18e570]:
+              - generic [ref=f18e571]:
+                - generic [ref=f18e572]:
+                  - generic [ref=f18e573]: Stressed.
+                  - generic [ref=f18e574]: thī
+                  - generic [ref=f18e575]: t'hee
+                - generic [ref=f18e576]:
+                  - generic [ref=f18e577]: na
+                  - generic [ref=f18e578]: nuh
+              - paragraph [ref=f18e579]: Phonetic /ˈtʰiː.na/
+              - paragraph [ref=f18e580]: th is a t with a puff of air, not the th in think.
+              - generic [ref=f18e581]:
+                - button "Hear Thīna" [ref=f18e582] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e583]: Syllables for Thīna. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e584]:
+            - link "Middha Torpor" [ref=f18e585] [cursor=pointer]:
+              - /url: /cetasikas/middha
+              - generic [ref=f18e586]: Middha
+              - generic [ref=f18e587]: Torpor
+            - generic [ref=f18e588]:
+              - generic [ref=f18e589]:
+                - generic [ref=f18e590]:
+                  - generic [ref=f18e591]: Stressed.
+                  - generic [ref=f18e592]: mid
+                  - generic [ref=f18e593]: mid
+                - generic [ref=f18e594]:
+                  - generic [ref=f18e595]: dha
+                  - generic [ref=f18e596]: d'huh
+              - paragraph [ref=f18e597]: Phonetic /ˈmid.dʰa/
+              - paragraph [ref=f18e598]: dh is a d with a puff of air.
+              - generic [ref=f18e599]:
+                - button "Hear Middha" [ref=f18e600] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e601]: Syllables for Middha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e602]:
+            - link "Vicikicchā Sceptical doubt" [ref=f18e603] [cursor=pointer]:
+              - /url: /cetasikas/vicikiccha
+              - generic [ref=f18e604]: Vicikicchā
+              - generic [ref=f18e605]: Sceptical doubt
+            - generic [ref=f18e606]:
+              - generic [ref=f18e607]:
+                - generic [ref=f18e608]:
+                  - generic [ref=f18e609]: vi
+                  - generic [ref=f18e610]: vi
+                - generic [ref=f18e611]:
+                  - generic [ref=f18e612]: ci
+                  - generic [ref=f18e613]: chi
+                - generic [ref=f18e614]:
+                  - generic [ref=f18e615]: Stressed.
+                  - generic [ref=f18e616]: kic
+                  - generic [ref=f18e617]: kich
+                - generic [ref=f18e618]:
+                  - generic [ref=f18e619]: chā
+                  - generic [ref=f18e620]: ch'aa
+              - paragraph [ref=f18e621]: Phonetic /ʋi.t͡ʃiˈkit.t͡ʃʰaː/
+              - paragraph [ref=f18e622]: The last cluster, cch, is ch with a puff of air.
+              - generic [ref=f18e623]:
+                - button "Hear Vicikicchā" [ref=f18e624] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e625]: Syllables for Vicikicchā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+      - generic [ref=f18e626]:
+        - heading "Beautiful" [level=2] [ref=f18e627]
+        - list [ref=f18e628]:
+          - listitem [ref=f18e629]:
+            - link "Saddhā Confidence" [ref=f18e630] [cursor=pointer]:
+              - /url: /cetasikas/saddha
+              - generic [ref=f18e631]: Saddhā
+              - generic [ref=f18e632]: Confidence
+            - generic [ref=f18e633]:
+              - generic [ref=f18e634]:
+                - generic [ref=f18e635]:
+                  - generic [ref=f18e636]: Stressed.
+                  - generic [ref=f18e637]: sad
+                  - generic [ref=f18e638]: suhd
+                - generic [ref=f18e639]:
+                  - generic [ref=f18e640]: dhā
+                  - generic [ref=f18e641]: d'haa
+              - paragraph [ref=f18e642]: Phonetic /ˈsad.dʰaː/
+              - paragraph [ref=f18e643]: dh is a d with a puff of air. The second vowel is long.
+              - generic [ref=f18e644]:
+                - button "Hear Saddhā" [ref=f18e645] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e646]: Syllables for Saddhā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e647]:
+            - link "Sati Mindfulness" [ref=f18e648] [cursor=pointer]:
+              - /url: /cetasikas/sati
+              - generic [ref=f18e649]: Sati
+              - generic [ref=f18e650]: Mindfulness
+            - generic [ref=f18e651]:
+              - generic [ref=f18e652]:
+                - generic [ref=f18e653]:
+                  - generic [ref=f18e654]: Stressed.
+                  - generic [ref=f18e655]: sa
+                  - generic [ref=f18e656]: suh
+                - generic [ref=f18e657]:
+                  - generic [ref=f18e658]: ti
+                  - generic [ref=f18e659]: ti
+              - paragraph [ref=f18e660]: Phonetic /ˈsa.ti/
+              - generic [ref=f18e661]:
+                - button "Hear Sati" [ref=f18e662] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e663]: Syllables for Sati. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e664]:
+            - link "Hiri Moral shame" [ref=f18e665] [cursor=pointer]:
+              - /url: /cetasikas/hiri
+              - generic [ref=f18e666]: Hiri
+              - generic [ref=f18e667]: Moral shame
+            - generic [ref=f18e668]:
+              - generic [ref=f18e669]:
+                - generic [ref=f18e670]:
+                  - generic [ref=f18e671]: Stressed.
+                  - generic [ref=f18e672]: hi
+                  - generic [ref=f18e673]: hi
+                - generic [ref=f18e674]:
+                  - generic [ref=f18e675]: ri
+                  - generic [ref=f18e676]: ri
+              - paragraph [ref=f18e677]: Phonetic /ˈhi.ri/
+              - generic [ref=f18e678]:
+                - button "Hear Hiri" [ref=f18e679] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e680]: Syllables for Hiri. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e681]:
+            - link "Ottappa Moral fear" [ref=f18e682] [cursor=pointer]:
+              - /url: /cetasikas/ottappa
+              - generic [ref=f18e683]: Ottappa
+              - generic [ref=f18e684]: Moral fear
+            - generic [ref=f18e685]:
+              - generic [ref=f18e686]:
+                - generic [ref=f18e687]:
+                  - generic [ref=f18e688]: ot
+                  - generic [ref=f18e689]: ot
+                - generic [ref=f18e690]:
+                  - generic [ref=f18e691]: Stressed.
+                  - generic [ref=f18e692]: tap
+                  - generic [ref=f18e693]: tuhp
+                - generic [ref=f18e694]:
+                  - generic [ref=f18e695]: pa
+                  - generic [ref=f18e696]: puh
+              - paragraph [ref=f18e697]: Phonetic /otˈtap.pa/
+              - generic [ref=f18e698]:
+                - button "Hear Ottappa" [ref=f18e699] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e700]: Syllables for Ottappa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e701]:
+            - link "Alobha Non-greed" [ref=f18e702] [cursor=pointer]:
+              - /url: /cetasikas/alobha
+              - generic [ref=f18e703]: Alobha
+              - generic [ref=f18e704]: Non-greed
+            - generic [ref=f18e705]:
+              - generic [ref=f18e706]:
+                - generic [ref=f18e707]:
+                  - generic [ref=f18e708]: a
+                  - generic [ref=f18e709]: uh
+                - generic [ref=f18e710]:
+                  - generic [ref=f18e711]: Stressed.
+                  - generic [ref=f18e712]: lo
+                  - generic [ref=f18e713]: loh
+                - generic [ref=f18e714]:
+                  - generic [ref=f18e715]: bha
+                  - generic [ref=f18e716]: b'huh
+              - paragraph [ref=f18e717]: Phonetic /aˈloː.bʰa/
+              - paragraph [ref=f18e718]: bh is a b with a puff of air, not a v.
+              - generic [ref=f18e719]:
+                - button "Hear Alobha" [ref=f18e720] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e721]: Syllables for Alobha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e722]:
+            - link "Adosa Non-hatred" [ref=f18e723] [cursor=pointer]:
+              - /url: /cetasikas/adosa
+              - generic [ref=f18e724]: Adosa
+              - generic [ref=f18e725]: Non-hatred
+            - generic [ref=f18e726]:
+              - generic [ref=f18e727]:
+                - generic [ref=f18e728]:
+                  - generic [ref=f18e729]: a
+                  - generic [ref=f18e730]: uh
+                - generic [ref=f18e731]:
+                  - generic [ref=f18e732]: Stressed.
+                  - generic [ref=f18e733]: do
+                  - generic [ref=f18e734]: doh
+                - generic [ref=f18e735]:
+                  - generic [ref=f18e736]: sa
+                  - generic [ref=f18e737]: suh
+              - paragraph [ref=f18e738]: Phonetic /aˈdoː.sa/
+              - generic [ref=f18e739]:
+                - button "Hear Adosa" [ref=f18e740] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e741]: Syllables for Adosa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e742]:
+            - link "Tatramajjhattatā Equanimity" [ref=f18e743] [cursor=pointer]:
+              - /url: /cetasikas/tatramajjhattata
+              - generic [ref=f18e744]: Tatramajjhattatā
+              - generic [ref=f18e745]: Equanimity
+            - generic [ref=f18e746]:
+              - generic [ref=f18e747]:
+                - generic [ref=f18e748]:
+                  - generic [ref=f18e749]: tat
+                  - generic [ref=f18e750]: tuht
+                - generic [ref=f18e751]:
+                  - generic [ref=f18e752]: ra
+                  - generic [ref=f18e753]: ruh
+                - generic [ref=f18e754]:
+                  - generic [ref=f18e755]: maj
+                  - generic [ref=f18e756]: muhj
+                - generic [ref=f18e757]:
+                  - generic [ref=f18e758]: Stressed.
+                  - generic [ref=f18e759]: jhat
+                  - generic [ref=f18e760]: j'huht
+                - generic [ref=f18e761]:
+                  - generic [ref=f18e762]: ta
+                  - generic [ref=f18e763]: tuh
+                - generic [ref=f18e764]:
+                  - generic [ref=f18e765]: tā
+                  - generic [ref=f18e766]: taa
+              - paragraph [ref=f18e767]: Phonetic /tat.ra.madˈd͡ʒʰat.ta.taː/
+              - paragraph [ref=f18e768]: jh is a j with a puff of air. The name is long; the stressed syllable is jhat.
+              - generic [ref=f18e769]:
+                - button "Hear Tatramajjhattatā" [ref=f18e770] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e771]: Syllables for Tatramajjhattatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e772]:
+            - link "Kāyapassaddhi Tranquillity of mental factors" [ref=f18e773] [cursor=pointer]:
+              - /url: /cetasikas/kayapassaddhi
+              - generic [ref=f18e774]: Kāyapassaddhi
+              - generic [ref=f18e775]: Tranquillity of mental factors
+            - generic [ref=f18e776]:
+              - generic [ref=f18e777]:
+                - generic [ref=f18e778]:
+                  - generic [ref=f18e779]: kā
+                  - generic [ref=f18e780]: kaa
+                - generic [ref=f18e781]:
+                  - generic [ref=f18e782]: ya
+                  - generic [ref=f18e783]: yuh
+                - generic [ref=f18e784]:
+                  - generic [ref=f18e785]: pas
+                  - generic [ref=f18e786]: puhs
+                - generic [ref=f18e787]:
+                  - generic [ref=f18e788]: Stressed.
+                  - generic [ref=f18e789]: sad
+                  - generic [ref=f18e790]: suhd
+                - generic [ref=f18e791]:
+                  - generic [ref=f18e792]: dhi
+                  - generic [ref=f18e793]: d'hi
+              - paragraph [ref=f18e794]: Phonetic /kaː.ja.pasˈsad.dʰi/
+              - paragraph [ref=f18e795]: The final dh is a d with a puff of air, not the th in this.
+              - generic [ref=f18e796]:
+                - button "Hear Kāyapassaddhi" [ref=f18e797] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e798]: Syllables for Kāyapassaddhi. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e799]:
+            - link "Cittapassaddhi Tranquillity of consciousness" [ref=f18e800] [cursor=pointer]:
+              - /url: /cetasikas/cittapassaddhi
+              - generic [ref=f18e801]: Cittapassaddhi
+              - generic [ref=f18e802]: Tranquillity of consciousness
+            - generic [ref=f18e803]:
+              - generic [ref=f18e804]:
+                - generic [ref=f18e805]:
+                  - generic [ref=f18e806]: cit
+                  - generic [ref=f18e807]: chit
+                - generic [ref=f18e808]:
+                  - generic [ref=f18e809]: ta
+                  - generic [ref=f18e810]: tuh
+                - generic [ref=f18e811]:
+                  - generic [ref=f18e812]: pas
+                  - generic [ref=f18e813]: puhs
+                - generic [ref=f18e814]:
+                  - generic [ref=f18e815]: Stressed.
+                  - generic [ref=f18e816]: sad
+                  - generic [ref=f18e817]: suhd
+                - generic [ref=f18e818]:
+                  - generic [ref=f18e819]: dhi
+                  - generic [ref=f18e820]: d'hi
+              - paragraph [ref=f18e821]: Phonetic /t͡ʃit.ta.pasˈsad.dʰi/
+              - paragraph [ref=f18e822]: c is ch. The final dh is a d with a puff of air.
+              - generic [ref=f18e823]:
+                - button "Hear Cittapassaddhi" [ref=f18e824] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e825]: Syllables for Cittapassaddhi. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e826]:
+            - link "Kāyalahutā Lightness of mental factors" [ref=f18e827] [cursor=pointer]:
+              - /url: /cetasikas/kayalahuta
+              - generic [ref=f18e828]: Kāyalahutā
+              - generic [ref=f18e829]: Lightness of mental factors
+            - generic [ref=f18e830]:
+              - generic [ref=f18e831]:
+                - generic [ref=f18e832]:
+                  - generic [ref=f18e833]: Stressed.
+                  - generic [ref=f18e834]: kā
+                  - generic [ref=f18e835]: kaa
+                - generic [ref=f18e836]:
+                  - generic [ref=f18e837]: ya
+                  - generic [ref=f18e838]: yuh
+                - generic [ref=f18e839]:
+                  - generic [ref=f18e840]: la
+                  - generic [ref=f18e841]: luh
+                - generic [ref=f18e842]:
+                  - generic [ref=f18e843]: hu
+                  - generic [ref=f18e844]: hu
+                - generic [ref=f18e845]:
+                  - generic [ref=f18e846]: tā
+                  - generic [ref=f18e847]: taa
+              - paragraph [ref=f18e848]: Phonetic /ˈkaː.ja.la.hu.taː/
+              - generic [ref=f18e849]:
+                - button "Hear Kāyalahutā" [ref=f18e850] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e851]: Syllables for Kāyalahutā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e852]:
+            - link "Cittalahutā Lightness of consciousness" [ref=f18e853] [cursor=pointer]:
+              - /url: /cetasikas/cittalahuta
+              - generic [ref=f18e854]: Cittalahutā
+              - generic [ref=f18e855]: Lightness of consciousness
+            - generic [ref=f18e856]:
+              - generic [ref=f18e857]:
+                - generic [ref=f18e858]:
+                  - generic [ref=f18e859]: Stressed.
+                  - generic [ref=f18e860]: cit
+                  - generic [ref=f18e861]: chit
+                - generic [ref=f18e862]:
+                  - generic [ref=f18e863]: ta
+                  - generic [ref=f18e864]: tuh
+                - generic [ref=f18e865]:
+                  - generic [ref=f18e866]: la
+                  - generic [ref=f18e867]: luh
+                - generic [ref=f18e868]:
+                  - generic [ref=f18e869]: hu
+                  - generic [ref=f18e870]: hu
+                - generic [ref=f18e871]:
+                  - generic [ref=f18e872]: tā
+                  - generic [ref=f18e873]: taa
+              - paragraph [ref=f18e874]: Phonetic /ˈt͡ʃit.ta.la.hu.taː/
+              - paragraph [ref=f18e875]: c is ch.
+              - generic [ref=f18e876]:
+                - button "Hear Cittalahutā" [ref=f18e877] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e878]: Syllables for Cittalahutā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e879]:
+            - link "Kāyamudutā Pliancy of mental factors" [ref=f18e880] [cursor=pointer]:
+              - /url: /cetasikas/kayamuduta
+              - generic [ref=f18e881]: Kāyamudutā
+              - generic [ref=f18e882]: Pliancy of mental factors
+            - generic [ref=f18e883]:
+              - generic [ref=f18e884]:
+                - generic [ref=f18e885]:
+                  - generic [ref=f18e886]: Stressed.
+                  - generic [ref=f18e887]: kā
+                  - generic [ref=f18e888]: kaa
+                - generic [ref=f18e889]:
+                  - generic [ref=f18e890]: ya
+                  - generic [ref=f18e891]: yuh
+                - generic [ref=f18e892]:
+                  - generic [ref=f18e893]: mu
+                  - generic [ref=f18e894]: mu
+                - generic [ref=f18e895]:
+                  - generic [ref=f18e896]: du
+                  - generic [ref=f18e897]: du
+                - generic [ref=f18e898]:
+                  - generic [ref=f18e899]: tā
+                  - generic [ref=f18e900]: taa
+              - paragraph [ref=f18e901]: Phonetic /ˈkaː.ja.mu.du.taː/
+              - generic [ref=f18e902]:
+                - button "Hear Kāyamudutā" [ref=f18e903] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e904]: Syllables for Kāyamudutā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e905]:
+            - link "Cittamudutā Pliancy of consciousness" [ref=f18e906] [cursor=pointer]:
+              - /url: /cetasikas/cittamuduta
+              - generic [ref=f18e907]: Cittamudutā
+              - generic [ref=f18e908]: Pliancy of consciousness
+            - generic [ref=f18e909]:
+              - generic [ref=f18e910]:
+                - generic [ref=f18e911]:
+                  - generic [ref=f18e912]: Stressed.
+                  - generic [ref=f18e913]: cit
+                  - generic [ref=f18e914]: chit
+                - generic [ref=f18e915]:
+                  - generic [ref=f18e916]: ta
+                  - generic [ref=f18e917]: tuh
+                - generic [ref=f18e918]:
+                  - generic [ref=f18e919]: mu
+                  - generic [ref=f18e920]: mu
+                - generic [ref=f18e921]:
+                  - generic [ref=f18e922]: du
+                  - generic [ref=f18e923]: du
+                - generic [ref=f18e924]:
+                  - generic [ref=f18e925]: tā
+                  - generic [ref=f18e926]: taa
+              - paragraph [ref=f18e927]: Phonetic /ˈt͡ʃit.ta.mu.du.taː/
+              - paragraph [ref=f18e928]: c is ch.
+              - generic [ref=f18e929]:
+                - button "Hear Cittamudutā" [ref=f18e930] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e931]: Syllables for Cittamudutā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e932]:
+            - link "Kāyakammaññatā Adaptability of mental factors" [ref=f18e933] [cursor=pointer]:
+              - /url: /cetasikas/kayakammannata
+              - generic [ref=f18e934]: Kāyakammaññatā
+              - generic [ref=f18e935]: Adaptability of mental factors
+            - generic [ref=f18e936]:
+              - generic [ref=f18e937]:
+                - generic [ref=f18e938]:
+                  - generic [ref=f18e939]: kā
+                  - generic [ref=f18e940]: kaa
+                - generic [ref=f18e941]:
+                  - generic [ref=f18e942]: ya
+                  - generic [ref=f18e943]: yuh
+                - generic [ref=f18e944]:
+                  - generic [ref=f18e945]: kam
+                  - generic [ref=f18e946]: kuhm
+                - generic [ref=f18e947]:
+                  - generic [ref=f18e948]: Stressed.
+                  - generic [ref=f18e949]: mañ
+                  - generic [ref=f18e950]: muhny
+                - generic [ref=f18e951]:
+                  - generic [ref=f18e952]: ña
+                  - generic [ref=f18e953]: nyuh
+                - generic [ref=f18e954]:
+                  - generic [ref=f18e955]: tā
+                  - generic [ref=f18e956]: taa
+              - paragraph [ref=f18e957]: Phonetic /kaː.ja.kamˈmaɲ.ɲa.taː/
+              - paragraph [ref=f18e958]: ñ is the ny in canyon, and it is held.
+              - generic [ref=f18e959]:
+                - button "Hear Kāyakammaññatā" [ref=f18e960] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e961]: Syllables for Kāyakammaññatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e962]:
+            - link "Cittakammaññatā Adaptability of consciousness" [ref=f18e963] [cursor=pointer]:
+              - /url: /cetasikas/cittakammannata
+              - generic [ref=f18e964]: Cittakammaññatā
+              - generic [ref=f18e965]: Adaptability of consciousness
+            - generic [ref=f18e966]:
+              - generic [ref=f18e967]:
+                - generic [ref=f18e968]:
+                  - generic [ref=f18e969]: cit
+                  - generic [ref=f18e970]: chit
+                - generic [ref=f18e971]:
+                  - generic [ref=f18e972]: ta
+                  - generic [ref=f18e973]: tuh
+                - generic [ref=f18e974]:
+                  - generic [ref=f18e975]: kam
+                  - generic [ref=f18e976]: kuhm
+                - generic [ref=f18e977]:
+                  - generic [ref=f18e978]: Stressed.
+                  - generic [ref=f18e979]: mañ
+                  - generic [ref=f18e980]: muhny
+                - generic [ref=f18e981]:
+                  - generic [ref=f18e982]: ña
+                  - generic [ref=f18e983]: nyuh
+                - generic [ref=f18e984]:
+                  - generic [ref=f18e985]: tā
+                  - generic [ref=f18e986]: taa
+              - paragraph [ref=f18e987]: Phonetic /t͡ʃit.ta.kamˈmaɲ.ɲa.taː/
+              - paragraph [ref=f18e988]: c is ch. ñ is ny, and it is held.
+              - generic [ref=f18e989]:
+                - button "Hear Cittakammaññatā" [ref=f18e990] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e991]: Syllables for Cittakammaññatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e992]:
+            - link "Kāyapāguññatā Proficiency of mental factors" [ref=f18e993] [cursor=pointer]:
+              - /url: /cetasikas/kayapagunnata
+              - generic [ref=f18e994]: Kāyapāguññatā
+              - generic [ref=f18e995]: Proficiency of mental factors
+            - generic [ref=f18e996]:
+              - generic [ref=f18e997]:
+                - generic [ref=f18e998]:
+                  - generic [ref=f18e999]: kā
+                  - generic [ref=f18e1000]: kaa
+                - generic [ref=f18e1001]:
+                  - generic [ref=f18e1002]: ya
+                  - generic [ref=f18e1003]: yuh
+                - generic [ref=f18e1004]:
+                  - generic [ref=f18e1005]: pā
+                  - generic [ref=f18e1006]: paa
+                - generic [ref=f18e1007]:
+                  - generic [ref=f18e1008]: Stressed.
+                  - generic [ref=f18e1009]: guñ
+                  - generic [ref=f18e1010]: guny
+                - generic [ref=f18e1011]:
+                  - generic [ref=f18e1012]: ña
+                  - generic [ref=f18e1013]: nyuh
+                - generic [ref=f18e1014]:
+                  - generic [ref=f18e1015]: tā
+                  - generic [ref=f18e1016]: taa
+              - paragraph [ref=f18e1017]: Phonetic /kaː.ja.paːˈguɲ.ɲa.taː/
+              - paragraph [ref=f18e1018]: ñ is ny. The u in guñ is the vowel in put.
+              - generic [ref=f18e1019]:
+                - button "Hear Kāyapāguññatā" [ref=f18e1020] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1021]: Syllables for Kāyapāguññatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1022]:
+            - link "Cittapāguññatā Proficiency of consciousness" [ref=f18e1023] [cursor=pointer]:
+              - /url: /cetasikas/cittapagunnata
+              - generic [ref=f18e1024]: Cittapāguññatā
+              - generic [ref=f18e1025]: Proficiency of consciousness
+            - generic [ref=f18e1026]:
+              - generic [ref=f18e1027]:
+                - generic [ref=f18e1028]:
+                  - generic [ref=f18e1029]: cit
+                  - generic [ref=f18e1030]: chit
+                - generic [ref=f18e1031]:
+                  - generic [ref=f18e1032]: ta
+                  - generic [ref=f18e1033]: tuh
+                - generic [ref=f18e1034]:
+                  - generic [ref=f18e1035]: pā
+                  - generic [ref=f18e1036]: paa
+                - generic [ref=f18e1037]:
+                  - generic [ref=f18e1038]: Stressed.
+                  - generic [ref=f18e1039]: guñ
+                  - generic [ref=f18e1040]: guny
+                - generic [ref=f18e1041]:
+                  - generic [ref=f18e1042]: ña
+                  - generic [ref=f18e1043]: nyuh
+                - generic [ref=f18e1044]:
+                  - generic [ref=f18e1045]: tā
+                  - generic [ref=f18e1046]: taa
+              - paragraph [ref=f18e1047]: Phonetic /t͡ʃit.ta.paːˈguɲ.ɲa.taː/
+              - paragraph [ref=f18e1048]: c is ch. ñ is ny.
+              - generic [ref=f18e1049]:
+                - button "Hear Cittapāguññatā" [ref=f18e1050] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1051]: Syllables for Cittapāguññatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1052]:
+            - link "Kāyujjukatā Rectitude of mental factors" [ref=f18e1053] [cursor=pointer]:
+              - /url: /cetasikas/kayujjukata
+              - generic [ref=f18e1054]: Kāyujjukatā
+              - generic [ref=f18e1055]: Rectitude of mental factors
+            - generic [ref=f18e1056]:
+              - generic [ref=f18e1057]:
+                - generic [ref=f18e1058]:
+                  - generic [ref=f18e1059]: kā
+                  - generic [ref=f18e1060]: kaa
+                - generic [ref=f18e1061]:
+                  - generic [ref=f18e1062]: Stressed.
+                  - generic [ref=f18e1063]: yuj
+                  - generic [ref=f18e1064]: yuj
+                - generic [ref=f18e1065]:
+                  - generic [ref=f18e1066]: ju
+                  - generic [ref=f18e1067]: ju
+                - generic [ref=f18e1068]:
+                  - generic [ref=f18e1069]: ka
+                  - generic [ref=f18e1070]: kuh
+                - generic [ref=f18e1071]:
+                  - generic [ref=f18e1072]: tā
+                  - generic [ref=f18e1073]: taa
+              - paragraph [ref=f18e1074]: Phonetic /kaːˈjud.d͡ʒu.ka.taː/
+              - generic [ref=f18e1075]:
+                - button "Hear Kāyujjukatā" [ref=f18e1076] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1077]: Syllables for Kāyujjukatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1078]:
+            - link "Cittujjukatā Rectitude of consciousness" [ref=f18e1079] [cursor=pointer]:
+              - /url: /cetasikas/cittujjukata
+              - generic [ref=f18e1080]: Cittujjukatā
+              - generic [ref=f18e1081]: Rectitude of consciousness
+            - generic [ref=f18e1082]:
+              - generic [ref=f18e1083]:
+                - generic [ref=f18e1084]:
+                  - generic [ref=f18e1085]: cit
+                  - generic [ref=f18e1086]: chit
+                - generic [ref=f18e1087]:
+                  - generic [ref=f18e1088]: Stressed.
+                  - generic [ref=f18e1089]: tuj
+                  - generic [ref=f18e1090]: tuj
+                - generic [ref=f18e1091]:
+                  - generic [ref=f18e1092]: ju
+                  - generic [ref=f18e1093]: ju
+                - generic [ref=f18e1094]:
+                  - generic [ref=f18e1095]: ka
+                  - generic [ref=f18e1096]: kuh
+                - generic [ref=f18e1097]:
+                  - generic [ref=f18e1098]: tā
+                  - generic [ref=f18e1099]: taa
+              - paragraph [ref=f18e1100]: Phonetic /t͡ʃitˈtud.d͡ʒu.ka.taː/
+              - paragraph [ref=f18e1101]: c is ch. Both u vowels are as in put.
+              - generic [ref=f18e1102]:
+                - button "Hear Cittujjukatā" [ref=f18e1103] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1104]: Syllables for Cittujjukatā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1105]:
+            - link "Sammā vācā Right speech" [ref=f18e1106] [cursor=pointer]:
+              - /url: /cetasikas/samma-vaca
+              - generic [ref=f18e1107]: Sammā vācā
+              - generic [ref=f18e1108]: Right speech
+            - generic [ref=f18e1109]:
+              - generic [ref=f18e1110]:
+                - generic [ref=f18e1111]:
+                  - generic [ref=f18e1112]: Stressed.
+                  - generic [ref=f18e1113]: sam
+                  - generic [ref=f18e1114]: suhm
+                - generic [ref=f18e1115]:
+                  - generic [ref=f18e1116]: mā
+                  - generic [ref=f18e1117]: maa
+                - generic [ref=f18e1118]:
+                  - generic [ref=f18e1119]: Stressed.
+                  - generic [ref=f18e1120]: vā
+                  - generic [ref=f18e1121]: vaa
+                - generic [ref=f18e1122]:
+                  - generic [ref=f18e1123]: cā
+                  - generic [ref=f18e1124]: chaa
+              - paragraph [ref=f18e1125]: Phonetic /ˈsam.maː ˈʋaː.t͡ʃaː/
+              - paragraph [ref=f18e1126]: c is ch. Each word has its own stress.
+              - generic [ref=f18e1127]:
+                - button "Hear Sammā vācā" [ref=f18e1128] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1129]: Syllables for Sammā vācā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1130]:
+            - link "Sammā kammanta Right action" [ref=f18e1131] [cursor=pointer]:
+              - /url: /cetasikas/samma-kammanta
+              - generic [ref=f18e1132]: Sammā kammanta
+              - generic [ref=f18e1133]: Right action
+            - generic [ref=f18e1134]:
+              - generic [ref=f18e1135]:
+                - generic [ref=f18e1136]:
+                  - generic [ref=f18e1137]: Stressed.
+                  - generic [ref=f18e1138]: sam
+                  - generic [ref=f18e1139]: suhm
+                - generic [ref=f18e1140]:
+                  - generic [ref=f18e1141]: mā
+                  - generic [ref=f18e1142]: maa
+                - generic [ref=f18e1143]:
+                  - generic [ref=f18e1144]: kam
+                  - generic [ref=f18e1145]: kuhm
+                - generic [ref=f18e1146]:
+                  - generic [ref=f18e1147]: Stressed.
+                  - generic [ref=f18e1148]: man
+                  - generic [ref=f18e1149]: muhn
+                - generic [ref=f18e1150]:
+                  - generic [ref=f18e1151]: ta
+                  - generic [ref=f18e1152]: tuh
+              - paragraph [ref=f18e1153]: Phonetic /ˈsam.maː kamˈman.ta/
+              - generic [ref=f18e1154]:
+                - button "Hear Sammā kammanta" [ref=f18e1155] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1156]: Syllables for Sammā kammanta. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1157]:
+            - link "Sammā ājīva Right livelihood" [ref=f18e1158] [cursor=pointer]:
+              - /url: /cetasikas/samma-ajiva
+              - generic [ref=f18e1159]: Sammā ājīva
+              - generic [ref=f18e1160]: Right livelihood
+            - generic [ref=f18e1161]:
+              - generic [ref=f18e1162]:
+                - generic [ref=f18e1163]:
+                  - generic [ref=f18e1164]: Stressed.
+                  - generic [ref=f18e1165]: sam
+                  - generic [ref=f18e1166]: suhm
+                - generic [ref=f18e1167]:
+                  - generic [ref=f18e1168]: mā
+                  - generic [ref=f18e1169]: maa
+                - generic [ref=f18e1170]:
+                  - generic [ref=f18e1171]: ā
+                  - generic [ref=f18e1172]: aa
+                - generic [ref=f18e1173]:
+                  - generic [ref=f18e1174]: Stressed.
+                  - generic [ref=f18e1175]: jī
+                  - generic [ref=f18e1176]: jee
+                - generic [ref=f18e1177]:
+                  - generic [ref=f18e1178]: va
+                  - generic [ref=f18e1179]: vuh
+              - paragraph [ref=f18e1180]: Phonetic /ˈsam.maː aːˈd͡ʒiː.ʋa/
+              - generic [ref=f18e1181]:
+                - button "Hear Sammā ājīva" [ref=f18e1182] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1183]: Syllables for Sammā ājīva. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1184]:
+            - link "Karuṇā Compassion" [ref=f18e1185] [cursor=pointer]:
+              - /url: /cetasikas/karuna
+              - generic [ref=f18e1186]: Karuṇā
+              - generic [ref=f18e1187]: Compassion
+            - generic [ref=f18e1188]:
+              - generic [ref=f18e1189]:
+                - generic [ref=f18e1190]:
+                  - generic [ref=f18e1191]: Stressed.
+                  - generic [ref=f18e1192]: ka
+                  - generic [ref=f18e1193]: kuh
+                - generic [ref=f18e1194]:
+                  - generic [ref=f18e1195]: ru
+                  - generic [ref=f18e1196]: ru
+                - generic [ref=f18e1197]:
+                  - generic [ref=f18e1198]: ṇā
+                  - generic [ref=f18e1199]: naa
+              - paragraph [ref=f18e1200]: Phonetic /ˈka.ru.ɳaː/
+              - paragraph [ref=f18e1201]: ṇ is an n with the tongue curled back. The stress is on the first syllable; the last vowel is still long.
+              - generic [ref=f18e1202]:
+                - button "Hear Karuṇā" [ref=f18e1203] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1204]: Syllables for Karuṇā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1205]:
+            - link "Muditā Sympathetic joy" [ref=f18e1206] [cursor=pointer]:
+              - /url: /cetasikas/mudita
+              - generic [ref=f18e1207]: Muditā
+              - generic [ref=f18e1208]: Sympathetic joy
+            - generic [ref=f18e1209]:
+              - generic [ref=f18e1210]:
+                - generic [ref=f18e1211]:
+                  - generic [ref=f18e1212]: Stressed.
+                  - generic [ref=f18e1213]: mu
+                  - generic [ref=f18e1214]: mu
+                - generic [ref=f18e1215]:
+                  - generic [ref=f18e1216]: di
+                  - generic [ref=f18e1217]: di
+                - generic [ref=f18e1218]:
+                  - generic [ref=f18e1219]: tā
+                  - generic [ref=f18e1220]: taa
+              - paragraph [ref=f18e1221]: Phonetic /ˈmu.di.taː/
+              - generic [ref=f18e1222]:
+                - button "Hear Muditā" [ref=f18e1223] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1224]: Syllables for Muditā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1225]:
+            - link "Paññindriya Wisdom" [ref=f18e1226] [cursor=pointer]:
+              - /url: /cetasikas/pannindriya
+              - generic [ref=f18e1227]: Paññindriya
+              - generic [ref=f18e1228]: Wisdom
+            - generic [ref=f18e1229]:
+              - generic [ref=f18e1230]:
+                - generic [ref=f18e1231]:
+                  - generic [ref=f18e1232]: pañ
+                  - generic [ref=f18e1233]: puhny
+                - generic [ref=f18e1234]:
+                  - generic [ref=f18e1235]: Stressed.
+                  - generic [ref=f18e1236]: ñin
+                  - generic [ref=f18e1237]: nyin
+                - generic [ref=f18e1238]:
+                  - generic [ref=f18e1239]: dri
+                  - generic [ref=f18e1240]: dri
+                - generic [ref=f18e1241]:
+                  - generic [ref=f18e1242]: ya
+                  - generic [ref=f18e1243]: yuh
+              - paragraph [ref=f18e1244]: Phonetic /paɲˈɲin.dri.ja/
+              - paragraph [ref=f18e1245]: ñ is ny, and the cluster is held. The stress is on ñin.
+              - generic [ref=f18e1246]:
+                - button "Hear Paññindriya" [ref=f18e1247] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1248]: Syllables for Paññindriya. The darker syllable is stressed. The button uses an English voice and will be approximate.
+      - generic [ref=f18e1249]:
+        - heading "Other names the sheets use" [level=2] [ref=f18e1250]
+        - list [ref=f18e1251]:
+          - listitem [ref=f18e1252]:
+            - generic [ref=f18e1253]:
+              - generic [ref=f18e1254]: Citta
+              - generic [ref=f18e1255]: Consciousness, the bare knowing of an object
+              - generic [ref=f18e1256]: Citta sheet
+            - generic [ref=f18e1257]:
+              - generic [ref=f18e1258]:
+                - generic [ref=f18e1259]:
+                  - generic [ref=f18e1260]: Stressed.
+                  - generic [ref=f18e1261]: cit
+                  - generic [ref=f18e1262]: chit
+                - generic [ref=f18e1263]:
+                  - generic [ref=f18e1264]: ta
+                  - generic [ref=f18e1265]: tuh
+              - paragraph [ref=f18e1266]: Phonetic /ˈt͡ʃit.ta/
+              - paragraph [ref=f18e1267]: c is ch.
+              - generic [ref=f18e1268]:
+                - button "Hear Citta" [ref=f18e1269] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1270]: Syllables for Citta. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1271]:
+            - generic [ref=f18e1272]:
+              - generic [ref=f18e1273]: Cetasika
+              - generic [ref=f18e1274]: A mental factor arising with consciousness
+              - generic [ref=f18e1275]: Citta and cetasika sheets
+            - generic [ref=f18e1276]:
+              - generic [ref=f18e1277]:
+                - generic [ref=f18e1278]:
+                  - generic [ref=f18e1279]: Stressed.
+                  - generic [ref=f18e1280]: ce
+                  - generic [ref=f18e1281]: chay
+                - generic [ref=f18e1282]:
+                  - generic [ref=f18e1283]: ta
+                  - generic [ref=f18e1284]: tuh
+                - generic [ref=f18e1285]:
+                  - generic [ref=f18e1286]: si
+                  - generic [ref=f18e1287]: si
+                - generic [ref=f18e1288]:
+                  - generic [ref=f18e1289]: ka
+                  - generic [ref=f18e1290]: kuh
+              - paragraph [ref=f18e1291]: Phonetic /ˈt͡ʃeː.ta.si.ka/
+              - generic [ref=f18e1292]:
+                - button "Hear Cetasika" [ref=f18e1293] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1294]: Syllables for Cetasika. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1295]:
+            - generic [ref=f18e1296]:
+              - generic [ref=f18e1297]: Sampayoga
+              - generic [ref=f18e1298]: "Association: factors yoked into one moment"
+              - generic [ref=f18e1299]: Sampayoga sheet
+            - generic [ref=f18e1300]:
+              - generic [ref=f18e1301]:
+                - generic [ref=f18e1302]:
+                  - generic [ref=f18e1303]: sam
+                  - generic [ref=f18e1304]: suhm
+                - generic [ref=f18e1305]:
+                  - generic [ref=f18e1306]: pa
+                  - generic [ref=f18e1307]: puh
+                - generic [ref=f18e1308]:
+                  - generic [ref=f18e1309]: Stressed.
+                  - generic [ref=f18e1310]: yo
+                  - generic [ref=f18e1311]: yoh
+                - generic [ref=f18e1312]:
+                  - generic [ref=f18e1313]: ga
+                  - generic [ref=f18e1314]: guh
+              - paragraph [ref=f18e1315]: Phonetic /sam.paˈjoː.ga/
+              - generic [ref=f18e1316]:
+                - button "Hear Sampayoga" [ref=f18e1317] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1318]: Syllables for Sampayoga. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1319]:
+            - generic [ref=f18e1320]:
+              - generic [ref=f18e1321]: Saṅgaha
+              - generic [ref=f18e1322]: "Inclusion: which factors a citta contains"
+              - generic [ref=f18e1323]: Sampayoga sheet
+            - generic [ref=f18e1324]:
+              - generic [ref=f18e1325]:
+                - generic [ref=f18e1326]:
+                  - generic [ref=f18e1327]: Stressed.
+                  - generic [ref=f18e1328]: saṅ
+                  - generic [ref=f18e1329]: suhng
+                - generic [ref=f18e1330]:
+                  - generic [ref=f18e1331]: ga
+                  - generic [ref=f18e1332]: guh
+                - generic [ref=f18e1333]:
+                  - generic [ref=f18e1334]: ha
+                  - generic [ref=f18e1335]: huh
+              - paragraph [ref=f18e1336]: Phonetic /ˈsaŋ.ga.ha/
+              - generic [ref=f18e1337]:
+                - button "Hear Saṅgaha" [ref=f18e1338] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1339]: Syllables for Saṅgaha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1340]:
+            - generic [ref=f18e1341]:
+              - generic [ref=f18e1342]: Vīthi
+              - generic [ref=f18e1343]: A cognitive process, the fixed sequence of cittas
+              - generic [ref=f18e1344]: Vīthi sheet
+            - generic [ref=f18e1345]:
+              - generic [ref=f18e1346]:
+                - generic [ref=f18e1347]:
+                  - generic [ref=f18e1348]: Stressed.
+                  - generic [ref=f18e1349]: vī
+                  - generic [ref=f18e1350]: vee
+                - generic [ref=f18e1351]:
+                  - generic [ref=f18e1352]: thi
+                  - generic [ref=f18e1353]: t'hi
+              - paragraph [ref=f18e1354]: Phonetic /ˈʋiː.tʰi/
+              - paragraph [ref=f18e1355]: th is t plus a puff of air, not the th in think.
+              - generic [ref=f18e1356]:
+                - button "Hear Vīthi" [ref=f18e1357] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1358]: Syllables for Vīthi. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1359]:
+            - generic [ref=f18e1360]:
+              - generic [ref=f18e1361]: Kamma
+              - generic [ref=f18e1362]: The cetasika sheet identifies this with intention
+              - generic [ref=f18e1363]: Cetasika sheet
+            - generic [ref=f18e1364]:
+              - generic [ref=f18e1365]:
+                - generic [ref=f18e1366]:
+                  - generic [ref=f18e1367]: Stressed.
+                  - generic [ref=f18e1368]: kam
+                  - generic [ref=f18e1369]: kuhm
+                - generic [ref=f18e1370]:
+                  - generic [ref=f18e1371]: ma
+                  - generic [ref=f18e1372]: muh
+              - paragraph [ref=f18e1373]: Phonetic /ˈkam.ma/
+              - generic [ref=f18e1374]:
+                - button "Hear Kamma" [ref=f18e1375] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1376]: Syllables for Kamma. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1377]:
+            - generic [ref=f18e1378]:
+              - generic [ref=f18e1379]: Kusala
+              - generic [ref=f18e1380]: Wholesome
+              - generic [ref=f18e1381]: Citta sheet
+            - generic [ref=f18e1382]:
+              - generic [ref=f18e1383]:
+                - generic [ref=f18e1384]:
+                  - generic [ref=f18e1385]: Stressed.
+                  - generic [ref=f18e1386]: ku
+                  - generic [ref=f18e1387]: ku
+                - generic [ref=f18e1388]:
+                  - generic [ref=f18e1389]: sa
+                  - generic [ref=f18e1390]: suh
+                - generic [ref=f18e1391]:
+                  - generic [ref=f18e1392]: la
+                  - generic [ref=f18e1393]: luh
+              - paragraph [ref=f18e1394]: Phonetic /ˈku.sa.la/
+              - generic [ref=f18e1395]:
+                - button "Hear Kusala" [ref=f18e1396] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1397]: Syllables for Kusala. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1398]:
+            - generic [ref=f18e1399]:
+              - generic [ref=f18e1400]: Akusala
+              - generic [ref=f18e1401]: Unwholesome
+              - generic [ref=f18e1402]: Citta sheet
+            - generic [ref=f18e1403]:
+              - generic [ref=f18e1404]:
+                - generic [ref=f18e1405]:
+                  - generic [ref=f18e1406]: a
+                  - generic [ref=f18e1407]: uh
+                - generic [ref=f18e1408]:
+                  - generic [ref=f18e1409]: Stressed.
+                  - generic [ref=f18e1410]: ku
+                  - generic [ref=f18e1411]: ku
+                - generic [ref=f18e1412]:
+                  - generic [ref=f18e1413]: sa
+                  - generic [ref=f18e1414]: suh
+                - generic [ref=f18e1415]:
+                  - generic [ref=f18e1416]: la
+                  - generic [ref=f18e1417]: luh
+              - paragraph [ref=f18e1418]: Phonetic /aˈku.sa.la/
+              - generic [ref=f18e1419]:
+                - button "Hear Akusala" [ref=f18e1420] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1421]: Syllables for Akusala. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1422]:
+            - generic [ref=f18e1423]:
+              - generic [ref=f18e1424]: Vipāka
+              - generic [ref=f18e1425]: Resultant. Kamma arriving, not being made
+              - generic [ref=f18e1426]: Citta sheet
+            - generic [ref=f18e1427]:
+              - generic [ref=f18e1428]:
+                - generic [ref=f18e1429]:
+                  - generic [ref=f18e1430]: vi
+                  - generic [ref=f18e1431]: vi
+                - generic [ref=f18e1432]:
+                  - generic [ref=f18e1433]: Stressed.
+                  - generic [ref=f18e1434]: pā
+                  - generic [ref=f18e1435]: paa
+                - generic [ref=f18e1436]:
+                  - generic [ref=f18e1437]: ka
+                  - generic [ref=f18e1438]: kuh
+              - paragraph [ref=f18e1439]: Phonetic /ʋiˈpaː.ka/
+              - generic [ref=f18e1440]:
+                - button "Hear Vipāka" [ref=f18e1441] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1442]: Syllables for Vipāka. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1443]:
+            - generic [ref=f18e1444]:
+              - generic [ref=f18e1445]: Kiriya
+              - generic [ref=f18e1446]: Functional. Action that leaves no kammic trace
+              - generic [ref=f18e1447]: Citta sheet
+            - generic [ref=f18e1448]:
+              - generic [ref=f18e1449]:
+                - generic [ref=f18e1450]:
+                  - generic [ref=f18e1451]: Stressed.
+                  - generic [ref=f18e1452]: ki
+                  - generic [ref=f18e1453]: ki
+                - generic [ref=f18e1454]:
+                  - generic [ref=f18e1455]: ri
+                  - generic [ref=f18e1456]: ri
+                - generic [ref=f18e1457]:
+                  - generic [ref=f18e1458]: ya
+                  - generic [ref=f18e1459]: yuh
+              - paragraph [ref=f18e1460]: Phonetic /ˈki.ri.ja/
+              - generic [ref=f18e1461]:
+                - button "Hear Kiriya" [ref=f18e1462] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1463]: Syllables for Kiriya. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1464]:
+            - generic [ref=f18e1465]:
+              - generic [ref=f18e1466]: Sobhana
+              - generic [ref=f18e1467]: Beautiful
+              - generic [ref=f18e1468]: Sampayoga sheet
+            - generic [ref=f18e1469]:
+              - generic [ref=f18e1470]:
+                - generic [ref=f18e1471]:
+                  - generic [ref=f18e1472]: Stressed.
+                  - generic [ref=f18e1473]: so
+                  - generic [ref=f18e1474]: soh
+                - generic [ref=f18e1475]:
+                  - generic [ref=f18e1476]: bha
+                  - generic [ref=f18e1477]: b'huh
+                - generic [ref=f18e1478]:
+                  - generic [ref=f18e1479]: na
+                  - generic [ref=f18e1480]: nuh
+              - paragraph [ref=f18e1481]: Phonetic /ˈsoː.bʰa.na/
+              - paragraph [ref=f18e1482]: bh is b plus a puff of air, not v.
+              - generic [ref=f18e1483]:
+                - button "Hear Sobhana" [ref=f18e1484] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1485]: Syllables for Sobhana. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1486]:
+            - generic [ref=f18e1487]:
+              - generic [ref=f18e1488]: Ahetuka
+              - generic [ref=f18e1489]: Rootless. No greed, hatred, delusion, or their opposites
+              - generic [ref=f18e1490]: Citta sheet
+            - generic [ref=f18e1491]:
+              - generic [ref=f18e1492]:
+                - generic [ref=f18e1493]:
+                  - generic [ref=f18e1494]: a
+                  - generic [ref=f18e1495]: uh
+                - generic [ref=f18e1496]:
+                  - generic [ref=f18e1497]: Stressed.
+                  - generic [ref=f18e1498]: he
+                  - generic [ref=f18e1499]: hay
+                - generic [ref=f18e1500]:
+                  - generic [ref=f18e1501]: tu
+                  - generic [ref=f18e1502]: tu
+                - generic [ref=f18e1503]:
+                  - generic [ref=f18e1504]: ka
+                  - generic [ref=f18e1505]: kuh
+              - paragraph [ref=f18e1506]: Phonetic /aˈheː.tu.ka/
+              - generic [ref=f18e1507]:
+                - button "Hear Ahetuka" [ref=f18e1508] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1509]: Syllables for Ahetuka. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1510]:
+            - generic [ref=f18e1511]:
+              - generic [ref=f18e1512]: Jhāna
+              - generic [ref=f18e1513]: Five levels, each defined by which factors remain
+              - generic [ref=f18e1514]: Citta sheet
+            - generic [ref=f18e1515]:
+              - generic [ref=f18e1516]:
+                - generic [ref=f18e1517]:
+                  - generic [ref=f18e1518]: Stressed.
+                  - generic [ref=f18e1519]: jhā
+                  - generic [ref=f18e1520]: j'haa
+                - generic [ref=f18e1521]:
+                  - generic [ref=f18e1522]: na
+                  - generic [ref=f18e1523]: nuh
+              - paragraph [ref=f18e1524]: Phonetic /ˈd͡ʒʰaː.na/
+              - paragraph [ref=f18e1525]: jh is j plus a puff of air.
+              - generic [ref=f18e1526]:
+                - button "Hear Jhāna" [ref=f18e1527] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1528]: Syllables for Jhāna. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1529]:
+            - generic [ref=f18e1530]:
+              - generic [ref=f18e1531]: Somanassa
+              - generic [ref=f18e1532]: Mental joy, a mode of feeling
+              - generic [ref=f18e1533]: Citta sheet
+            - generic [ref=f18e1534]:
+              - generic [ref=f18e1535]:
+                - generic [ref=f18e1536]:
+                  - generic [ref=f18e1537]: so
+                  - generic [ref=f18e1538]: soh
+                - generic [ref=f18e1539]:
+                  - generic [ref=f18e1540]: ma
+                  - generic [ref=f18e1541]: muh
+                - generic [ref=f18e1542]:
+                  - generic [ref=f18e1543]: Stressed.
+                  - generic [ref=f18e1544]: nas
+                  - generic [ref=f18e1545]: nuhs
+                - generic [ref=f18e1546]:
+                  - generic [ref=f18e1547]: sa
+                  - generic [ref=f18e1548]: suh
+              - paragraph [ref=f18e1549]: Phonetic /so.maˈnas.sa/
+              - generic [ref=f18e1550]:
+                - button "Hear Somanassa" [ref=f18e1551] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1552]: Syllables for Somanassa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1553]:
+            - generic [ref=f18e1554]:
+              - generic [ref=f18e1555]: Domanassa
+              - generic [ref=f18e1556]: Displeasure. The citta sheet gives it to exactly two cittas, both hatred-rooted
+              - generic [ref=f18e1557]: Citta sheet
+            - generic [ref=f18e1558]:
+              - generic [ref=f18e1559]:
+                - generic [ref=f18e1560]:
+                  - generic [ref=f18e1561]: do
+                  - generic [ref=f18e1562]: doh
+                - generic [ref=f18e1563]:
+                  - generic [ref=f18e1564]: ma
+                  - generic [ref=f18e1565]: muh
+                - generic [ref=f18e1566]:
+                  - generic [ref=f18e1567]: Stressed.
+                  - generic [ref=f18e1568]: nas
+                  - generic [ref=f18e1569]: nuhs
+                - generic [ref=f18e1570]:
+                  - generic [ref=f18e1571]: sa
+                  - generic [ref=f18e1572]: suh
+              - paragraph [ref=f18e1573]: Phonetic /do.maˈnas.sa/
+              - generic [ref=f18e1574]:
+                - button "Hear Domanassa" [ref=f18e1575] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1576]: Syllables for Domanassa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1577]:
+            - generic [ref=f18e1578]:
+              - generic [ref=f18e1579]: Upekkhā
+              - generic [ref=f18e1580]: Neutral feeling. The citta sheet also calls this feeling equanimity
+              - generic [ref=f18e1581]: Citta sheet
+            - generic [ref=f18e1582]:
+              - generic [ref=f18e1583]:
+                - generic [ref=f18e1584]:
+                  - generic [ref=f18e1585]: u
+                  - generic [ref=f18e1586]: u
+                - generic [ref=f18e1587]:
+                  - generic [ref=f18e1588]: Stressed.
+                  - generic [ref=f18e1589]: pek
+                  - generic [ref=f18e1590]: pek
+                - generic [ref=f18e1591]:
+                  - generic [ref=f18e1592]: khā
+                  - generic [ref=f18e1593]: k'haa
+              - paragraph [ref=f18e1594]: Phonetic /uˈpek.kʰaː/
+              - paragraph [ref=f18e1595]: kh is k plus a puff of air. This is a feeling-tone, not the cetasika tatramajjhattatā.
+              - generic [ref=f18e1596]:
+                - button "Hear Upekkhā" [ref=f18e1597] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1598]: Syllables for Upekkhā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1599]:
+            - generic [ref=f18e1600]:
+              - generic [ref=f18e1601]: Dukkha
+              - generic [ref=f18e1602]: "Bodily pain. One citta: unwholesome-resultant body-consciousness"
+              - generic [ref=f18e1603]: Citta sheet
+            - generic [ref=f18e1604]:
+              - generic [ref=f18e1605]:
+                - generic [ref=f18e1606]:
+                  - generic [ref=f18e1607]: Stressed.
+                  - generic [ref=f18e1608]: duk
+                  - generic [ref=f18e1609]: duk
+                - generic [ref=f18e1610]:
+                  - generic [ref=f18e1611]: kha
+                  - generic [ref=f18e1612]: k'huh
+              - paragraph [ref=f18e1613]: Phonetic /ˈduk.kʰa/
+              - generic [ref=f18e1614]:
+                - button "Hear Dukkha" [ref=f18e1615] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1616]: Syllables for Dukkha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1617]:
+            - generic [ref=f18e1618]:
+              - generic [ref=f18e1619]: Sukha
+              - generic [ref=f18e1620]: Bodily pleasure in one resultant, and a jhāna factor through the fourth
+              - generic [ref=f18e1621]: Citta sheet
+            - generic [ref=f18e1622]:
+              - generic [ref=f18e1623]:
+                - generic [ref=f18e1624]:
+                  - generic [ref=f18e1625]: Stressed.
+                  - generic [ref=f18e1626]: su
+                  - generic [ref=f18e1627]: su
+                - generic [ref=f18e1628]:
+                  - generic [ref=f18e1629]: kha
+                  - generic [ref=f18e1630]: k'huh
+              - paragraph [ref=f18e1631]: Phonetic /ˈsu.kʰa/
+              - generic [ref=f18e1632]:
+                - button "Hear Sukha" [ref=f18e1633] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1634]: Syllables for Sukha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1635]:
+            - generic [ref=f18e1636]:
+              - generic [ref=f18e1637]: Nibbāna
+              - generic [ref=f18e1638]: The object of the path and fruition cittas
+              - generic [ref=f18e1639]: Citta sheet
+            - generic [ref=f18e1640]:
+              - generic [ref=f18e1641]:
+                - generic [ref=f18e1642]:
+                  - generic [ref=f18e1643]: nib
+                  - generic [ref=f18e1644]: nib
+                - generic [ref=f18e1645]:
+                  - generic [ref=f18e1646]: Stressed.
+                  - generic [ref=f18e1647]: bā
+                  - generic [ref=f18e1648]: baa
+                - generic [ref=f18e1649]:
+                  - generic [ref=f18e1650]: na
+                  - generic [ref=f18e1651]: nuh
+              - paragraph [ref=f18e1652]: Phonetic /nibˈbaː.na/
+              - generic [ref=f18e1653]:
+                - button "Hear Nibbāna" [ref=f18e1654] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1655]: Syllables for Nibbāna. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1656]:
+            - generic [ref=f18e1657]:
+              - generic [ref=f18e1658]: Magga
+              - generic [ref=f18e1659]: Path consciousness. Four of them, each arising once
+              - generic [ref=f18e1660]: Citta sheet
+            - generic [ref=f18e1661]:
+              - generic [ref=f18e1662]:
+                - generic [ref=f18e1663]:
+                  - generic [ref=f18e1664]: Stressed.
+                  - generic [ref=f18e1665]: mag
+                  - generic [ref=f18e1666]: muhg
+                - generic [ref=f18e1667]:
+                  - generic [ref=f18e1668]: ga
+                  - generic [ref=f18e1669]: guh
+              - paragraph [ref=f18e1670]: Phonetic /ˈmag.ga/
+              - generic [ref=f18e1671]:
+                - button "Hear Magga" [ref=f18e1672] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1673]: Syllables for Magga. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1674]:
+            - generic [ref=f18e1675]:
+              - generic [ref=f18e1676]: Phala
+              - generic [ref=f18e1677]: Fruition, the resultant that follows a path immediately
+              - generic [ref=f18e1678]: Citta sheet
+            - generic [ref=f18e1679]:
+              - generic [ref=f18e1680]:
+                - generic [ref=f18e1681]:
+                  - generic [ref=f18e1682]: Stressed.
+                  - generic [ref=f18e1683]: pha
+                  - generic [ref=f18e1684]: p'huh
+                - generic [ref=f18e1685]:
+                  - generic [ref=f18e1686]: la
+                  - generic [ref=f18e1687]: luh
+              - paragraph [ref=f18e1688]: Phonetic /ˈpʰa.la/
+              - paragraph [ref=f18e1689]: ph is p plus a puff of air, not f.
+              - generic [ref=f18e1690]:
+                - button "Hear Phala" [ref=f18e1691] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1692]: Syllables for Phala. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1693]:
+            - generic [ref=f18e1694]:
+              - generic [ref=f18e1695]: Ñāṇa
+              - generic [ref=f18e1696]: Knowledge. The citta sheet’s "with knowledge" class
+              - generic [ref=f18e1697]: Citta sheet
+            - generic [ref=f18e1698]:
+              - generic [ref=f18e1699]:
+                - generic [ref=f18e1700]:
+                  - generic [ref=f18e1701]: Stressed.
+                  - generic [ref=f18e1702]: ñā
+                  - generic [ref=f18e1703]: nyaa
+                - generic [ref=f18e1704]:
+                  - generic [ref=f18e1705]: ṇa
+                  - generic [ref=f18e1706]: nuh
+              - paragraph [ref=f18e1707]: Phonetic /ˈɲaː.ɳa/
+              - paragraph [ref=f18e1708]: ñ is ny. ṇ is n with the tongue curled back.
+              - generic [ref=f18e1709]:
+                - button "Hear Ñāṇa" [ref=f18e1710] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1711]: Syllables for Ñāṇa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1712]:
+            - generic [ref=f18e1713]:
+              - generic [ref=f18e1714]: Paṭigha
+              - generic [ref=f18e1715]: Aversion. Hatred-rooted cittas are always with it
+              - generic [ref=f18e1716]: Citta sheet
+            - generic [ref=f18e1717]:
+              - generic [ref=f18e1718]:
+                - generic [ref=f18e1719]:
+                  - generic [ref=f18e1720]: Stressed.
+                  - generic [ref=f18e1721]: pa
+                  - generic [ref=f18e1722]: puh
+                - generic [ref=f18e1723]:
+                  - generic [ref=f18e1724]: ṭi
+                  - generic [ref=f18e1725]: ti
+                - generic [ref=f18e1726]:
+                  - generic [ref=f18e1727]: gha
+                  - generic [ref=f18e1728]: g'huh
+              - paragraph [ref=f18e1729]: Phonetic /ˈpa.ʈi.gʰa/
+              - paragraph [ref=f18e1730]: ṭ is a retroflex t. gh is g plus a puff of air.
+              - generic [ref=f18e1731]:
+                - button "Hear Paṭigha" [ref=f18e1732] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1733]: Syllables for Paṭigha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1734]:
+            - generic [ref=f18e1735]:
+              - generic [ref=f18e1736]: Mettā
+              - generic [ref=f18e1737]: Loving-kindness, the full form of non-hatred
+              - generic [ref=f18e1738]: Cetasika sheet, under adosa
+            - generic [ref=f18e1739]:
+              - generic [ref=f18e1740]:
+                - generic [ref=f18e1741]:
+                  - generic [ref=f18e1742]: Stressed.
+                  - generic [ref=f18e1743]: met
+                  - generic [ref=f18e1744]: met
+                - generic [ref=f18e1745]:
+                  - generic [ref=f18e1746]: tā
+                  - generic [ref=f18e1747]: taa
+              - paragraph [ref=f18e1748]: Phonetic /ˈmet.taː/
+              - generic [ref=f18e1749]:
+                - button "Hear Mettā" [ref=f18e1750] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1751]: Syllables for Mettā. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1752]:
+            - generic [ref=f18e1753]:
+              - generic [ref=f18e1754]: Bhūmi
+              - generic [ref=f18e1755]: "Plane: sense sphere, fine-material, immaterial, or supramundane"
+              - generic [ref=f18e1756]: Citta sheet
+            - generic [ref=f18e1757]:
+              - generic [ref=f18e1758]:
+                - generic [ref=f18e1759]:
+                  - generic [ref=f18e1760]: Stressed.
+                  - generic [ref=f18e1761]: bhū
+                  - generic [ref=f18e1762]: b'hoo
+                - generic [ref=f18e1763]:
+                  - generic [ref=f18e1764]: mi
+                  - generic [ref=f18e1765]: mi
+              - paragraph [ref=f18e1766]: Phonetic /ˈbʰuː.mi/
+              - paragraph [ref=f18e1767]: bh is b plus a puff of air.
+              - generic [ref=f18e1768]:
+                - button "Hear Bhūmi" [ref=f18e1769] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1770]: Syllables for Bhūmi. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1771]:
+            - generic [ref=f18e1772]:
+              - generic [ref=f18e1773]: Jāti
+              - generic [ref=f18e1774]: "Nature: unwholesome, wholesome, resultant, or functional"
+              - generic [ref=f18e1775]: Citta sheet
+            - generic [ref=f18e1776]:
+              - generic [ref=f18e1777]:
+                - generic [ref=f18e1778]:
+                  - generic [ref=f18e1779]: Stressed.
+                  - generic [ref=f18e1780]: jā
+                  - generic [ref=f18e1781]: jaa
+                - generic [ref=f18e1782]:
+                  - generic [ref=f18e1783]: ti
+                  - generic [ref=f18e1784]: ti
+              - paragraph [ref=f18e1785]: Phonetic /ˈd͡ʒaː.ti/
+              - generic [ref=f18e1786]:
+                - button "Hear Jāti" [ref=f18e1787] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1788]: Syllables for Jāti. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1789]:
+            - generic [ref=f18e1790]:
+              - generic [ref=f18e1791]: Niyata
+              - generic [ref=f18e1792]: Fixed. The factor must arise whenever that citta arises
+              - generic [ref=f18e1793]: Sampayoga sheet
+            - generic [ref=f18e1794]:
+              - generic [ref=f18e1795]:
+                - generic [ref=f18e1796]:
+                  - generic [ref=f18e1797]: Stressed.
+                  - generic [ref=f18e1798]: ni
+                  - generic [ref=f18e1799]: ni
+                - generic [ref=f18e1800]:
+                  - generic [ref=f18e1801]: ya
+                  - generic [ref=f18e1802]: yuh
+                - generic [ref=f18e1803]:
+                  - generic [ref=f18e1804]: ta
+                  - generic [ref=f18e1805]: tuh
+              - paragraph [ref=f18e1806]: Phonetic /ˈni.ja.ta/
+              - generic [ref=f18e1807]:
+                - button "Hear Niyata" [ref=f18e1808] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1809]: Syllables for Niyata. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1810]:
+            - generic [ref=f18e1811]:
+              - generic [ref=f18e1812]: Aniyata
+              - generic [ref=f18e1813]: Unfixed. Possible in that citta, and sometimes absent
+              - generic [ref=f18e1814]: Sampayoga sheet
+            - generic [ref=f18e1815]:
+              - generic [ref=f18e1816]:
+                - generic [ref=f18e1817]:
+                  - generic [ref=f18e1818]: a
+                  - generic [ref=f18e1819]: uh
+                - generic [ref=f18e1820]:
+                  - generic [ref=f18e1821]: Stressed.
+                  - generic [ref=f18e1822]: ni
+                  - generic [ref=f18e1823]: ni
+                - generic [ref=f18e1824]:
+                  - generic [ref=f18e1825]: ya
+                  - generic [ref=f18e1826]: yuh
+                - generic [ref=f18e1827]:
+                  - generic [ref=f18e1828]: ta
+                  - generic [ref=f18e1829]: tuh
+              - paragraph [ref=f18e1830]: Phonetic /aˈni.ja.ta/
+              - generic [ref=f18e1831]:
+                - button "Hear Aniyata" [ref=f18e1832] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1833]: Syllables for Aniyata. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1834]:
+            - generic [ref=f18e1835]:
+              - generic [ref=f18e1836]: Bhavaṅga
+              - generic [ref=f18e1837]: Life-continuum, the passive citta between processes
+              - generic [ref=f18e1838]: Vīthi sheet
+            - generic [ref=f18e1839]:
+              - generic [ref=f18e1840]:
+                - generic [ref=f18e1841]:
+                  - generic [ref=f18e1842]: bha
+                  - generic [ref=f18e1843]: b'huh
+                - generic [ref=f18e1844]:
+                  - generic [ref=f18e1845]: Stressed.
+                  - generic [ref=f18e1846]: vaṅ
+                  - generic [ref=f18e1847]: vuhng
+                - generic [ref=f18e1848]:
+                  - generic [ref=f18e1849]: ga
+                  - generic [ref=f18e1850]: guh
+              - paragraph [ref=f18e1851]: Phonetic /bʰaˈʋaŋ.ga/
+              - paragraph [ref=f18e1852]: bh is b plus a puff of air.
+              - generic [ref=f18e1853]:
+                - button "Hear Bhavaṅga" [ref=f18e1854] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1855]: Syllables for Bhavaṅga. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1856]:
+            - generic [ref=f18e1857]:
+              - generic [ref=f18e1858]: Javana
+              - generic [ref=f18e1859]: Impulsion. The moments in a process where kamma is made
+              - generic [ref=f18e1860]: Vīthi sheet
+            - generic [ref=f18e1861]:
+              - generic [ref=f18e1862]:
+                - generic [ref=f18e1863]:
+                  - generic [ref=f18e1864]: Stressed.
+                  - generic [ref=f18e1865]: ja
+                  - generic [ref=f18e1866]: juh
+                - generic [ref=f18e1867]:
+                  - generic [ref=f18e1868]: va
+                  - generic [ref=f18e1869]: vuh
+                - generic [ref=f18e1870]:
+                  - generic [ref=f18e1871]: na
+                  - generic [ref=f18e1872]: nuh
+              - paragraph [ref=f18e1873]: Phonetic /ˈd͡ʒa.ʋa.na/
+              - generic [ref=f18e1874]:
+                - button "Hear Javana" [ref=f18e1875] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1876]: Syllables for Javana. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1877]:
+            - generic [ref=f18e1878]:
+              - generic [ref=f18e1879]: Votthapana
+              - generic [ref=f18e1880]: Determining. Settles the character of the javanas that follow
+              - generic [ref=f18e1881]: Vīthi sheet
+            - generic [ref=f18e1882]:
+              - generic [ref=f18e1883]:
+                - generic [ref=f18e1884]:
+                  - generic [ref=f18e1885]: Stressed.
+                  - generic [ref=f18e1886]: vot
+                  - generic [ref=f18e1887]: vot
+                - generic [ref=f18e1888]:
+                  - generic [ref=f18e1889]: tha
+                  - generic [ref=f18e1890]: t'huh
+                - generic [ref=f18e1891]:
+                  - generic [ref=f18e1892]: pa
+                  - generic [ref=f18e1893]: puh
+                - generic [ref=f18e1894]:
+                  - generic [ref=f18e1895]: na
+                  - generic [ref=f18e1896]: nuh
+              - paragraph [ref=f18e1897]: Phonetic /ˈʋot.tʰa.pa.na/
+              - paragraph [ref=f18e1898]: th is t plus a puff of air.
+              - generic [ref=f18e1899]:
+                - button "Hear Votthapana" [ref=f18e1900] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1901]: Syllables for Votthapana. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1902]:
+            - generic [ref=f18e1903]:
+              - generic [ref=f18e1904]: Tadārammaṇa
+              - generic [ref=f18e1905]: Registration, the brief hold after impulsion
+              - generic [ref=f18e1906]: Vīthi sheet
+            - generic [ref=f18e1907]:
+              - generic [ref=f18e1908]:
+                - generic [ref=f18e1909]:
+                  - generic [ref=f18e1910]: ta
+                  - generic [ref=f18e1911]: tuh
+                - generic [ref=f18e1912]:
+                  - generic [ref=f18e1913]: dā
+                  - generic [ref=f18e1914]: daa
+                - generic [ref=f18e1915]:
+                  - generic [ref=f18e1916]: Stressed.
+                  - generic [ref=f18e1917]: ram
+                  - generic [ref=f18e1918]: ruhm
+                - generic [ref=f18e1919]:
+                  - generic [ref=f18e1920]: ma
+                  - generic [ref=f18e1921]: muh
+                - generic [ref=f18e1922]:
+                  - generic [ref=f18e1923]: ṇa
+                  - generic [ref=f18e1924]: nuh
+              - paragraph [ref=f18e1925]: Phonetic /ta.daːˈram.ma.ɳa/
+              - paragraph [ref=f18e1926]: ṇ is n with the tongue curled back.
+              - generic [ref=f18e1927]:
+                - button "Hear Tadārammaṇa" [ref=f18e1928] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1929]: Syllables for Tadārammaṇa. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1930]:
+            - generic [ref=f18e1931]:
+              - generic [ref=f18e1932]: Ekuppāda
+              - generic [ref=f18e1933]: Arising together
+              - generic [ref=f18e1934]: Sampayoga sheet
+            - generic [ref=f18e1935]:
+              - generic [ref=f18e1936]:
+                - generic [ref=f18e1937]:
+                  - generic [ref=f18e1938]: e
+                  - generic [ref=f18e1939]: ay
+                - generic [ref=f18e1940]:
+                  - generic [ref=f18e1941]: kup
+                  - generic [ref=f18e1942]: kup
+                - generic [ref=f18e1943]:
+                  - generic [ref=f18e1944]: Stressed.
+                  - generic [ref=f18e1945]: pā
+                  - generic [ref=f18e1946]: paa
+                - generic [ref=f18e1947]:
+                  - generic [ref=f18e1948]: da
+                  - generic [ref=f18e1949]: duh
+              - paragraph [ref=f18e1950]: Phonetic /eː.kupˈpaː.da/
+              - generic [ref=f18e1951]:
+                - button "Hear Ekuppāda" [ref=f18e1952] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1953]: Syllables for Ekuppāda. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1954]:
+            - generic [ref=f18e1955]:
+              - generic [ref=f18e1956]: Ekanirodha
+              - generic [ref=f18e1957]: Ceasing together
+              - generic [ref=f18e1958]: Sampayoga sheet
+            - generic [ref=f18e1959]:
+              - generic [ref=f18e1960]:
+                - generic [ref=f18e1961]:
+                  - generic [ref=f18e1962]: e
+                  - generic [ref=f18e1963]: ay
+                - generic [ref=f18e1964]:
+                  - generic [ref=f18e1965]: ka
+                  - generic [ref=f18e1966]: kuh
+                - generic [ref=f18e1967]:
+                  - generic [ref=f18e1968]: ni
+                  - generic [ref=f18e1969]: ni
+                - generic [ref=f18e1970]:
+                  - generic [ref=f18e1971]: Stressed.
+                  - generic [ref=f18e1972]: ro
+                  - generic [ref=f18e1973]: roh
+                - generic [ref=f18e1974]:
+                  - generic [ref=f18e1975]: dha
+                  - generic [ref=f18e1976]: d'huh
+              - paragraph [ref=f18e1977]: Phonetic /eː.ka.niˈroː.dʰa/
+              - generic [ref=f18e1978]:
+                - button "Hear Ekanirodha" [ref=f18e1979] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e1980]: Syllables for Ekanirodha. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e1981]:
+            - generic [ref=f18e1982]:
+              - generic [ref=f18e1983]: Ekālambana
+              - generic [ref=f18e1984]: Having the same object
+              - generic [ref=f18e1985]: Sampayoga sheet
+            - generic [ref=f18e1986]:
+              - generic [ref=f18e1987]:
+                - generic [ref=f18e1988]:
+                  - generic [ref=f18e1989]: e
+                  - generic [ref=f18e1990]: ay
+                - generic [ref=f18e1991]:
+                  - generic [ref=f18e1992]: kā
+                  - generic [ref=f18e1993]: kaa
+                - generic [ref=f18e1994]:
+                  - generic [ref=f18e1995]: Stressed.
+                  - generic [ref=f18e1996]: lam
+                  - generic [ref=f18e1997]: luhm
+                - generic [ref=f18e1998]:
+                  - generic [ref=f18e1999]: ba
+                  - generic [ref=f18e2000]: buh
+                - generic [ref=f18e2001]:
+                  - generic [ref=f18e2002]: na
+                  - generic [ref=f18e2003]: nuh
+              - paragraph [ref=f18e2004]: Phonetic /eː.kaːˈlam.ba.na/
+              - generic [ref=f18e2005]:
+                - button "Hear Ekālambana" [ref=f18e2006] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e2007]: Syllables for Ekālambana. The darker syllable is stressed. The button uses an English voice and will be approximate.
+          - listitem [ref=f18e2008]:
+            - generic [ref=f18e2009]:
+              - generic [ref=f18e2010]: Ekavatthuka
+              - generic [ref=f18e2011]: Having the same base
+              - generic [ref=f18e2012]: Sampayoga sheet
+            - generic [ref=f18e2013]:
+              - generic [ref=f18e2014]:
+                - generic [ref=f18e2015]:
+                  - generic [ref=f18e2016]: e
+                  - generic [ref=f18e2017]: ay
+                - generic [ref=f18e2018]:
+                  - generic [ref=f18e2019]: ka
+                  - generic [ref=f18e2020]: kuh
+                - generic [ref=f18e2021]:
+                  - generic [ref=f18e2022]: Stressed.
+                  - generic [ref=f18e2023]: vat
+                  - generic [ref=f18e2024]: vuht
+                - generic [ref=f18e2025]:
+                  - generic [ref=f18e2026]: thu
+                  - generic [ref=f18e2027]: t'hu
+                - generic [ref=f18e2028]:
+                  - generic [ref=f18e2029]: ka
+                  - generic [ref=f18e2030]: kuh
+              - paragraph [ref=f18e2031]: Phonetic /eː.kaˈʋat.tʰu.ka/
+              - generic [ref=f18e2032]:
+                - button "Hear Ekavatthuka" [ref=f18e2033] [cursor=pointer]
+                - paragraph
+              - paragraph [ref=f18e2034]: Syllables for Ekavatthuka. The darker syllable is stressed. The button uses an English voice and will be approximate.
+  - contentinfo [ref=f18e2035]:
+    - paragraph [ref=f18e2037]: The four sheets are shown as written. Pronunciation is a guide to that romanization; the sheets do not record it. Each real moment is a reading aid written to match the sheet’s definition, and is not itself in the sheets. Counts and combination rules are.

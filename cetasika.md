@@ -16,7 +16,7 @@ Recognition — the mind marking an object and matching it against past experien
 
 ### 4. Cetanā — Intention
 
-The factor that organizes the mind toward its object and drives it to act. It coordinates the other factors much as a chief pupil rehearses his own lesson and gets the others to do theirs. The Buddha identified cetanā with kamma, so this is where moral responsibility actually lives.
+The factor that organizes the mind toward its object and drives it to act. It coordinates the other factors much as a chief pupil rehearses his own lesson and gets the others to do theirs. It is present in all eighty-nine cittas. The Buddha identified cetanā with kamma, and in this system that identification is the volition of wholesome and unwholesome cittas, made in the javanas. In a resultant or a functional citta the same factor organizes the moment and accumulates nothing.
 
 ### 5. Ekaggatā — One-pointedness
 
@@ -28,7 +28,7 @@ The vitality that sustains the other mental factors for the moment they exist to
 
 ### 7. Manasikāra — Attention
 
-The turning of the mind toward an object, the rudder that steers consciousness to one thing rather than another. It is what selects the object that contact then meets. Whether attention is wise or unwise largely determines whether wholesome or unwholesome states follow.
+The turning of the mind toward an object, the rudder that steers the co-arisen factors to one thing rather than another. Contact and attention arise and cease in the same moment: attention yokes those factors to the object while contact mentally touches it. Whether attention is wise or unwise largely determines whether wholesome or unwholesome states follow.
 
 ## Occasional Mental Factors
 
@@ -80,7 +80,7 @@ Grasping, clinging, and wanting to hold on — from mild attraction to full-blow
 
 ### 6. Diṭṭhi — Wrong view
 
-Seeing things wrongly and being convinced of it — most fundamentally, taking what is impermanent and not-self to be a lasting self. It is worse than plain ignorance because it interprets confidently. Wrong view is abandoned entirely at the first stage of awakening.
+Seeing things wrongly and being convinced of it. It is a justifying conviction, and the grasping it justifies is greed, which is in all eight greed-rooted cittas. It is worse than plain not-seeing because it interprets and is convinced. Wrong view is abandoned entirely at the first stage of awakening.
 
 ### 7. Māna — Conceit
 
@@ -100,7 +100,7 @@ Withholding — concealing one's possessions, position, or knowledge rather than
 
 ### 11. Kukkucca — Worry, remorse
 
-Fretting over what has been done wrongly and what should have been done but wasn't. It is regret that turns to agitation, gnawing like a slave who cannot escape his master. Remorse that leads to correction is useful; the churning that follows is not.
+Repentance over a wrong that was done or a good that was left undone. As a mental factor it is unwholesome, and it arises only in the two hatred-rooted cittas. In the Vinaya the same word can mean a healthy scruple about the rules, and that use is commended. This factor is the other use.
 
 ### 12. Thīna — Sloth, laziness
 
@@ -108,7 +108,7 @@ The sluggishness and shrinking back of consciousness itself — a loss of drive 
 
 ### 13. Middha — Torpor, tiredness
 
-The dullness and heaviness of the accompanying mental factors, the drowsy sinking that follows on sloth. Thīna afflicts the mind, middha its retinue. Both remove the wieldiness needed for meditation and are removed by energy roused with wise attention.
+The dullness and heaviness of the accompanying mental factors. Thīna afflicts the mind, middha its retinue, and when either is present the other is present with it. They are optional in the five prompted unwholesome cittas, and they do not arise in unprompted ones. Both remove the wieldiness needed for meditation and are removed by energy roused with wise attention.
 
 ### 14. Vicikicchā — Sceptical doubt
 
@@ -194,7 +194,7 @@ The same straightness in consciousness, which meets its object directly rather t
 
 ### 20. Sammā vācā — Right speech
 
-The deliberate abstention from false, harsh, divisive, and idle speech. As a mental factor it arises at the moment of restraint, when the opportunity for wrong speech is consciously declined. In the noble path consciousness it is present as a permanent quality, no longer a choice made case by case.
+The deliberate abstention from false, harsh, divisive, and idle speech. As a mental factor it arises at the moment of restraint, when the opportunity for wrong speech is consciously declined. In every supramundane consciousness, path and fruition, all three abstinences are present together. In the path they eradicate the inclination to transgress. In fruition they are the purity of speech, action, and livelihood that the path has already accomplished.
 
 ### 21. Sammā kammanta — Right action
 
@@ -202,7 +202,7 @@ Abstention from killing, stealing, and sexual misconduct. Like right speech, it 
 
 ### 22. Sammā ājīva — Right livelihood
 
-Abstention from earning a living through harmful means — trading in weapons, poisons, intoxicants, living beings, or deceit. It arises as a mental factor in the moment of turning such gain down. Completing the virtue section of the path, it extends ethics into how one is sustained.
+Abstention from earning a living by dealing in poisons, intoxicants, weapons, slaves, or animals for slaughter. That is the list in the Abhidhamma manuals. The discourse they narrow names weapons, living beings, meat, intoxicants, and poison. It arises as a mental factor in the moment of turning such gain down. Completing the virtue section of the path, it extends ethics into how one is sustained.
 
 ### 23. Karuṇā — Compassion
 

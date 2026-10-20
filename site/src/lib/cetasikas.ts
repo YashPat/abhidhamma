@@ -104,9 +104,9 @@ export const cetasikas: Cetasika[] = [
 		range: universal,
 		example: {
 			scene: 'Your hand goes for the phone. Something in the mind gathers the moment into "check the message."',
-			read: 'That organizing drive is intention. The cetasika sheet identifies it with kamma. It is present even in moments with no wish to act, and it is not the same as wanting the news to be good.'
+			read: 'That organizing drive is intention. It is in every citta. It accumulates kamma in wholesome and unwholesome javanas, and in a bare sense-moment it organizes the mind and plants nothing. It is not the same as wanting the news to be good.'
 		},
-		aliases: ['kamma', 'volition', 'cetana']
+		aliases: ['volition', 'cetana']
 	},
 	{
 		id: 'ekaggata',
@@ -178,7 +178,7 @@ export const cetasikas: Cetasika[] = [
 		range: universal,
 		example: {
 			scene: 'In a loud café the mind swings onto one voice and the rest drops into the background.',
-			read: 'That steering onto an object is attention. It selects what contact then meets. It has not labeled the voice, and it is not the mindfulness that only beautiful moments have.'
+			read: 'That steering onto an object is attention. In the same moment, it yokes the other factors to the voice and contact meets it. It has not labeled the voice, and it is not the mindfulness that only beautiful moments have.'
 		},
 		aliases: ['attention', 'manasikara', 'wise attention']
 	},
@@ -583,7 +583,7 @@ export const cetasikas: Cetasika[] = [
 			'/ˈtʰiː.na/'
 		),
 		trap: 'th is a t with a puff of air, not the th in think.',
-		range: 'The 5 prompted unwholesome cittas. Unfixed. The sheet presents it together with torpor.',
+		range: 'The 5 prompted unwholesome cittas. Unfixed. When present, it arises with torpor.',
 		example: {
 			scene:
 				'You know the next sentence, and the knowing itself goes limp, while you are still sitting upright.',
@@ -605,7 +605,7 @@ export const cetasikas: Cetasika[] = [
 			'/ˈmid.dʰa/'
 		),
 		trap: 'dh is a d with a puff of air.',
-		range: 'The 5 prompted unwholesome cittas. Unfixed. The sheet presents it together with sloth.',
+		range: 'The 5 prompted unwholesome cittas. Unfixed. When present, it arises with sloth.',
 		example: {
 			scene:
 				'With that limpness, everything that came along with the mind goes thick: the label fuzzy, the effort unavailable, the moment sinking.',
@@ -794,7 +794,7 @@ export const cetasikas: Cetasika[] = [
 			read: 'That balance of the mind and its factors is equanimity, literally "there in the middle." It is not a flat feeling-tone. Neutral feeling is common in unwholesome moments. This factor is only in beautiful ones.'
 		},
 		misread:
-			'The citta sheet uses "equanimity" for neutral feeling and calls it the most common feeling in the system. This factor is the balance of a beautiful mind. A merely neutral moment does not have it.',
+			'The citta sheet uses "equanimity" for neutral feeling. On the 121 reckoning joy is the larger class of cittas, sixty-two against fifty-five. This factor is the balance of a beautiful mind. A merely neutral moment does not have it.',
 		aliases: ['equanimity', 'balance', 'tatramajjhattata', 'upekkha']
 	},
 	{
@@ -1161,7 +1161,7 @@ export const cetasikas: Cetasika[] = [
 			'16 cittas: the 8 great wholesome and the 8 supramundane. In an ordinary wholesome moment, at most one abstinence, and often none. In the supramundane, all three are present and fixed.',
 		example: {
 			scene: 'The contract pays well. It is for a weapons broker. You turn it down.',
-			read: 'Right livelihood is that abstention, in the moment you turn the gain down. The sheet names trade in weapons, poisons, intoxicants, living beings, and deceit. A job you feel proud of is not, by itself, this factor.'
+			read: 'Right livelihood is that abstention, in the moment you turn the gain down. The manuals name poisons, intoxicants, weapons, slaves, and animals for slaughter. The discourse names weapons, living beings, meat, intoxicants, and poison. A job you feel proud of is not, by itself, this factor.'
 		},
 		aliases: ['right livelihood', 'samma ajiva']
 	},

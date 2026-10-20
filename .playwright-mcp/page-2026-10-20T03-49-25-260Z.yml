@@ -1,0 +1,69 @@
+- generic [ref=f20e2]:
+  - link "Skip to content" [ref=f20e3] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f20e4]:
+    - generic [ref=f20e5]:
+      - link "Abhidhamma a mind-moment, taken apart" [ref=f20e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f20e7]: Abhidhamma
+        - generic [ref=f20e8]: a mind-moment, taken apart
+      - button "Menu" [ref=f20e9] [cursor=pointer]
+  - main [ref=f20e10]:
+    - generic [ref=f20e11]:
+      - paragraph [ref=f20e12]:
+        - link "Mix-ups" [ref=f20e13] [cursor=pointer]:
+          - /url: /confused
+        - generic [aria-hidden] [ref=f20e14]: /
+        - generic [ref=f20e15]: Feeling and rapture
+      - paragraph [ref=f20e16]: Co-arising is uneven
+      - heading "Feeling and rapture" [level=1] [ref=f20e17]
+      - paragraph [ref=f20e18]: A pleasant thrill feels like one thing. The sheets split it.
+      - paragraph [ref=f20e19]: Some of this set can be present while others are missing.
+      - generic [ref=f20e20]:
+        - heading "Can they share a moment?" [level=2] [ref=f20e21]
+        - paragraph [ref=f20e22]: Rapture requires joyful feeling and is not guaranteed by it. It drops out of every citta whose feeling is not joyful, out of both hatred-rooted cittas, and out of body-consciousness. It also drops out of the fourth jhāna, which keeps a pleasant feeling.
+      - figure "Sampayoga sheet" [ref=f20e23]:
+        - blockquote [ref=f20e24]:
+          - paragraph [ref=f20e25]: Pīti is the traveller’s elation at sighting water, sukha is the ease of drinking it.
+      - article [ref=f20e28]:
+        - paragraph [ref=f20e29]: A combination rule
+        - paragraph [ref=f20e30]: Sixty-two cittas have joyful feeling and rapture arises in fifty-one of them. The eleven left out are the fourth-jhāna cittas. That gap is the sheet’s evidence that the two are not one factor named twice. Bodily pleasure (sukha) is not mental joy (somanassa), and rapture is tied to the mental feeling. The jhāna table uses sukha for the pleasant feeling that remains after rapture drops, so the English word "pleasant" covers more than one slot in the sheets.
+        - paragraph [ref=f20e31]: Sampayoga sheet, on pīti and somanassa
+      - generic [ref=f20e32]:
+        - heading "How to tell them" [level=2] [ref=f20e33]
+        - list [ref=f20e34]:
+          - listitem [ref=f20e35]:
+            - link "Vedanā — Feeling" [ref=f20e36] [cursor=pointer]:
+              - /url: /cetasikas/vedana
+            - paragraph [ref=f20e37]: "The tone: pleasant, unpleasant, or neither. In the water simile, this is the ease of drinking."
+          - listitem [ref=f20e38]:
+            - link "Pīti — Rapture" [ref=f20e39] [cursor=pointer]:
+              - /url: /cetasikas/piti
+            - paragraph [ref=f20e40]: Interest and thrill in the object. In the simile, the elation at sighting water. It can be absent while the pleasant tone remains.
+      - generic [ref=f20e41]:
+        - heading "Which one is this?" [level=2] [ref=f20e42]
+        - blockquote [ref=f20e43]:
+          - paragraph [ref=f20e44]: The shower is a little too hot. Before any thought about the landlord, there is an unpleasant tone.
+        - group "Possible factors" [ref=f20e45]:
+          - button "Vedanā Feeling" [disabled] [pressed] [ref=f20e46] [cursor=pointer]:
+            - generic [ref=f20e47]: Vedanā
+            - generic [ref=f20e48]: Feeling
+          - button "Pīti Rapture" [disabled] [ref=f20e49] [cursor=pointer]:
+            - generic [ref=f20e50]: Pīti
+            - generic [ref=f20e51]: Rapture
+        - generic [ref=f20e62]:
+          - paragraph [ref=f20e63]: Yes.
+          - paragraph [ref=f20e64]: That tone is feeling. It is not the annoyance, which would be hatred, and it is not the recognition "too hot," which is perception.
+          - paragraph [ref=f20e65]: "The tone: pleasant, unpleasant, or neither. In the water simile, this is the ease of drinking."
+          - button "Next moment" [active] [ref=f20e66] [cursor=pointer]
+      - navigation "Mix-ups" [ref=f20e52]:
+        - link "Previous Contact, feeling, and perception" [ref=f20e53] [cursor=pointer]:
+          - /url: /confused/contact-feeling-perception
+          - generic [ref=f20e54]: Previous
+          - strong [ref=f20e55]: Contact, feeling, and perception
+        - link "Next Intention, wish, and greed" [ref=f20e56] [cursor=pointer]:
+          - /url: /confused/intention-wish-greed
+          - generic [ref=f20e57]: Next
+          - strong [ref=f20e58]: Intention, wish, and greed
+  - contentinfo [ref=f20e59]:
+    - paragraph [ref=f20e61]: The four sheets are shown as written. Pronunciation is a guide to that romanization; the sheets do not record it. Each real moment is a reading aid written to match the sheet’s definition, and is not itself in the sheets. Counts and combination rules are.

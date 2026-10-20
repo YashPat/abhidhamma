@@ -32,7 +32,7 @@ Twelve cittas rooted in greed, hatred, or delusion. Every one of them is accompa
 
 ### 1. Lobhamūla citta — Greed-rooted
 
-Consciousness that grasps at its object, whether as mild attraction or open craving. Eight varieties arise from three binary choices: the feeling is joyful or neutral, wrong view is present or absent, and the arising is unprompted or prompted. Wrong view here means the citta is not merely wanting something but actively construing it — as a self, as permanent, as worth taking to be mine.
+Consciousness that grasps at its object, whether as mild attraction or open craving. Eight varieties arise from three binary choices: the feeling is joyful or neutral, wrong view is present or absent, and the arising is unprompted or prompted. Greed, the grasping, is in all eight. Wrong view is in four of them, and it is a justifying conviction: the citta settles on a view that makes the grasping right. The other four are greed without that justification.
 
 | Feeling | View | Prompting |
 | --- | --- | --- |
@@ -103,7 +103,7 @@ Three cittas that do a job and leave no kammic trace. Two are the adverting citt
 
 ## Kāmāvacara Sobhana Citta — Beautiful Sense-Sphere Consciousness
 
-Twenty-four cittas, all accompanied by non-greed and non-hatred and by the nineteen universal beautiful cetasikas. The remaining beautiful factors — the three abstinences, the two illimitables, and wisdom — are occasional, which is what the knowledge distinction below turns on. They come as three sets of eight — wholesome, resultant, and functional — and each set of eight is generated the same way, by three binary choices.
+Twenty-four cittas, all accompanied by non-greed and non-hatred and by the nineteen universal beautiful cetasikas. The three abstinences and the two illimitables are occasional adjuncts, and they do not generate the eight. Wisdom is the knowledge axis of the split. The twenty-four come as three sets of eight — wholesome, resultant, and functional — and each set of eight is generated the same way, by three binary choices.
 
 The three choices are: joyful or neutral feeling; accompanied by knowledge (ñāṇa) or not; unprompted or prompted. Knowledge here means the citta is informed by understanding of kamma or of the three characteristics, which is what makes a good act a wise one rather than merely a well-meant one.
 
@@ -130,7 +130,7 @@ The same eight as they occur in an arahant. Everything a worldling does with mah
 
 Fifteen cittas belonging to the jhānas, produced by concentration on a material meditation object. Five jhāna levels, each occurring in three natures: wholesome for the worldling or trainee attaining it, resultant as rebirth in the corresponding Brahmā realm, functional for the arahant who attains it.
 
-The five levels are defined by which jhāna factors remain, dropped one at a time as concentration refines.
+The five levels are defined by which jhāna factors remain, dropped one at a time as concentration refines. The sukha in this table is pleasant mental feeling, identical with somanassa. Bodily pleasure is a separate feeling, and it occurs in exactly one citta, the wholesome-resultant body-consciousness.
 
 | Jhāna | Factors present |
 | --- | --- |
@@ -180,7 +180,7 @@ The asymmetry between the two is the point. A path citta arises exactly once eve
 
 ### 1. Magga citta — Path
 
-The moment of breakthrough at each of the four stages, in which Nibbāna is seen directly and specific fetters are destroyed permanently. It is wholesome kamma of the highest order, and it is the only kamma whose result cannot be prevented or delayed.
+The moment of breakthrough at each of the four stages, in which Nibbāna is seen directly and specific fetters are destroyed permanently. It is wholesome kamma of the highest order, and its fruit arises immediately after it, in the same process.
 
 ### 2. Phala citta — Fruition
 
@@ -192,6 +192,6 @@ The resultant consciousness that immediately follows the path and shares its obj
 
 **Prompted and unprompted.** An unprompted citta arises of its own momentum and is kammically stronger; a prompted one requires inducement and is weaker. This holds for wholesome and unwholesome alike, so a spontaneous kindness and a spontaneous cruelty are both weightier than their deliberated versions.
 
-**Feeling across the classes.** Displeasure occurs in exactly two cittas, both hatred-rooted. Bodily pain and bodily pleasure occur in exactly one each, both rootless resultants. Everything else in the eighty-nine carries either joy or neutrality, which is why equanimity is by far the most common feeling in the system.
+**Feeling across the classes.** Displeasure occurs in exactly two cittas, both hatred-rooted. Bodily pain and bodily pleasure occur in exactly one each, both rootless resultants. Of the eighty-one mundane cittas, thirty are joyful and forty-seven are equanimous. The other eight are supramundane, and each takes the joy or the equanimity of the jhāna it occurs in. On the 121 reckoning those eight are counted at all five jhānas, and joy is the larger class: sixty-two against fifty-five.
 
 **Roots.** Rootless cittas number eighteen; the remaining seventy-one all have at least one root. Two roots (non-greed, non-hatred) accompany every beautiful citta; the third (wisdom) is present only in those marked "with knowledge," all fine-material, immaterial, and supramundane cittas included.

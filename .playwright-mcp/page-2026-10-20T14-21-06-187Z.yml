@@ -1,0 +1,230 @@
+- generic [ref=f41e2]:
+  - link "Skip to content" [ref=f41e3] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f41e4]:
+    - generic [ref=f41e5]:
+      - link "Abhidhamma a mind-moment, taken apart" [ref=f41e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f41e7]: Abhidhamma
+        - generic [ref=f41e8]: a mind-moment, taken apart
+      - button "Menu" [ref=f41e9] [cursor=pointer]
+  - main [ref=f41e10]:
+    - generic [ref=f41e11]:
+      - paragraph [ref=f41e12]:
+        - link "The sheets" [ref=f41e13] [cursor=pointer]:
+          - /url: /sheets
+        - generic [aria-hidden] [ref=f41e14]: /
+        - generic [ref=f41e15]: Vīthi
+      - paragraph [ref=f41e16]: A cognitive process is a fixed sequence. Of the seventeen moments in a full sense-door process, the javanas are where kamma is made. Determining is where their character is settled.
+      - generic [ref=f41e17]:
+        - navigation "On this sheet" [ref=f41e18]:
+          - link "The Framework" [ref=f41e19] [cursor=pointer]:
+            - /url: "#the-framework"
+          - link "The Five-Door Process" [ref=f41e20] [cursor=pointer]:
+            - /url: "#the-five-door-process"
+          - link "1. Atīta-bhavaṅga — Past life-continuum" [ref=f41e21] [cursor=pointer]:
+            - /url: "#1-atita-bhavanga-past-life-continuum"
+          - link "2. Bhavaṅga-calana — Vibration" [ref=f41e22] [cursor=pointer]:
+            - /url: "#2-bhavanga-calana-vibration"
+          - link "3. Bhavaṅgupaccheda — Arrest" [ref=f41e23] [cursor=pointer]:
+            - /url: "#3-bhavangupaccheda-arrest"
+          - link "4. Pañcadvārāvajjana — Five-door adverting" [ref=f41e24] [cursor=pointer]:
+            - /url: "#4-pancadvaravajjana-five-door-adverting"
+          - link "5. Pañca-viññāṇa — Sense consciousness" [ref=f41e25] [cursor=pointer]:
+            - /url: "#5-panca-vinnana-sense-consciousness"
+          - link "6. Sampaṭicchana — Receiving" [ref=f41e26] [cursor=pointer]:
+            - /url: "#6-sampaticchana-receiving"
+          - link "7. Santīraṇa — Investigating" [ref=f41e27] [cursor=pointer]:
+            - /url: "#7-santirana-investigating"
+          - link "8. Votthapana — Determining" [ref=f41e28] [cursor=pointer]:
+            - /url: "#8-votthapana-determining"
+          - link "9–15. Javana — Impulsion" [ref=f41e29] [cursor=pointer]:
+            - /url: "#9-15-javana-impulsion"
+          - link "16–17. Tadārammaṇa — Registration" [ref=f41e30] [cursor=pointer]:
+            - /url: "#16-17-tadarammana-registration"
+          - link "Shorter Processes" [ref=f41e31] [cursor=pointer]:
+            - /url: "#shorter-processes"
+          - link "The Mind-Door Process" [ref=f41e32] [cursor=pointer]:
+            - /url: "#the-mind-door-process"
+          - link "The Absorption Process" [ref=f41e33] [cursor=pointer]:
+            - /url: "#the-absorption-process"
+          - link "The Death Process" [ref=f41e34] [cursor=pointer]:
+            - /url: "#the-death-process"
+          - link "1. Cuti citta — Death consciousness" [ref=f41e35] [cursor=pointer]:
+            - /url: "#1-cuti-citta-death-consciousness"
+          - link "2. Paṭisandhi citta — Rebirth-linking consciousness" [ref=f41e36] [cursor=pointer]:
+            - /url: "#2-patisandhi-citta-rebirth-linking-consciousness"
+          - link "3. Bhavaṅga — Life-continuum" [ref=f41e37] [cursor=pointer]:
+            - /url: "#3-bhavanga-life-continuum"
+        - article [ref=f41e38]:
+          - heading "Citta-vīthi Reference Sheet" [level=1] [ref=f41e39]
+          - heading "The Framework" [level=2] [ref=f41e40]
+          - paragraph [ref=f41e41]:
+            - text: "A vīthi is a cognitive process: the fixed sequence of cittas that runs whenever an object is actually cognized. The eighty-nine cittas are a taxonomy of what can occur; the vīthi is the account of"
+            - emphasis [ref=f41e42]: when
+            - text: and
+            - emphasis [ref=f41e43]: in what order
+            - text: they occur. Nothing in the mind happens at random — each citta arises in a determined position, performs one function, and gives way to the next.
+          - paragraph [ref=f41e44]: Between processes the mind is not blank. It rests in bhavaṅga, the life-continuum, a passive resultant citta that repeats indefinitely and takes as its object whatever was cognized in the last moment of the previous life. A process is an interruption of bhavaṅga, and when the process ends the mind sinks back into it.
+          - paragraph [ref=f41e45]: The reason this matters for practice is concentrated in one part of the sequence. Of the seventeen moments in a full sense-door process, the seven javanas are where kamma is made, for anyone short of arahantship. An arahant's javanas run in the same place and produce none. Everything before the javanas is passive reception, and everything after is aftermath.
+          - heading "The Five-Door Process" [level=2] [ref=f41e46]
+          - paragraph [ref=f41e47]: "The full seventeen-moment sequence, which occurs when an object of the highest intensity strikes one of the five physical senses. A material object lasts exactly seventeen mind-moments, which is why the process has this length: it is the complete cognition of an object from arising to perishing."
+          - table [ref=f41e49]:
+            - rowgroup [ref=f41e50]:
+              - row [ref=f41e51]:
+                - columnheader "#" [ref=f41e52]
+                - columnheader "Moment" [ref=f41e53]
+                - columnheader "Function" [ref=f41e54]
+            - rowgroup [ref=f41e55]:
+              - row [ref=f41e56]:
+                - cell "1" [ref=f41e57]
+                - cell "Atīta-bhavaṅga" [ref=f41e58]
+                - cell "Past life-continuum" [ref=f41e59]
+              - row [ref=f41e60]:
+                - cell "2" [ref=f41e61]
+                - cell "Bhavaṅga-calana" [ref=f41e62]
+                - cell "Vibration" [ref=f41e63]
+              - row [ref=f41e64]:
+                - cell "3" [ref=f41e65]
+                - cell "Bhavaṅgupaccheda" [ref=f41e66]
+                - cell "Arrest" [ref=f41e67]
+              - row [ref=f41e68]:
+                - cell "4" [ref=f41e69]
+                - cell "Pañcadvārāvajjana" [ref=f41e70]
+                - cell "Five-door adverting" [ref=f41e71]
+              - row [ref=f41e72]:
+                - cell "5" [ref=f41e73]
+                - cell "Pañca-viññāṇa" [ref=f41e74]
+                - cell "Sense consciousness" [ref=f41e75]
+              - row [ref=f41e76]:
+                - cell "6" [ref=f41e77]
+                - cell "Sampaṭicchana" [ref=f41e78]
+                - cell "Receiving" [ref=f41e79]
+              - row [ref=f41e80]:
+                - cell "7" [ref=f41e81]
+                - cell "Santīraṇa" [ref=f41e82]
+                - cell "Investigating" [ref=f41e83]
+              - row [ref=f41e84]:
+                - cell "8" [ref=f41e85]
+                - cell "Votthapana" [ref=f41e86]
+                - cell "Determining" [ref=f41e87]
+              - row [ref=f41e88]:
+                - cell "9–15" [ref=f41e89]
+                - cell "Javana ×7" [ref=f41e90]
+                - cell "Impulsion" [ref=f41e91]
+              - row [ref=f41e92]:
+                - cell "16–17" [ref=f41e93]
+                - cell "Tadārammaṇa ×2" [ref=f41e94]
+                - cell "Registration" [ref=f41e95]
+          - heading "1. Atīta-bhavaṅga — Past life-continuum" [level=3] [ref=f41e96]
+          - paragraph [ref=f41e97]: The one moment of bhavaṅga that elapses after the object has struck the sense base but before the mind has begun to respond. It is counted because the object's seventeen-moment life has already started. Nothing is yet known.
+          - heading "2. Bhavaṅga-calana — Vibration" [level=3] [ref=f41e98]
+          - paragraph [ref=f41e99]: The life-continuum vibrates under the impact. This moment does not take the new object, and nothing is yet known. The object is first taken at five-door adverting. Registration is a later pair of cittas, at the end of the process.
+          - heading "3. Bhavaṅgupaccheda — Arrest" [level=3] [ref=f41e100]
+          - paragraph [ref=f41e101]: The final moment of bhavaṅga, in which the stream of passive continuity is cut off. After this the mind is no longer resting; a process has begun. It is the hinge between the two modes of mental life.
+          - heading "4. Pañcadvārāvajjana — Five-door adverting" [level=3] [ref=f41e102]
+          - paragraph [ref=f41e103]: "The mind turns toward the object that has struck a sense organ. This is a rootless functional citta, so it makes no kamma. Which of the five sense consciousnesses follows is fixed by that organ and that object: a visible form is followed by eye-consciousness, a sound by ear-consciousness, and so on."
+          - heading "5. Pañca-viññāṇa — Sense consciousness" [level=3] [ref=f41e104]
+          - paragraph [ref=f41e105]: "Seeing, hearing, smelling, tasting, or touching: the bare sensory contact, and the only moment in the entire process where the object is met through a physical faculty. It is a resultant citta, wholesome-resultant or unwholesome-resultant depending on whether the object is desirable, and it knows nothing beyond the raw datum. All the recognition and reaction that seem to belong to seeing happen later."
+          - heading "6. Sampaṭicchana — Receiving" [level=3] [ref=f41e106]
+          - paragraph [ref=f41e107]: The object is taken up and passed inward from the sense consciousness. It is resultant, matching the sense consciousness in nature. It does no work of its own beyond the handover.
+          - heading "7. Santīraṇa — Investigating" [level=3] [ref=f41e108]
+          - paragraph [ref=f41e109]: The object is examined — its qualities considered, though not yet judged. Still resultant, still kammically inert. This is where the desirability of the object is registered, which is why it alone among the rootless resultants can carry joy — an intensely desirable object gets the joyful variety, a merely desirable one the neutral.
+          - heading "8. Votthapana — Determining" [level=3] [ref=f41e110]
+          - paragraph [ref=f41e111]: The object is determined and the mind decides how to take it. This function is performed by the mind-door adverting citta, doing double duty here at the five doors. It is the last inert moment, and it is the point at which the kammic character of what follows is settled — which makes wise attention here decisive.
+          - heading "9–15. Javana — Impulsion" [level=3] [ref=f41e112]
+          - paragraph [ref=f41e113]: Seven identical cittas run in immediate succession in an ordinary process. For anyone short of arahantship, these are the moments in which kamma is made. An arahant's javanas are functional and produce none. A weak object can cut the run to six, and at death or fainting it runs to five. If the mind has determined the object with greed, greed-rooted cittas run; if with generosity, wholesome ones. The first javana is kammically weakest and ripens in this life, the seventh weakens again and ripens in the next, and the middle five ripen whenever conditions allow across any future life.
+          - heading "16–17. Tadārammaṇa — Registration" [level=3] [ref=f41e114]
+          - paragraph [ref=f41e115]: Two moments in which the object is held on to briefly after the active phase ends. They are resultant, and they occur only for objects of the highest intensity and only in the sense sphere. After them the mind falls back into bhavaṅga.
+          - heading "Shorter Processes" [level=2] [ref=f41e116]
+          - paragraph [ref=f41e117]: Not every object gets the full seventeen. The process truncates according to how strongly the object presents itself, and how many bhavaṅgas elapse before the mind can advert to it. Four intensities are distinguished.
+          - table [ref=f41e119]:
+            - rowgroup [ref=f41e120]:
+              - row [ref=f41e121]:
+                - columnheader "Object intensity" [ref=f41e122]
+                - columnheader "Process runs to" [ref=f41e123]
+                - columnheader "Kamma made" [ref=f41e124]
+            - rowgroup [ref=f41e125]:
+              - row [ref=f41e126]:
+                - cell "Atimahanta — very great" [ref=f41e127]
+                - cell "Registration (full 17)" [ref=f41e128]
+                - cell "Yes" [ref=f41e129]
+              - row [ref=f41e130]:
+                - cell "Mahanta — great" [ref=f41e131]
+                - cell "Javana; no registration" [ref=f41e132]
+                - cell "Yes" [ref=f41e133]
+              - row [ref=f41e134]:
+                - cell "Paritta — slight" [ref=f41e135]
+                - cell "Determining, repeated two or three times" [ref=f41e136]
+                - cell "No" [ref=f41e137]
+              - row [ref=f41e138]:
+                - cell "Atiparitta — very slight" [ref=f41e139]
+                - cell "Bhavaṅga vibration only" [ref=f41e140]
+                - cell "No" [ref=f41e141]
+          - paragraph [ref=f41e142]: "The last case is called the futile course (moghavāra): the object strikes, the life-continuum trembles, and the mind never turns toward it at all. This is the mechanism behind everything you are exposed to but never notice."
+          - heading "The Mind-Door Process" [level=2] [ref=f41e143]
+          - paragraph [ref=f41e144]: When the object is not a present physical impingement but a memory, concept, idea, or the object of meditation, the process runs through the mind door alone. It is shorter, because there is no sense base to receive from and no receiving or investigating to do.
+          - table [ref=f41e146]:
+            - rowgroup [ref=f41e147]:
+              - row [ref=f41e148]:
+                - columnheader "#" [ref=f41e149]
+                - columnheader "Moment" [ref=f41e150]
+                - columnheader "Function" [ref=f41e151]
+            - rowgroup [ref=f41e152]:
+              - row [ref=f41e153]:
+                - cell "1" [ref=f41e154]
+                - cell "Bhavaṅga-calana" [ref=f41e155]
+                - cell "Vibration" [ref=f41e156]
+              - row [ref=f41e157]:
+                - cell "2" [ref=f41e158]
+                - cell "Bhavaṅgupaccheda" [ref=f41e159]
+                - cell "Arrest" [ref=f41e160]
+              - row [ref=f41e161]:
+                - cell "3" [ref=f41e162]
+                - cell "Manodvārāvajjana" [ref=f41e163]
+                - cell "Mind-door adverting" [ref=f41e164]
+              - row [ref=f41e165]:
+                - cell "4–10" [ref=f41e166]
+                - cell "Javana ×7" [ref=f41e167]
+                - cell "Impulsion" [ref=f41e168]
+              - row [ref=f41e169]:
+                - cell "11–12" [ref=f41e170]
+                - cell "Tadārammaṇa ×2" [ref=f41e171]
+                - cell "Registration" [ref=f41e172]
+          - paragraph [ref=f41e173]: "Here the mind-door adverting citta performs adverting and determining in a single moment, and the javanas follow immediately. Every five-door process is normally followed by consequent mind-door processes, each a process of its own. The manual's account of them, from Ledi Sayadaw, runs: a conformational process; grasping the object as a whole; recognizing the colour; grasping the entity; recognizing the entity; grasping the name; recognizing the name. What we ordinarily call \"seeing a cup\" is that chain, not the eye-door seeing."
+          - heading "The Absorption Process" [level=2] [ref=f41e174]
+          - paragraph [ref=f41e175]: "When the mind door is to reach jhāna, path, or a psychic attainment, the process is not seven ordinary javanas with absorption put in their place. Any of the eight sense-sphere javanas accompanied by knowledge — four wholesome, or four functional in an arahant — runs four times, or three when faculties are keen. In order they are preparation, access, conformity, and change-of-lineage, and keen faculties omit preparation. Absorption arises in the next moment. On a beginner's first occasion that absorption javana runs once. With mastery, absorption javanas continue through many moments. Path consciousness is one moment: two fruition moments follow when preparation was present, and three when it was omitted. Direct knowledge is also a single javana. The ordinary sense-sphere process still runs seven javanas. This occurs at the mind door."
+          - table [ref=f41e177]:
+            - rowgroup [ref=f41e178]:
+              - row [ref=f41e179]:
+                - columnheader "Moment" [ref=f41e180]
+                - columnheader "Function" [ref=f41e181]
+            - rowgroup [ref=f41e182]:
+              - row [ref=f41e183]:
+                - cell "Parikamma" [ref=f41e184]
+                - cell "Preparation" [ref=f41e185]
+              - row [ref=f41e186]:
+                - cell "Upacāra" [ref=f41e187]
+                - cell "Access" [ref=f41e188]
+              - row [ref=f41e189]:
+                - cell "Anuloma" [ref=f41e190]
+                - cell "Conformity" [ref=f41e191]
+              - row [ref=f41e192]:
+                - cell "Gotrabhū" [ref=f41e193]
+                - cell "Change of lineage" [ref=f41e194]
+              - row [ref=f41e195]:
+                - cell "Appanā" [ref=f41e196]
+                - cell "Absorption" [ref=f41e197]
+          - paragraph [ref=f41e198]: "Gotrabhū is the pivot: it is the last citta of the sense sphere, standing at the threshold of a plane it does not itself belong to. The moment after it, the mind is somewhere it has never been. In a path process it also changes object, taking Nibbāna while still being a sense-sphere citta; in a jhāna process there is no such shift, since preparation onward all take the counterpart sign. In a path process, absorption is the path citta, and it is followed immediately by two or three moments of fruition."
+          - heading "The Death Process" [level=2] [ref=f41e199]
+          - paragraph [ref=f41e200]: Dying is a cognitive process like any other, distinguished by a weaker javana run and by what can follow it. The javanas in the final process number five rather than seven, because the mind at death is weak.
+          - paragraph [ref=f41e201]: After those five, two registration cittas may follow, and life-continuum may follow the process cittas. Death consciousness arises at the end of that process, or at the dissolution of the life-continuum. One course has the five javanas and then death, with nothing between them.
+          - paragraph [ref=f41e202]: "The object presented to those five javanas is one of three things, produced by the kamma that is about to ripen into the next life: the kamma itself, re-experienced as the deed; a kamma-nimitta, a sign or instrument associated with it; or a gati-nimitta, a vision of the destination."
+          - heading "1. Cuti citta — Death consciousness" [level=3] [ref=f41e203]
+          - paragraph [ref=f41e204]: The last citta of a lifetime, performing the function of falling away. It is the same resultant citta that has served as bhavaṅga throughout that life, and it does nothing but end. It is not itself the cause of the next life.
+          - heading "2. Paṭisandhi citta — Rebirth-linking consciousness" [level=3] [ref=f41e205]
+          - paragraph [ref=f41e206]: The first citta of the next existence, arising in the very next moment after death with no gap. It takes as its object whatever the dying javanas took, which is why the last process of one life determines the first of the next. It is resultant, produced by the kamma that presented that object.
+          - heading "3. Bhavaṅga — Life-continuum" [level=3] [ref=f41e207]
+          - paragraph [ref=f41e208]: Immediately after rebirth-linking, the same citta begins repeating as the passive substrate of the new life. It carries the same object for the whole lifetime and surfaces whenever no process is running. This is the thread that makes a life one life, and it is the state the mind returns to at the end of every vīthi described above.
+  - contentinfo [ref=f41e209]:
+    - paragraph [ref=f41e211]: The four sheets are shown as written. Pronunciation is a guide to that romanization; the sheets do not record it. Each real moment is a reading aid written to match the sheet’s definition, and is not itself in the sheets. Counts and combination rules are.

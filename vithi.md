@@ -6,7 +6,7 @@ A vīthi is a cognitive process: the fixed sequence of cittas that runs whenever
 
 Between processes the mind is not blank. It rests in bhavaṅga, the life-continuum, a passive resultant citta that repeats indefinitely and takes as its object whatever was cognized in the last moment of the previous life. A process is an interruption of bhavaṅga, and when the process ends the mind sinks back into it.
 
-The reason this matters for practice is concentrated in one part of the sequence. Of the seventeen moments in a full sense-door process, only seven make kamma. Everything before them is passive reception, and everything after is aftermath.
+The reason this matters for practice is concentrated in one part of the sequence. Of the seventeen moments in a full sense-door process, the seven javanas are where kamma is made, for anyone short of arahantship. An arahant's javanas run in the same place and produce none. Everything before the javanas is passive reception, and everything after is aftermath.
 
 ## The Five-Door Process
 
@@ -31,7 +31,7 @@ The one moment of bhavaṅga that elapses after the object has struck the sense 
 
 ### 2. Bhavaṅga-calana — Vibration
 
-The life-continuum trembles under the impact of the object without yet breaking. The mind registers that something has occurred but has not turned toward it. This is the first disturbance of rest.
+The life-continuum vibrates under the impact. This moment does not take the new object, and nothing is yet known. The object is first taken at five-door adverting. Registration is a later pair of cittas, at the end of the process.
 
 ### 3. Bhavaṅgupaccheda — Arrest
 
@@ -39,7 +39,7 @@ The final moment of bhavaṅga, in which the stream of passive continuity is cut
 
 ### 4. Pañcadvārāvajjana — Five-door adverting
 
-The mind turns toward the object at whichever of the five sense doors it struck. This is a rootless functional citta, so it makes no kamma — it merely opens the door. It also determines which of the five sense consciousnesses will follow.
+The mind turns toward the object that has struck a sense organ. This is a rootless functional citta, so it makes no kamma. Which of the five sense consciousnesses follows is fixed by that organ and that object: a visible form is followed by eye-consciousness, a sound by ear-consciousness, and so on.
 
 ### 5. Pañca-viññāṇa — Sense consciousness
 
@@ -59,7 +59,7 @@ The object is determined and the mind decides how to take it. This function is p
 
 ### 9–15. Javana — Impulsion
 
-Seven identical cittas run in immediate succession, and these are the moments in which kamma is made. If the mind has determined the object with greed, seven greed-rooted cittas run; if with generosity, seven wholesome ones. The first javana is kammically weakest and ripens in this life, the seventh weakens again and ripens in the next, and the middle five ripen whenever conditions allow across any future life.
+Seven identical cittas run in immediate succession in an ordinary process. For anyone short of arahantship, these are the moments in which kamma is made. An arahant's javanas are functional and produce none. A weak object can cut the run to six, and at death or fainting it runs to five. If the mind has determined the object with greed, greed-rooted cittas run; if with generosity, wholesome ones. The first javana is kammically weakest and ripens in this life, the seventh weakens again and ripens in the next, and the middle five ripen whenever conditions allow across any future life.
 
 ### 16–17. Tadārammaṇa — Registration
 
@@ -90,11 +90,11 @@ When the object is not a present physical impingement but a memory, concept, ide
 | 4–10 | Javana ×7 | Impulsion |
 | 11–12 | Tadārammaṇa ×2 | Registration |
 
-Here the mind-door adverting citta performs adverting and determining in a single moment, and the javanas follow immediately. Every five-door process is normally followed by a series of mind-door processes that assemble the raw sensory data into a recognized thing — first grasping the object as a whole, then its name, then its meaning. What we ordinarily call "seeing a cup" is not the seeing at all but a chain of mind-door processes downstream of it.
+Here the mind-door adverting citta performs adverting and determining in a single moment, and the javanas follow immediately. Every five-door process is normally followed by consequent mind-door processes, each a process of its own. The manual's account of them, from Ledi Sayadaw, runs: a conformational process; grasping the object as a whole; recognizing the colour; grasping the entity; recognizing the entity; grasping the name; recognizing the name. What we ordinarily call "seeing a cup" is that chain, not the eye-door seeing.
 
 ## The Absorption Process
 
-When javana is to reach jhāna, path, or a psychic attainment, the seven ordinary javanas are replaced by a preparatory sequence culminating in absorption. This occurs at the mind door.
+When the mind door is to reach jhāna, path, or a psychic attainment, the process is not seven ordinary javanas with absorption put in their place. Any of the eight sense-sphere javanas accompanied by knowledge — four wholesome, or four functional in an arahant — runs four times, or three when faculties are keen. In order they are preparation, access, conformity, and change-of-lineage, and keen faculties omit preparation. Absorption arises in the next moment. On a beginner's first occasion that absorption javana runs once. With mastery, absorption javanas continue through many moments. Path consciousness is one moment: two fruition moments follow when preparation was present, and three when it was omitted. Direct knowledge is also a single javana. The ordinary sense-sphere process still runs seven javanas. This occurs at the mind door.
 
 | Moment | Function |
 | --- | --- |
@@ -108,7 +108,9 @@ Gotrabhū is the pivot: it is the last citta of the sense sphere, standing at th
 
 ## The Death Process
 
-Dying is a cognitive process like any other, distinguished only by what it takes as its object and what follows it. The javanas in the final process number five rather than seven, because the mind at death is weak.
+Dying is a cognitive process like any other, distinguished by a weaker javana run and by what can follow it. The javanas in the final process number five rather than seven, because the mind at death is weak.
+
+After those five, two registration cittas may follow, and life-continuum may follow the process cittas. Death consciousness arises at the end of that process, or at the dissolution of the life-continuum. One course has the five javanas and then death, with nothing between them.
 
 The object presented to those five javanas is one of three things, produced by the kamma that is about to ripen into the next life: the kamma itself, re-experienced as the deed; a kamma-nimitta, a sign or instrument associated with it; or a gati-nimitta, a vision of the destination.
 

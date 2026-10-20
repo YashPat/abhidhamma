@@ -38,7 +38,7 @@ export const confusions: Confusion[] = [
 			{
 				kind: 'rule',
 				source: 'Sampayoga sheet, on pīti and somanassa',
-				text: 'Sixty-two cittas have joyful feeling and rapture arises in fifty-one of them. The eleven left out are the fourth-jhāna cittas. That gap is the sheet’s evidence that the two are not one factor named twice. Bodily pleasure (sukha) is not mental joy (somanassa), and rapture is tied to the mental feeling. The jhāna table uses sukha for the pleasant feeling that remains after rapture drops, so the English word "pleasant" covers more than one slot in the sheets.'
+				text: 'Sixty-two cittas have joyful feeling and rapture arises in fifty-one of them. The eleven left out are the fourth-jhāna cittas. That gap is the sheet’s evidence that the two are not one factor named twice. Bodily pleasure is one citta, the wholesome-resultant body-consciousness. The jhāna factor sukha is mental joy, somanassa, and it remains in the fourth jhāna after rapture drops.'
 			}
 		],
 		members: [
@@ -64,7 +64,7 @@ export const confusions: Confusion[] = [
 			{
 				kind: 'definition',
 				source: 'Cetasika sheet',
-				text: 'Intention organizes the mind toward its object and is identified with kamma. Wish is the desire to act, ethically variable: it can keep company with craving, or be the wish to practice. Greed sticks to its object, from mild attraction to craving, "like meat to a hot pan."'
+				text: 'Intention organizes the mind toward its object and is in all 89 cittas. It accumulates kamma in wholesome and unwholesome cittas, and that happens in the javanas. In a resultant or functional citta, including a rootless sense consciousness, it organizes the moment and plants nothing. Wish is the desire to act, ethically variable: it can keep company with craving, or be the wish to practice. Greed sticks to its object, from mild attraction to craving, "like meat to a hot pan."'
 			}
 		],
 		members: [
@@ -334,7 +334,7 @@ export const confusions: Confusion[] = [
 		lede: 'One word, "tired," covers a limp knowing and a heavy retinue.',
 		together: 'jobs',
 		togetherText:
-			'The sampayoga sheet lists them on one row: the 5 prompted unwholesome cittas. Both are unfixed, so a prompted citta is complete without them; the saṅgaha totals are maxima, and prompting is what adds them. The sheet does not say they must arise together, and it does not describe one appearing without the other. The difference is which side of the moment goes dull.',
+			'The sampayoga sheet lists them on one row: the 5 prompted unwholesome cittas. Both are unfixed, so a prompted citta is complete without them. When either is present, the other is present. They do not arise in unprompted unwholesome cittas. The difference is which side of the moment goes dull.',
 		notes: [
 			{
 				kind: 'definition',
@@ -442,9 +442,9 @@ export const confusions: Confusion[] = [
 		lede: 'The sheets use "equanimity" for two different things. This is the mix-up that the English creates.',
 		together: 'partial',
 		togetherText:
-			'Neutral feeling is a mode of vedanā. The citta sheet says it is the most common feeling in the eighty-nine, and it occurs in unwholesome and rootless cittas. The equanimity cetasika, tatramajjhattatā, is only in the 59 beautiful cittas. A beautiful moment can have both: balanced factors, and a neutral tone. A dull moment can have the neutral tone and cannot have the cetasika. Hatred cannot have the neutral tone at all: displeasure occurs in exactly two cittas, both hatred-rooted.',
+			'Neutral feeling is a mode of vedanā. It occurs in unwholesome and rootless cittas. Among the eighty-one mundane cittas it outnumbers joy, forty-seven to thirty. On the 121 reckoning joy is larger, sixty-two to fifty-five. The equanimity cetasika, tatramajjhattatā, is only in the 59 beautiful cittas. A beautiful moment can have both: balanced factors, and a neutral tone. A dull moment can have the neutral tone and cannot have the cetasika. Hatred cannot have the neutral tone at all: displeasure occurs in exactly two cittas, both hatred-rooted.',
 		quote: {
-			text: 'Everything else in the eighty-nine carries either joy or neutrality, which is why equanimity is by far the most common feeling in the system.',
+			text: 'On the 121 reckoning those eight are counted at all five jhānas, and joy is the larger class: sixty-two against fifty-five.',
 			source: 'Citta sheet, Cross-Cutting Distinctions. Here "equanimity" means the neutral feeling.'
 		},
 		notes: [
@@ -461,7 +461,7 @@ export const confusions: Confusion[] = [
 			},
 			{
 				id: 'tatramajjhattata',
-				tell: 'Balance of a beautiful mind. Not what the citta sheet means by the most common feeling.'
+				tell: 'Balance of a beautiful mind. The citta sheet’s equanimity is the neutral tone, a different factor.'
 			}
 		],
 		keywords: ['equanimity', 'upekkha', 'neutral', 'tatramajjhattata', 'indifference', 'feeling']
@@ -530,7 +530,7 @@ export const confusions: Confusion[] = [
 			{ id: 'samma-kammanta', tell: 'You decline killing, stealing, or sexual misconduct, in that moment.' },
 			{
 				id: 'samma-ajiva',
-				tell: 'You decline a living made from weapons, poisons, intoxicants, beings, or deceit, in that moment.'
+				tell: 'You decline a living made from poisons, intoxicants, weapons, slaves, or animals for slaughter, in that moment.'
 			}
 		],
 		keywords: ['right speech', 'right action', 'right livelihood', 'abstinence', 'virati', 'precepts']

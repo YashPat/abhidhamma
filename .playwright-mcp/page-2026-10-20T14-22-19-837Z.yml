@@ -1,0 +1,83 @@
+- generic [ref=f42e2]:
+  - link "Skip to content" [ref=f42e3] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f42e4]:
+    - generic [ref=f42e5]:
+      - link "Abhidhamma a mind-moment, taken apart" [ref=f42e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f42e7]: Abhidhamma
+        - generic [ref=f42e8]: a mind-moment, taken apart
+      - button "Menu" [ref=f42e9] [cursor=pointer]
+  - main [ref=f42e10]:
+    - generic [ref=f42e11]:
+      - paragraph [ref=f42e12]:
+        - link "Cetasikas" [ref=f42e13] [cursor=pointer]:
+          - /url: /cetasikas
+        - generic [aria-hidden] [ref=f42e14]: /
+        - generic [ref=f42e15]: Beautiful
+      - paragraph [ref=f42e16]: Beautiful · 22 of 25
+      - heading "Sammā ājīva" [level=1] [ref=f42e17]
+      - paragraph [ref=f42e18]: Right livelihood
+      - generic [ref=f42e19]:
+        - generic [ref=f42e20]:
+          - generic [ref=f42e21]:
+            - generic [ref=f42e22]: Stressed.
+            - generic [ref=f42e23]: sam
+            - generic [ref=f42e24]: suhm
+          - generic [ref=f42e25]:
+            - generic [ref=f42e26]: mā
+            - generic [ref=f42e27]: maa
+          - generic [ref=f42e28]:
+            - generic [ref=f42e29]: ā
+            - generic [ref=f42e30]: aa
+          - generic [ref=f42e31]:
+            - generic [ref=f42e32]: Stressed.
+            - generic [ref=f42e33]: jī
+            - generic [ref=f42e34]: jee
+          - generic [ref=f42e35]:
+            - generic [ref=f42e36]: va
+            - generic [ref=f42e37]: vuh
+        - paragraph [ref=f42e38]: Phonetic /ˈsam.maː aːˈd͡ʒiː.ʋa/
+        - generic [ref=f42e39]:
+          - button "Hear Sammā ājīva" [ref=f42e40] [cursor=pointer]
+          - paragraph
+        - paragraph [ref=f42e41]: Syllables for Sammā ājīva. The darker syllable is stressed. The button uses an English voice and will be approximate.
+      - paragraph [ref=f42e42]:
+        - link "How to read this pronunciation" [ref=f42e43] [cursor=pointer]:
+          - /url: /pronounce#key
+      - generic [ref=f42e44]:
+        - heading "A moment that shows it" [level=2] [ref=f42e45]
+        - blockquote [ref=f42e46]:
+          - paragraph [ref=f42e47]: The contract pays well. It is for a weapons broker. You turn it down.
+        - paragraph [ref=f42e48]: Right livelihood is that abstention, in the moment you turn the gain down. The manuals name poisons, intoxicants, weapons, slaves, and animals for slaughter. The discourse names weapons, living beings, meat, intoxicants, and poison. A job you feel proud of is not, by itself, this factor.
+        - paragraph [ref=f42e49]: The cetasika sheet defines the factor. This scene is a reading aid written to match that definition. It is not in the sheets.
+      - generic [ref=f42e50]:
+        - heading "Where it arises" [level=2] [ref=f42e51]
+        - paragraph [ref=f42e52]: "16 cittas: the 8 great wholesome and the 8 supramundane. In an ordinary wholesome moment, at most one abstinence, and often none. In the supramundane, all three are present and fixed."
+        - paragraph [ref=f42e53]: From the sampayoga sheet, on the eighty-nine-citta scheme unless the line says otherwise.
+      - generic [ref=f42e54]:
+        - heading "From the cetasika sheet" [level=2] [ref=f42e55]
+        - paragraph [ref=f42e57]: Abstention from earning a living by dealing in poisons, intoxicants, weapons, slaves, or animals for slaughter. That is the list in the Abhidhamma manuals. The discourse they narrow names weapons, living beings, meat, intoxicants, and poison. It arises as a mental factor in the moment of turning such gain down. Completing the virtue section of the path, it extends ethics into how one is sustained.
+        - paragraph [ref=f42e58]:
+          - link "Read this section in the full sheet" [ref=f42e59] [cursor=pointer]:
+            - /url: /sheets/cetasikas#22-samma-ajiva-right-livelihood
+      - generic [ref=f42e60]:
+        - heading "Often mixed up with" [level=2] [ref=f42e61]
+        - list [ref=f42e62]:
+          - listitem [ref=f42e63]:
+            - link "Co-arising is uneven Right speech, right action, and right livelihood Three ways of declining. In ordinary life, the moment declines one." [ref=f42e64] [cursor=pointer]:
+              - /url: /confused/three-abstinences
+              - generic [ref=f42e65]: Co-arising is uneven
+              - strong [ref=f42e66]: Right speech, right action, and right livelihood
+              - generic [ref=f42e67]: Three ways of declining. In ordinary life, the moment declines one.
+      - navigation "Factors in order" [ref=f42e68]:
+        - link "Previous Sammā kammanta" [ref=f42e69] [cursor=pointer]:
+          - /url: /cetasikas/samma-kammanta
+          - generic [ref=f42e70]: Previous
+          - strong [ref=f42e71]: Sammā kammanta
+        - link "Next Karuṇā" [ref=f42e72] [cursor=pointer]:
+          - /url: /cetasikas/karuna
+          - generic [ref=f42e73]: Next
+          - strong [ref=f42e74]: Karuṇā
+  - contentinfo [ref=f42e75]:
+    - paragraph [ref=f42e77]: The four sheets are shown as written. Pronunciation is a guide to that romanization; the sheets do not record it. Each real moment is a reading aid written to match the sheet’s definition, and is not itself in the sheets. Counts and combination rules are.
