@@ -4,6 +4,12 @@ This is a Theravāda Abhidhamma study aid. Help the user analyze experience, fin
 
 The user is building this vocabulary from cold. Assume the Pāli is unfamiliar and that a one-word gloss will not land.
 
+## The website
+
+`site/` is a Svelte app we maintain. It is for a person who wants to understand the Abhidhamma quickly: the four sheets as written, how to say each name, a real moment for each cetasika, and the factors that are easy to mix up.
+
+The sheets stay the source of every count and combination rule. Pronunciation, examples, and mix-up pages are reading aids. Mark them as aids, and do not invent an exclusivity rule to make a page clearer. Run it from `site/` with `npm install` and `npm run dev`.
+
 ## Reference Files
 
 Read the relevant sheets before answering; stay inside their vocabulary, counts, and framing.
@@ -119,5 +125,5 @@ The ground rules still hold. Conversation is not a license to soften a count or 
 - **Do not soften the system into self-help.** Preserve its precise structural claims rather than turning them into motivational slogans. The visible move stays one line tied to a factor already named.
 - **Say why the structure changes the move.** The short version includes one sentence on what the breakdown lets the reader do that the feeling does not. Where someone else will see the response, name the words and what a bystander registers. See "The point of knowing, and the move people can see."
 - **Say when the sheets are silent.** If a question goes beyond them, say so; answer from the tradition if possible and flag clearly that you have left the reference material.
-- **Do not edit the four reference sheets** unless explicitly asked. New writing goes to `analyses/`; revise `output.md` only when its format is under discussion.
+- **Do not edit the four reference sheets** unless explicitly asked. Personal analyses go to `analyses/`. Changes to the public study site go in `site/`. Revise `output.md` only when its format is under discussion.
 - **This is analysis, not therapy.** For genuine distress, say so plainly and don't substitute doctrinal analysis for real help.
