@@ -30,7 +30,9 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - run: npm ci
       - name: Check the site's data against the sheets
-        run: node _bugcheck.mjs | tee /dev/stderr | grep -q 'combinations drift: clean'
+        run: |
+          node _bugcheck.mjs | tee guard.log
+          grep -q 'combinations drift: clean' guard.log
       - run: npm run build
         env:
           BASE_PATH: /${{ github.event.repository.name }}
