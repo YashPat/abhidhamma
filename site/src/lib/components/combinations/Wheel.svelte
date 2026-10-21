@@ -90,6 +90,7 @@
 	import { MediaQuery } from 'svelte/reactivity';
 	import type { CittaRow, FactorState } from '#lib/types';
 	import { factorsIn, stateOf } from '#lib/combinations';
+	import { rovingIndex } from './roving';
 
 	type Props = {
 		citta: CittaRow | undefined;
@@ -134,7 +135,8 @@
 
 	let tip = $state<string | null>(null);
 	const tipSpot = $derived(tip ? spots.find((s) => s.id === tip) : undefined);
-	const pctX = (v: number) => `${((v - box.x) / box.w) * 100}%`;
+	const fracX = (v: number) => (v - box.x) / box.w;
+	const pctX = (v: number) => `${fracX(v) * 100}%`;
 	const pctY = (v: number) => `${((v - box.y) / box.h) * 100}%`;
 
 	function onkey(event: KeyboardEvent, id: string) {
@@ -149,13 +151,7 @@
 			tip = null;
 			return;
 		}
-		const i = factorOrder.indexOf(id as (typeof factorOrder)[number]);
-		const last = factorOrder.length - 1;
-		const step: Record<string, number> = { ArrowRight: 1, ArrowDown: 1, ArrowLeft: -1, ArrowUp: -1 };
-		let next = -1;
-		if (event.key in step) next = Math.min(last, Math.max(0, i + step[event.key]));
-		else if (event.key === 'Home') next = 0;
-		else if (event.key === 'End') next = last;
+		const next = rovingIndex(event.key, factorOrder.indexOf(id as (typeof factorOrder)[number]), factorOrder.length);
 		if (next < 0) return;
 		event.preventDefault();
 		rover = factorOrder[next];
@@ -255,7 +251,8 @@
 		</svg>
 		{#if tipSpot}
 			{@const f = getCetasika(tipSpot.id)}
-			<div class="tip" style:left={pctX(tipSpot.x)} style:top={pctY(tipSpot.y)} aria-hidden="true">
+			<!-- Shift the tip by the dot's place across the wheel, so edge tips stay inside it rather than off the page. -->
+			<div class="tip" style:left={pctX(tipSpot.x)} style:top={pctY(tipSpot.y)} style:--shift="{-fracX(tipSpot.x) * 100}%" aria-hidden="true">
 				<strong lang="pi">{f?.pali}</strong>
 				<span>{f?.gloss}</span>
 				<em>{describe(tipSpot.id)}</em>
@@ -277,7 +274,7 @@
 							aria-label="{getCetasika(id)?.pali}, {getCetasika(id)?.gloss}: {describe(id)}"
 							onclick={() => oninspect(id)}
 						>
-							{#if st}<span class="glyph" aria-hidden="true">{glyph[st]}</span>{/if}<span lang="pi">{getCetasika(id)?.pali}</span>
+							{#if st}<span class="glyph" aria-hidden="true">{st === 'O' && on.has(id) ? '●' : glyph[st]}</span>{/if}<span lang="pi">{getCetasika(id)?.pali}</span>
 						</button>
 					</li>
 				{/each}
@@ -287,7 +284,7 @@
 	<figcaption>
 		<ul class="legend">
 			<li><svg viewBox="-12 -12 24 24" aria-hidden="true"><circle r="8" class="lg-fixed" /></svg> Fixed: always here</li>
-			<li><svg viewBox="-12 -12 24 24" aria-hidden="true"><circle r="8" class="lg-may" /></svg> May arise, <span lang="pi">aniyata</span></li>
+			<li><svg viewBox="-12 -12 24 24" aria-hidden="true"><circle r="8" class="lg-may" /></svg> May arise (<span lang="pi">aniyata</span>): optional here</li>
 			<li><svg viewBox="-12 -12 24 24" aria-hidden="true"><circle r="8" class="lg-may lg-on" /></svg> Included in this moment</li>
 			<li><svg viewBox="-12 -12 24 24" aria-hidden="true"><circle r="3" class="lg-none" /></svg> Not in this citta</li>
 		</ul>
@@ -447,7 +444,7 @@
 	}
 	.tip {
 		position: absolute;
-		transform: translate(-50%, calc(-100% - 14px));
+		transform: translate(var(--shift, -50%), calc(-100% - 14px));
 		background: var(--ink);
 		color: var(--bg-raised);
 		border-radius: 8px;

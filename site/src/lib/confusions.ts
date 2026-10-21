@@ -1,5 +1,6 @@
 import type { Confusion } from './types';
 import { cetasikas } from './cetasikas.ts';
+import { matchesWords, queryWords } from './search.ts';
 
 export const confusions: Confusion[] = [
 	{
@@ -582,10 +583,6 @@ export function confusionsFor(factorId: string): Confusion[] {
 }
 
 export function confusionMatches(confusion: Confusion, query: string): boolean {
-	const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
-	if (words.length === 0) return true;
-	const hay = [confusion.title, confusion.lede, confusion.togetherText, ...confusion.keywords]
-		.join('\n')
-		.toLowerCase();
-	return words.every((word) => hay.includes(word));
+	const hay = [confusion.title, confusion.lede, confusion.togetherText, ...confusion.keywords].join('\n');
+	return matchesWords(hay, queryWords(query));
 }

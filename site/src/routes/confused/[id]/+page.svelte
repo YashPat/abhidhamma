@@ -10,14 +10,23 @@
 	const prev = $derived(index > 0 ? confusions[index - 1] : undefined);
 	const next = $derived(index >= 0 ? confusions[index + 1] : undefined);
 
-	function factorName(id: string): string {
-		const factor = getCetasika(id);
-		return factor ? `${factor.pali} — ${factor.gloss}` : id;
+	const sheetLinks: [prefix: string, href: string][] = [
+		['Cetasika sheet', '/sheets/cetasikas'],
+		['Sampayoga sheet', '/sheets/sampayoga'],
+		['Citta sheet', '/sheets/citta'],
+		['Vīthi sheet', '/sheets/vithi']
+	];
+
+	/** The sheet a caption names first, so the source can be opened. */
+	function sheetHref(source: string): string | undefined {
+		return sheetLinks.find(([prefix]) => source.startsWith(prefix))?.[1];
 	}
+
 </script>
 
 <svelte:head>
 	<title>{confusion.title} · Abhidhamma</title>
+	<meta name="description" content="{confusion.title}: {confusion.lede}" />
 </svelte:head>
 
 <div class="wrap page">
@@ -41,27 +50,39 @@
 			<blockquote>
 				<p>{confusion.quote.text}</p>
 			</blockquote>
-			<figcaption>{confusion.quote.source}</figcaption>
+			<figcaption>{@render source(confusion.quote.source)}</figcaption>
 		</figure>
 	{/if}
 
+	{#snippet source(text: string)}
+		{@const href = sheetHref(text)}
+		{#if href}<a {href}>{text}</a>{:else}{text}{/if}
+	{/snippet}
+
+	<h2>The basis in the sheets</h2>
 	<section class="notes">
 		{#each confusion.notes as note, noteIndex (noteIndex)}
 			<article>
 				<p class="eyebrow">{noteKindLabel[note.kind]}</p>
 				<p>{note.text}</p>
-				<p class="caption">{note.source}</p>
+				<p class="caption">{@render source(note.source)}</p>
 			</article>
 		{/each}
 	</section>
 
 	<section>
 		<h2>How to tell them</h2>
+		<p class="caption">A reading aid in plain words. The sheets above are the source.</p>
 		<ul class="tell-list">
 			{#each confusion.members as member (member.id)}
+				{@const factor = getCetasika(member.id)}
 				<li>
 					<a href="/cetasikas/{member.id}">
-						<span lang="pi">{factorName(member.id)}</span>
+						{#if factor}
+							<span lang="pi">{factor.pali}</span> — {factor.gloss}
+						{:else}
+							{member.id}
+						{/if}
 					</a>
 					<p>{member.tell}</p>
 				</li>

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { tick } from 'svelte';
 	import {
 		answersOf,
 		cittasFor,
@@ -64,6 +65,16 @@
 		else onselect(null, `${pool.length} cittas match.`);
 	}
 
+	const anyAnswered = $derived(flow.steps.some((s) => s.chosen !== undefined));
+	let stepsEl: HTMLElement | undefined = $state();
+	async function startOver() {
+		draft = {};
+		onselect(null, 'Answers cleared. Choose the first question again.');
+		// The button leaves with the answers; keep focus in the flow, on the first question.
+		await tick();
+		stepsEl?.querySelector('select')?.focus();
+	}
+
 	const optionText = (q: Question, v: string) => {
 		if (v === NONE) return "The sheets don't specify";
 		const l = q.label(v);
@@ -93,7 +104,7 @@
 
 	<details class="build">
 		<summary>Build your own moment <span class="sum-note">{matchText}</span></summary>
-		<ol class="steps">
+		<ol class="steps" bind:this={stepsEl}>
 			{#each flow.steps as step (step.q.id)}
 				<li>
 					<label>
@@ -108,6 +119,9 @@
 				</li>
 			{/each}
 		</ol>
+		{#if anyAnswered}
+			<button type="button" class="reset" onclick={startOver}>Start over</button>
+		{/if}
 		{#if showCandidates}
 			<ul class="candidates" aria-label="Matching cittas">
 				{#each flow.pool as c (c.id)}
@@ -211,5 +225,11 @@
 	}
 	.candidates {
 		margin-top: 0.7rem;
+	}
+	.reset {
+		margin-top: 0.6rem;
+		padding: 0.2rem 0.7rem;
+		font-size: 0.82rem;
+		color: var(--muted);
 	}
 </style>

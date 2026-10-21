@@ -23,6 +23,10 @@
 
 <svelte:head>
 	<title>Mix-ups · Abhidhamma</title>
+	<meta
+		name="description"
+		content="Abhidhamma factors that are easy to confuse, with whether they can share a mind-moment and the basis in the sheets."
+	/>
 </svelte:head>
 
 <div class="wrap page">
@@ -48,11 +52,21 @@
 		</div>
 	</div>
 
-	<p class="result-count">{shown.length} {shown.length === 1 ? 'mix-up' : 'mix-ups'}</p>
+	<p class="result-count" aria-live="polite">{shown.length} {shown.length === 1 ? 'mix-up' : 'mix-ups'}</p>
 
 	{#if shown.length === 0}
-		<p>Nothing matches. Try shame, equanimity, or mindfulness.</p>
-	{/if}
+		<p class="empty">
+			Nothing matches{together === 'all' ? '' : ' with this filter'}. Try shame, equanimity, or mindfulness.
+			<button
+				type="button"
+				class="link-button"
+				onclick={() => {
+					query = '';
+					together = 'all';
+				}}>Show all mix-ups</button
+			>
+		</p>
+	{:else}
 
 	<ul class="mixup-list">
 		{#each shown as confusion (confusion.id)}
@@ -65,4 +79,23 @@
 			</li>
 		{/each}
 	</ul>
+	{/if}
 </div>
+
+<style>
+	.link-button {
+		margin-left: 0.25rem;
+		padding: 0;
+		border: 0;
+		background: none;
+		color: var(--accent);
+		font: inherit;
+		text-decoration: underline;
+		cursor: pointer;
+	}
+
+	.link-button:focus-visible {
+		outline: 2px solid var(--accent);
+		outline-offset: 2px;
+	}
+</style>

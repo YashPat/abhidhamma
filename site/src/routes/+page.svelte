@@ -47,6 +47,10 @@
 
 <svelte:head>
 	<title>Abhidhamma</title>
+	<meta
+		name="description"
+		content="A readable Theravāda Abhidhamma: the reference sheets, how to say each cetasika, and how to tell the lookalikes apart."
+	/>
 </svelte:head>
 
 <div class="wrap page">
@@ -102,6 +106,7 @@
 			Unwholesome and beautiful factors do not overlap because their cittas do not. That is a class split.
 			It is true of every pair across that line, not a special rivalry between two factors.
 		</p>
+		<p><a href="/combinations">Pick a citta and see which factors it always has, may have, or never has</a></p>
 	</section>
 
 	<section class="panel">

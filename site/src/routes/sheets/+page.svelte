@@ -1,34 +1,13 @@
 <script lang="ts">
-	const sheets = [
-		{
-			href: '/sheets/citta',
-			title: 'Citta',
-			question: 'What kind of mind-moment is this?',
-			text: 'Plane, nature, association, and prompting. Eighty-nine cittas, or one hundred twenty-one.'
-		},
-		{
-			href: '/sheets/cetasikas',
-			title: 'Cetasika',
-			question: 'What is this moment made of?',
-			text: 'The fifty-two factors, defined one by one. For pronunciation and examples, use the factor pages.'
-		},
-		{
-			href: '/sheets/sampayoga',
-			title: 'Sampayoga',
-			question: 'What can share a moment?',
-			text: 'Ranges, compositions, and the exclusivity rules. This is the sheet the mix-up pages cite.'
-		},
-		{
-			href: '/sheets/vithi',
-			title: 'Vīthi',
-			question: 'When, in the sequence, did this happen?',
-			text: 'Sense door, mind door, absorption, and death. Determining settles the javanas.'
-		}
-	];
+	let { data } = $props();
 </script>
 
 <svelte:head>
 	<title>The sheets · Abhidhamma</title>
+	<meta
+		name="description"
+		content="The four Abhidhamma reference sheets, citta, cetasika, sampayoga, and vīthi, rendered for reading with their wording and counts unchanged."
+	/>
 </svelte:head>
 
 <div class="wrap page">
@@ -39,11 +18,11 @@
 		aids live on the factor, mix-up, and pronunciation pages, and they are marked as aids.
 	</p>
 	<div class="cards two">
-		{#each sheets as sheet (sheet.href)}
-			<a class="info-card" href={sheet.href}>
+		{#each data.sheets as sheet (sheet.slug)}
+			<a class="info-card" href="/sheets/{sheet.slug}">
 				<p class="eyebrow">{sheet.question}</p>
 				<h2 lang="pi">{sheet.title}</h2>
-				<p>{sheet.text}</p>
+				<p>{sheet.summary}</p>
 			</a>
 		{/each}
 	</div>

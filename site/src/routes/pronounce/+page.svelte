@@ -3,24 +3,25 @@
 	import Pronounce from '#lib/components/Pronounce.svelte';
 	import { cetasikas, groupOrder } from '#lib/cetasikas';
 	import { groupMeta } from '#lib/labels';
+	import { matchesWords, queryWords } from '#lib/search';
 	import { terms } from '#lib/terms';
 
 	let query = $state('');
 
-	function hit(text: string): boolean {
-		const words = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
-		if (words.length === 0) return true;
-		return words.every((word) => text.toLowerCase().includes(word));
-	}
-
-	const factorHitCount = $derived(
-		cetasikas.filter((factor) => hit(`${factor.pali} ${factor.gloss} ${factor.id}`)).length
+	const words = $derived(queryWords(query));
+	const factorHits = $derived(
+		cetasikas.filter((factor) => matchesWords(`${factor.pali} ${factor.gloss} ${factor.id}`, words))
 	);
-	const termHits = $derived(terms.filter((term) => hit(`${term.pali} ${term.gloss}`)));
+	const termHits = $derived(terms.filter((term) => matchesWords(`${term.pali} ${term.gloss}`, words)));
+	const hitCount = $derived(factorHits.length + termHits.length);
 </script>
 
 <svelte:head>
 	<title>Pronounce · Abhidhamma</title>
+	<meta
+		name="description"
+		content="How to say the Pāli names in the Abhidhamma sheets: a letter key, then syllables, stress, and phonetics for every factor and term."
+	/>
 </svelte:head>
 
 <div class="wrap page">
@@ -38,15 +39,16 @@
 		<span class="visually-hidden">Search names</span>
 		<input bind:value={query} type="search" placeholder="Search a name or a gloss" />
 	</label>
+	{#if words.length > 0}
+		<p class="result-count" aria-live="polite">{hitCount} {hitCount === 1 ? 'name' : 'names'}</p>
+	{/if}
 
-	{#if factorHitCount === 0 && termHits.length === 0}
-		<p>Nothing matches. Try citta, contact, or mindfulness.</p>
+	{#if hitCount === 0}
+		<p>Nothing matches. Try citta, contact, or mindfulness. Accents are optional.</p>
 	{/if}
 
 	{#each groupOrder as groupId (groupId)}
-		{@const items = cetasikas.filter(
-			(factor) => factor.group === groupId && hit(`${factor.pali} ${factor.gloss} ${factor.id}`)
-		)}
+		{@const items = factorHits.filter((factor) => factor.group === groupId)}
 		{#if items.length > 0}
 			<section>
 				<h2>{groupMeta[groupId].label}</h2>
@@ -95,3 +97,10 @@
 		</section>
 	{/if}
 </div>
+
+<style>
+	.pronounce-search {
+		display: block;
+		margin-top: 1.5rem;
+	}
+</style>

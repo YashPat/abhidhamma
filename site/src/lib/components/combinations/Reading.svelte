@@ -13,6 +13,7 @@
 		pali,
 		planeLabel,
 		reachOf,
+		rules,
 		rulesFor,
 		stateOf,
 		vkPlain,
@@ -52,8 +53,9 @@
 	const most = $derived(citta ? maxTogether(citta) : 0);
 	const momentCount = $derived(fixedList.length + optionalList.filter((id) => on.has(id)).length);
 	const absences = $derived(citta ? notableAbsences(citta) : []);
-	const virati = ['samma-vaca', 'samma-kammanta', 'samma-ajiva'];
-	const illimitables = ['karuna', 'mudita'];
+	// The two groups come from their rules, so the factor lists live in one place.
+	const virati = rules.find((r) => r.id === 'virati')?.factors ?? [];
+	const illimitables = rules.find((r) => r.id === 'karuna-mudita')?.factors ?? [];
 	/** The sheets are silent on whether a virati and an illimitable co-arise; say so wherever it matters. */
 	const mixesViratiAndIllimitable = $derived(
 		optionalList.some((id) => virati.includes(id)) && optionalList.some((id) => illimitables.includes(id))
@@ -86,8 +88,8 @@
 		await tick();
 		title?.focus();
 	}
-	/** Figures this explorer computes on 89 where the sheet prints the jhāna-wise (121) figure. */
-	const jhanaWise: Record<string, number> = { vicara: 66, piti: 51 };
+	/** Factors the sheet counts jhāna by jhāna, so its printed figure is the 121 reach (checked by the drift guard). */
+	const jhanaWise = new Set(['vicara', 'piti']);
 </script>
 
 {#snippet effectNote(effect: NonNullable<ToggleResult['effect']>)}
@@ -124,10 +126,10 @@
 				Arises in <strong>{reach.total}</strong> of {reckoning} cittas: fixed in {reach.fixed}, may arise in {reach.optional}.
 				<span class="hint">The matrix below shows where.</span>
 			</p>
-			{#if reckoning === 89 && factor.id in jhanaWise}
+			{#if reckoning === 89 && jhanaWise.has(factor.id)}
 				<p class="hint derived">
 					<span class="tag">derived</span> {reach.total} is this explorer's count on the 89 reckoning. The sheet's
-					{jhanaWise[factor.id]} counts the supramundane jhāna by jhāna (the 121 reckoning); switch to 121 to see it.
+					{reachOf(121, factor.id).total} counts the supramundane jhāna by jhāna (the 121 reckoning); switch to 121 to see it.
 				</p>
 			{/if}
 			{#if factorRules.length}

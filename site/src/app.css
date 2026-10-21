@@ -7,6 +7,7 @@
 	--line: #e0d6c8;
 	--accent: #8d3b2c;
 	--accent-ink: #6e2c20;
+	--on-accent: #fffaf6;
 	--soft: #f6e7e1;
 	--universal: #1e3a5f;
 	--universal-soft: #e7eef6;
@@ -22,6 +23,31 @@
 	--shadow: 0 1px 0 rgb(35 28 22 / 4%);
 }
 
+/* Screen only, so a page printed from dark mode still prints dark ink on paper. */
+@media screen and (prefers-color-scheme: dark) {
+	:root {
+		color-scheme: dark;
+		--bg: #191512;
+		--bg-raised: #231e1a;
+		--ink: #ede5d8;
+		--muted: #b3a899;
+		--line: #3b332c;
+		--accent: #d98772;
+		--accent-ink: #eba693;
+		--on-accent: #1d1410;
+		--soft: #3a2621;
+		--universal: #a3c2e6;
+		--universal-soft: #1e2a39;
+		--occasional: #8fd0b5;
+		--occasional-soft: #17302a;
+		--unwholesome: #e9a3b4;
+		--unwholesome-soft: #3a1e27;
+		--beautiful: #e2bb74;
+		--beautiful-soft: #352a16;
+		--shadow: none;
+	}
+}
+
 * {
 	box-sizing: border-box;
 }
@@ -33,12 +59,20 @@ html {
 body {
 	margin: 0;
 	background:
-		radial-gradient(1200px 500px at 10% -10%, rgb(141 59 44 / 7%), transparent 50%),
+		radial-gradient(1200px 500px at 10% -10%, color-mix(in srgb, var(--accent) 7%, transparent), transparent 50%),
 		var(--bg);
 	color: var(--ink);
 	font-family: var(--sans);
 	font-size: 1.05rem;
 	line-height: 1.6;
+	-webkit-text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
+	overflow-wrap: break-word;
+}
+
+/* Keep anchor targets clear of the sticky header. */
+[id] {
+	scroll-margin-top: 5.5rem;
 }
 
 h1,
@@ -227,12 +261,13 @@ button,
 	text-decoration: none;
 	font-weight: 600;
 	background: var(--accent);
-	color: #fffaf6;
+	color: var(--on-accent);
 	box-shadow: none;
 }
 
 .button:hover {
-	color: #fffaf6;
+	color: var(--on-accent);
+	background: var(--accent-ink);
 }
 
 .button-quiet {
@@ -243,6 +278,7 @@ button,
 
 .button-quiet:hover {
 	color: var(--accent-ink);
+	background: transparent;
 }
 
 button[aria-pressed='true'] {
@@ -810,6 +846,14 @@ th {
 	html {
 		scroll-behavior: auto;
 	}
+
+	*,
+	::before,
+	::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+	}
 }
 
 @media print {
@@ -824,5 +868,13 @@ th {
 
 	body {
 		background: white;
+	}
+
+	.panel,
+	.info-card,
+	.factor-card,
+	.moment,
+	.sheet-quote {
+		break-inside: avoid;
 	}
 }

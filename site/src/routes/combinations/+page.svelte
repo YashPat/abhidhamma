@@ -120,6 +120,27 @@
 		scrollTo(wide() ? layoutEl : wheelEl);
 	}
 
+	// The URL already carries the moment (see canonicalUrl); this just puts it on the clipboard.
+	let copied = $state(false);
+	let copiedTimer: ReturnType<typeof setTimeout> | undefined;
+	async function copyLink() {
+		try {
+			await navigator.clipboard.writeText(window.location.origin + canonicalUrl());
+			copied = true;
+			announce = 'Link copied. It opens this citta, its included factors, and any inspected factor.';
+			clearTimeout(copiedTimer);
+			copiedTimer = setTimeout(() => (copied = false), 2000);
+		} catch {
+			announce = 'Could not copy. The address bar holds the same link.';
+		}
+	}
+
+	/** From the matrix below: scroll the wheel back into view and land focus on the reading's heading. */
+	function reveal() {
+		scrollTo(wide() ? layoutEl : wheelEl);
+		document.getElementById('reading-title')?.focus({ preventScroll: true });
+	}
+
 	function onkeydown(event: KeyboardEvent) {
 		if (event.key !== 'Escape' || event.defaultPrevented) return;
 		if (event.target instanceof Element && event.target.closest('select, input, textarea')) return;
@@ -194,6 +215,10 @@
 
 <svelte:head>
 	<title>Combinations · Abhidhamma</title>
+	<meta
+		name="description"
+		content="Choose a citta and see which of the 52 cetasikas it always has, may have, or never has, with the sheets' exclusivity rules."
+	/>
 </svelte:head>
 
 <svelte:window {onkeydown} {onhashchange} />
@@ -231,11 +256,14 @@
 				onback={backToMoment}
 				oninspect={inspect}
 			/>
+			<p class="share">
+				<button type="button" onclick={copyLink}>{copied ? 'Link copied' : 'Copy link to this moment'}</button>
+			</p>
 		</div>
 	</div>
 
 	<div class="wrap lower">
-		<Matrix {reckoning} {cittaId} {factorId} onselect={(id) => selectCitta(id)} />
+		<Matrix {reckoning} {cittaId} {factorId} onselect={(id) => selectCitta(id)} onreveal={reveal} />
 
 		<RuleCards shown={shownRule} {factorId} onshow={showRule} />
 
@@ -325,6 +353,14 @@
 	}
 	.layout {
 		scroll-margin-top: 4.5rem;
+	}
+	.share {
+		margin: 1rem 0 0;
+	}
+	.share button {
+		padding: 0.2rem 0.75rem;
+		font-size: 0.82rem;
+		color: var(--muted);
 	}
 	.reckon {
 		display: flex;

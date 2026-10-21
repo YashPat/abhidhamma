@@ -1,6 +1,7 @@
 <script lang="ts">
-	import { speak } from '#lib/speak';
+	import { canSpeak, speak, stopSpeaking } from '#lib/speak';
 	import type { Syllable } from '#lib/types';
+	import { onMount } from 'svelte';
 
 	type Props = {
 		name: string;
@@ -12,18 +13,33 @@
 
 	let { name, syllables, stress, ipa, trap }: Props = $props();
 	let speechNote = $state('');
+	let playing = $state(false);
+	// Assumed true for the prerendered HTML; checked once the page is live.
+	let supported = $state(true);
+
+	onMount(() => {
+		supported = canSpeak();
+	});
 
 	function hear() {
+		if (playing) {
+			stopSpeaking();
+			return;
+		}
 		const text = syllables.map((syllable) => syllable.hint).join(', ');
 		speechNote = '';
 		const ok = speak(text, (status) => {
+			if (status === 'start') {
+				speechNote = 'Playing a rough English voice. Trust the syllables, not the voice.';
+				return;
+			}
+			playing = false;
 			speechNote =
-				status === 'start'
-					? 'Playing a rough English voice. Trust the syllables, not the voice.'
-					: 'The voice did not start. The syllables above are the pronunciation.';
+				status === 'error' ? 'The voice did not start. The syllables above are the pronunciation.' : '';
 		});
+		playing = ok;
 		if (!ok) {
-			speechNote = 'This browser has no speech voice. The syllables above are the pronunciation.';
+			supported = false;
 		}
 	}
 </script>
@@ -45,10 +61,16 @@
 		<p class="trap">{trap}</p>
 	{/if}
 	<div class="pronounce-actions">
-		<button type="button" onclick={hear}>Hear <span lang="pi">{name}</span></button>
-		<p class="speech-note" aria-live="polite">{speechNote}</p>
+		{#if supported}
+			<button type="button" onclick={hear}>
+				{#if playing}Stop<span class="visually-hidden"> <span lang="pi">{name}</span></span>{:else}Hear <span lang="pi">{name}</span>{/if}
+			</button>
+			<p class="speech-note" aria-live="polite">{speechNote}</p>
+		{:else}
+			<p class="speech-note">This browser has no speech voice. The syllables above are the pronunciation.</p>
+		{/if}
 	</div>
 	<p class="pronounce-caption">
-		Syllables for <span lang="pi">{name}</span>. The darker syllable is stressed. The button uses an English voice and will be approximate.
+		Syllables for <span lang="pi">{name}</span>. The bold syllable is stressed. {#if supported}The button uses an English voice and will be approximate.{/if}
 	</p>
 </div>

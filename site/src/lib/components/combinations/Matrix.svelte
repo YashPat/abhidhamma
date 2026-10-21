@@ -1,15 +1,22 @@
 <script lang="ts">
 	import { getCetasika } from '#lib/cetasikas';
-	import { cittaSections, groupCittas, reachOf, stateOf, type Reckoning } from '#lib/combinations';
+	import { cittaSections, fullLabel, getCitta, groupCittas, reachOf, stateOf, type Reckoning } from '#lib/combinations';
 	import type { CittaRow, FactorState } from '#lib/types';
+	import { rovingIndex } from './roving';
 
 	type Props = {
 		reckoning: Reckoning;
 		cittaId: string | null;
 		factorId: string | null;
 		onselect: (id: string) => void;
+		/** Bring the wheel and reading into view: the matrix sits below them, so a pick here changes something off-screen. */
+		onreveal: () => void;
 	};
-	let { reckoning, cittaId, factorId, onselect }: Props = $props();
+	let { reckoning, cittaId, factorId, onselect, onreveal }: Props = $props();
+
+	const chosen = $derived(cittaId ? getCitta(cittaId) : undefined);
+	// Offer the way back up only after a pick made here, not for a moment chosen above.
+	let pickedHere = $state(false);
 
 	const factor = $derived(factorId ? getCetasika(factorId) : undefined);
 	const reach = $derived(factorId ? reachOf(reckoning, factorId) : null);
@@ -21,12 +28,7 @@
 	let grid: HTMLElement | undefined = $state();
 
 	function onkeydown(event: KeyboardEvent) {
-		const i = ids.indexOf(active);
-		const step: Record<string, number> = { ArrowRight: 1, ArrowDown: 1, ArrowLeft: -1, ArrowUp: -1 };
-		let next = -1;
-		if (event.key in step) next = Math.min(ids.length - 1, Math.max(0, i + step[event.key]));
-		else if (event.key === 'Home') next = 0;
-		else if (event.key === 'End') next = ids.length - 1;
+		const next = rovingIndex(event.key, ids.indexOf(active), ids.length);
 		if (next < 0) return;
 		event.preventDefault();
 		active = ids[next];
@@ -80,7 +82,10 @@
 												aria-label={name}
 												title={name}
 												onfocus={() => (active = row.id)}
-												onclick={() => onselect(row.id)}
+												onclick={() => {
+													pickedHere = true;
+													onselect(row.id);
+												}}
 											></button>
 										</li>
 									{/each}
@@ -91,6 +96,12 @@
 				</section>
 			{/each}
 		</div>
+		{#if pickedHere && chosen}
+			<p class="picked">
+				On the wheel now: <strong>{fullLabel(chosen)}</strong>.
+				<button type="button" class="link-button" onclick={onreveal}>See it on the wheel ↑</button>
+			</p>
+		{/if}
 	</div>
 </details>
 
@@ -178,10 +189,6 @@
 		outline: 2px solid var(--muted);
 		outline-offset: 1px;
 	}
-	.cell[aria-pressed='true'] {
-		outline: 2px solid var(--accent);
-		outline-offset: 2px;
-	}
 	.cell[data-state='F'] {
 		background: var(--ink);
 	}
@@ -192,6 +199,29 @@
 	}
 	.cell[data-state='-'] {
 		background: radial-gradient(circle, var(--muted) 0 2.5px, transparent 3px);
+	}
+	/* The chosen cell gets a ring (box-shadow), leaving the outline free for hover and keyboard focus. */
+	.cell[aria-pressed='true'] {
+		box-shadow:
+			0 0 0 2px var(--bg-raised),
+			0 0 0 4px var(--accent);
+	}
+	.cell:focus-visible {
+		outline: 2px solid var(--ink);
+		outline-offset: 4px;
+	}
+	.picked {
+		margin: 0.9rem 0 0;
+		font-size: 0.88rem;
+	}
+	.link-button {
+		padding: 0;
+		margin-left: 0.3rem;
+		background: none;
+		box-shadow: none;
+		color: var(--accent);
+		text-decoration: underline;
+		font-weight: 600;
 	}
 	.cell.sm {
 		width: 14px;

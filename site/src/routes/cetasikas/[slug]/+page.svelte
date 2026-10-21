@@ -13,13 +13,14 @@
 
 <svelte:head>
 	<title>{factor.pali} · Abhidhamma</title>
+	<meta name="description" content="{factor.pali}: {factor.gloss}. How to say it, a moment that shows it, and where it arises." />
 </svelte:head>
 
 <div class="wrap page factor-page">
 	<p class="crumbs">
 		<a href="/cetasikas">Cetasikas</a>
 		<span aria-hidden="true">/</span>
-		<span>{groupMeta[factor.group].label}</span>
+		<a href="/cetasikas?group={factor.group}">{groupMeta[factor.group].label}</a>
 	</p>
 	<p class="pill" data-group={factor.group}>
 		{groupMeta[factor.group].label} · {place.index} of {place.total}
