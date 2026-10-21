@@ -10,6 +10,7 @@
 
 	const links = [
 		{ href: '/cetasikas', label: 'Factors' },
+		{ href: '/combinations', label: 'Combinations' },
 		{ href: '/confused', label: 'Mix-ups' },
 		{ href: '/pronounce', label: 'Pronounce' },
 		{ href: '/sheets', label: 'The sheets' }

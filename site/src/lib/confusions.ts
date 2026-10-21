@@ -1,5 +1,5 @@
 import type { Confusion } from './types';
-import { cetasikas } from './cetasikas';
+import { cetasikas } from './cetasikas.ts';
 
 export const confusions: Confusion[] = [
 	{

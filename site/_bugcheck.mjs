@@ -79,25 +79,26 @@ for (const c of confusions) {
 	}
 }
 
+/** @param {string} id */
 function getSafe(id) {
 	return cetasikas.some((f) => f.id === id);
 }
 
-// Syllable text concat vs pali (rough)
+// Syllable text concat vs pali (rough). Many differ by design (hyphens, spacing), so print a count;
+// set BUGCHECK_VERBOSE=1 for the lines.
+const sylls = [];
 for (const f of cetasikas) {
 	const joined = f.syllables.map((s) => s.text).join('');
 	const compact = f.pali.replace(/\s+/g, '');
-	if (joined !== compact) {
-		console.log('syllable join != pali', f.id, joined, '|', compact);
-	}
+	if (joined !== compact) sylls.push(['syllable join != pali', f.id, joined, '|', compact]);
 }
 for (const t of terms) {
 	const joined = t.syllables.map((s) => s.text).join('');
 	const compact = t.pali.replace(/\s+/g, '');
-	if (joined !== compact) {
-		console.log('term syllable join != pali', t.id, joined, '|', compact);
-	}
+	if (joined !== compact) sylls.push(['term syllable join != pali', t.id, joined, '|', compact]);
 }
+if (process.env.BUGCHECK_VERBOSE) for (const l of sylls) console.log(...l);
+console.log('syllable join differences', sylls.length, process.env.BUGCHECK_VERBOSE ? '' : '(BUGCHECK_VERBOSE=1 to list)');
 
 // Home anchors
 const homeAnchors = [
@@ -116,3 +117,26 @@ console.log('counts', {
 	confusions: confusions.length,
 	terms: terms.length
 });
+
+// Drift guard for the Combinations explorer, last so its result is the final line. Every figure it
+// checks is parsed from the sheets (see _combinations-guard.mjs); a mismatch exits non-zero.
+const { checkCombinations } = await import('./_combinations-guard.mjs');
+const data = await import('./src/lib/citta-data.ts');
+const combos = await import('./src/lib/combinations.ts');
+const fails = checkCombinations({
+	cittas89: data.cittas89,
+	lokuttara121: data.lokuttara121,
+	factorOrder: data.factorOrder,
+	cetasikas,
+	cittaSections: combos.cittaSections,
+	rules: combos.rules,
+	presetIds: combos.presetIds,
+	wheelArcs: combos.wheelArcs
+});
+console.log('\n== combinations drift guard ==');
+if (fails.length) {
+	for (const f of fails) console.log('  DRIFT', f);
+	console.log(`combinations drift: ${fails.length} failure(s)`);
+	process.exit(1);
+}
+console.log('combinations drift: clean');

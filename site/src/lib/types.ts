@@ -70,3 +70,43 @@ export type TocItem = {
 	text: string;
 	level: number;
 };
+
+export type FactorState = 'F' | 'O' | '-';
+
+/** One of the 52 cetasika ids, in the order of a CittaRow's `factors` string. */
+export type FactorId = (typeof import('./citta-data.ts').factorOrder)[number];
+
+export type CittaGroup =
+	| 'lobhamula'
+	| 'dosamula'
+	| 'mohamula'
+	| 'ahetuka-akusala-vipaka'
+	| 'ahetuka-kusala-vipaka'
+	| 'ahetuka-kiriya'
+	| 'mahakusala'
+	| 'mahavipaka'
+	| 'mahakiriya'
+	| 'rupavacara-kusala'
+	| 'rupavacara-vipaka'
+	| 'rupavacara-kiriya'
+	| 'arupavacara-kusala'
+	| 'arupavacara-vipaka'
+	| 'arupavacara-kiriya'
+	| 'magga'
+	| 'phala';
+
+export type CittaRow = {
+	id: string;
+	label: string;
+	plane: 'kama' | 'rupa' | 'arupa' | 'lokuttara';
+	jati: 'akusala' | 'kusala' | 'vipaka' | 'kiriya';
+	group: CittaGroup;
+	roots: 'lobha+moha' | 'dosa+moha' | 'moha' | 'none' | 'alobha+adosa+amoha' | 'alobha+adosa';
+	feeling: 'somanassa' | 'upekkha' | 'domanassa' | 'dukkha' | 'sukha';
+	feelingInferred: boolean;
+	vk: 'with diṭṭhi' | 'without diṭṭhi' | 'with paṭigha' | 'with vicikicchā' | 'with uddhacca' | 'with ñāṇa' | 'without ñāṇa' | null;
+	vkInferred: boolean;
+	prompting: 'unprompted' | 'prompted' | null;
+	sheetTotal: number;
+	factors: string;
+};
