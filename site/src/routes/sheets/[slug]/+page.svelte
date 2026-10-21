@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import type { Attachment } from 'svelte/attachments';
 
 	let { data } = $props();
@@ -75,7 +76,7 @@
 
 <div class="wrap page sheet-page" id="sheet-top">
 	<p class="crumbs">
-		<a href="/sheets">The sheets</a>
+		<a href={resolve('/sheets')}>The sheets</a>
 		<span aria-hidden="true">/</span>
 		<span lang="pi">{sheet.title}</span>
 	</p>
@@ -99,7 +100,7 @@
 
 	<nav class="pager" aria-label="Sheets">
 		{#if data.prev}
-			<a href="/sheets/{data.prev.slug}">
+			<a href={resolve('/sheets/[slug]', { slug: data.prev.slug })}>
 				<span>Previous sheet</span>
 				<strong lang="pi">{data.prev.title}</strong>
 			</a>
@@ -107,7 +108,7 @@
 			<span></span>
 		{/if}
 		{#if data.next}
-			<a class="next" href="/sheets/{data.next.slug}">
+			<a class="next" href={resolve('/sheets/[slug]', { slug: data.next.slug })}>
 				<span>Next sheet</span>
 				<strong lang="pi">{data.next.title}</strong>
 			</a>

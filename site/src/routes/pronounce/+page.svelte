@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import Key from '#lib/components/Key.svelte';
 	import Pronounce from '#lib/components/Pronounce.svelte';
 	import { cetasikas, groupOrder } from '#lib/cetasikas';
@@ -55,7 +56,7 @@
 				<ul class="pronounce-list">
 					{#each items as factor (factor.id)}
 						<li>
-							<a href="/cetasikas/{factor.id}">
+							<a href={resolve('/cetasikas/[slug]', { slug: factor.id })}>
 								<span lang="pi">{factor.pali}</span>
 								<span>{factor.gloss}</span>
 							</a>

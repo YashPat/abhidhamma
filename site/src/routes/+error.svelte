@@ -1,14 +1,15 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
 
 	const missing = $derived(page.status === 404);
 
 	const places = [
-		{ href: '/cetasikas', label: 'The 52 factors' },
-		{ href: '/combinations', label: 'Combinations' },
-		{ href: '/confused', label: 'Mix-ups' },
-		{ href: '/pronounce', label: 'Pronunciation' },
-		{ href: '/sheets', label: 'The four sheets' }
+		{ href: resolve('/cetasikas'), label: 'The 52 factors' },
+		{ href: resolve('/combinations'), label: 'Combinations' },
+		{ href: resolve('/confused'), label: 'Mix-ups' },
+		{ href: resolve('/pronounce'), label: 'Pronunciation' },
+		{ href: resolve('/sheets'), label: 'The four sheets' }
 	];
 </script>
 
@@ -28,7 +29,7 @@
 			{page.error?.message ?? 'The page could not be shown.'}
 		{/if}
 	</p>
-	<p><a class="button" href="/">Back to the start</a></p>
+	<p><a class="button" href={resolve('/')}>Back to the start</a></p>
 	<h2>Or go straight to</h2>
 	<ul>
 		{#each places as place (place.href)}

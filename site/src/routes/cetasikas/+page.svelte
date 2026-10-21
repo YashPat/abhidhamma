@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { cetasikas, groupOrder } from '#lib/cetasikas';
 	import { confusionMatches, confusions } from '#lib/confusions';
 	import { groupMeta } from '#lib/labels';
@@ -82,7 +83,7 @@
 		Mental factors, in the traditional order from the cetasika sheet. Open the first and use Next to read
 		straight through, or search for the plain word you already have.
 	</p>
-	<p><a class="button" href="/cetasikas/phassa">Read in order</a></p>
+	<p><a class="button" href={resolve('/cetasikas/[slug]', { slug: 'phassa' })}>Read in order</a></p>
 
 	<div class="toolbar">
 		<label class="search">
@@ -103,7 +104,7 @@
 			<p>Mix-ups that match</p>
 			<ul>
 				{#each related as confusion (confusion.id)}
-					<li><a href="/confused/{confusion.id}">{confusion.title}</a></li>
+					<li><a href={resolve('/confused/[id]', { id: confusion.id })}>{confusion.title}</a></li>
 				{/each}
 			</ul>
 		</aside>
@@ -136,7 +137,7 @@
 				<ul class="factor-grid">
 					{#each items as factor (factor.id)}
 						<li>
-							<a class="factor-card" href="/cetasikas/{factor.id}" data-group={factor.group}>
+							<a class="factor-card" href={resolve('/cetasikas/[slug]', { slug: factor.id })} data-group={factor.group}>
 								<span class="pill" data-group={factor.group}>{groupMeta[factor.group].label}</span>
 								<span class="factor-name" lang="pi">{factor.pali}</span>
 								<span class="factor-gloss">{factor.gloss}</span>

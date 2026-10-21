@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import Pronounce from '#lib/components/Pronounce.svelte';
 	import { confusionsFor } from '#lib/confusions';
 	import { neighbors, positionInGroup } from '#lib/cetasikas';
@@ -18,9 +19,9 @@
 
 <div class="wrap page factor-page">
 	<p class="crumbs">
-		<a href="/cetasikas">Cetasikas</a>
+		<a href={resolve('/cetasikas')}>Cetasikas</a>
 		<span aria-hidden="true">/</span>
-		<a href="/cetasikas?group={factor.group}">{groupMeta[factor.group].label}</a>
+		<a href="{resolve('/cetasikas')}?group={factor.group}">{groupMeta[factor.group].label}</a>
 	</p>
 	<p class="pill" data-group={factor.group}>
 		{groupMeta[factor.group].label} · {place.index} of {place.total}
@@ -37,7 +38,7 @@
 			trap={factor.trap}
 		/>
 	{/key}
-	<p class="key-link"><a href="/pronounce#key">How to read this pronunciation</a></p>
+	<p class="key-link"><a href="{resolve('/pronounce')}#key">How to read this pronunciation</a></p>
 
 	<section class="moment">
 		<h2>A moment that shows it</h2>
@@ -70,7 +71,7 @@
 			{@html data.section.html}
 		</div>
 		<p>
-			<a href="/sheets/cetasikas#{data.section.id}">Read this section in the full sheet</a>
+			<a href="{resolve('/sheets/[slug]', { slug: 'cetasikas' })}#{data.section.id}">Read this section in the full sheet</a>
 		</p>
 	</section>
 
@@ -80,7 +81,7 @@
 			<ul class="mixup-list">
 				{#each related as confusion (confusion.id)}
 					<li>
-						<a href="/confused/{confusion.id}">
+						<a href={resolve('/confused/[id]', { id: confusion.id })}>
 							<span class="badge" data-together={confusion.together}>{togetherMeta[confusion.together].label}</span>
 							<strong>{confusion.title}</strong>
 							<span>{confusion.lede}</span>
@@ -93,7 +94,7 @@
 
 	<nav class="pager" aria-label="Factors in order">
 		{#if nearby.prev}
-			<a href="/cetasikas/{nearby.prev.id}">
+			<a href={resolve('/cetasikas/[slug]', { slug: nearby.prev.id })}>
 				<span>Previous</span>
 				<strong lang="pi">{nearby.prev.pali}</strong>
 			</a>
@@ -101,7 +102,7 @@
 			<span></span>
 		{/if}
 		{#if nearby.next}
-			<a class="next" href="/cetasikas/{nearby.next.id}">
+			<a class="next" href={resolve('/cetasikas/[slug]', { slug: nearby.next.id })}>
 				<span>Next</span>
 				<strong lang="pi">{nearby.next.pali}</strong>
 			</a>

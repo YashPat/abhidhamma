@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { tick } from 'svelte';
 	import { getCetasika } from '#lib/cetasikas';
 	import { groupMeta } from '#lib/labels';
@@ -147,7 +148,7 @@
 				<p class="hint">No exclusivity rule in the sheets names this factor.</p>
 			{/if}
 			<p class="links">
-				<a href="/cetasikas/{factor.id}">Read the factor →</a>
+				<a href={resolve('/cetasikas/[slug]', { slug: factor.id })}>Read the factor →</a>
 				<button type="button" class="back" onclick={onback}>{citta ? 'Back to the moment' : 'Close'} <kbd>Esc</kbd></button>
 			</p>
 		</div>
@@ -235,8 +236,8 @@
 		{/if}
 
 		<p class="links">
-			From <a href="/sheets/citta">the citta sheet</a> and
-			<a href="/sheets/sampayoga#{sampayogaAnchor[place.section.id]}">the sampayoga sheet</a>.
+			From <a href={resolve('/sheets/[slug]', { slug: 'citta' })}>the citta sheet</a> and
+			<a href="{resolve('/sheets/[slug]', { slug: 'sampayoga' })}#{sampayogaAnchor[place.section.id]}">the sampayoga sheet</a>.
 		</p>
 	{:else}
 		<h2 id="reading-title" tabindex="-1" bind:this={title}>No moment chosen</h2>

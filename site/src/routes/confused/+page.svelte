@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import { confusionMatches, confusions } from '#lib/confusions';
 	import { togetherMeta } from '#lib/labels';
 	import type { Together } from '#lib/types';
@@ -71,7 +72,7 @@
 	<ul class="mixup-list">
 		{#each shown as confusion (confusion.id)}
 			<li>
-				<a href="/confused/{confusion.id}">
+				<a href={resolve('/confused/[id]', { id: confusion.id })}>
 					<span class="badge" data-together={confusion.together}>{togetherMeta[confusion.together].label}</span>
 					<strong>{confusion.title}</strong>
 					<span>{confusion.lede}</span>

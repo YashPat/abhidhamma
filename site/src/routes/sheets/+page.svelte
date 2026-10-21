@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	let { data } = $props();
 </script>
 
@@ -19,7 +20,7 @@
 	</p>
 	<div class="cards two">
 		{#each data.sheets as sheet (sheet.slug)}
-			<a class="info-card" href="/sheets/{sheet.slug}">
+			<a class="info-card" href={resolve('/sheets/[slug]', { slug: sheet.slug })}>
 				<p class="eyebrow">{sheet.question}</p>
 				<h2 lang="pi">{sheet.title}</h2>
 				<p>{sheet.summary}</p>

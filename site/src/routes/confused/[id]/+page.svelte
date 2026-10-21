@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { resolve } from '$app/paths';
 	import Drill from '#lib/components/Drill.svelte';
 	import { confusions } from '#lib/confusions';
 	import { getCetasika } from '#lib/cetasikas';
@@ -11,10 +12,10 @@
 	const next = $derived(index >= 0 ? confusions[index + 1] : undefined);
 
 	const sheetLinks: [prefix: string, href: string][] = [
-		['Cetasika sheet', '/sheets/cetasikas'],
-		['Sampayoga sheet', '/sheets/sampayoga'],
-		['Citta sheet', '/sheets/citta'],
-		['Vīthi sheet', '/sheets/vithi']
+		['Cetasika sheet', resolve('/sheets/[slug]', { slug: 'cetasikas' })],
+		['Sampayoga sheet', resolve('/sheets/[slug]', { slug: 'sampayoga' })],
+		['Citta sheet', resolve('/sheets/[slug]', { slug: 'citta' })],
+		['Vīthi sheet', resolve('/sheets/[slug]', { slug: 'vithi' })]
 	];
 
 	/** The sheet a caption names first, so the source can be opened. */
@@ -31,7 +32,7 @@
 
 <div class="wrap page">
 	<p class="crumbs">
-		<a href="/confused">Mix-ups</a>
+		<a href={resolve('/confused')}>Mix-ups</a>
 		<span aria-hidden="true">/</span>
 		<span>{confusion.title}</span>
 	</p>
@@ -77,7 +78,7 @@
 			{#each confusion.members as member (member.id)}
 				{@const factor = getCetasika(member.id)}
 				<li>
-					<a href="/cetasikas/{member.id}">
+					<a href={resolve('/cetasikas/[slug]', { slug: member.id })}>
 						{#if factor}
 							<span lang="pi">{factor.pali}</span> — {factor.gloss}
 						{:else}
@@ -96,7 +97,7 @@
 
 	<nav class="pager" aria-label="Mix-ups">
 		{#if prev}
-			<a href="/confused/{prev.id}">
+			<a href={resolve('/confused/[id]', { id: prev.id })}>
 				<span>Previous</span>
 				<strong>{prev.title}</strong>
 			</a>
@@ -104,7 +105,7 @@
 			<span></span>
 		{/if}
 		{#if next}
-			<a class="next" href="/confused/{next.id}">
+			<a class="next" href={resolve('/confused/[id]', { id: next.id })}>
 				<span>Next</span>
 				<strong>{next.title}</strong>
 			</a>
